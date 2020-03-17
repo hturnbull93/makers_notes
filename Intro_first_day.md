@@ -228,7 +228,7 @@ Afternoon
 
 ## Remote Working
 
-[Skil Workshop on remote working](https://github.com/makersacademy/skills-workshops/blob/master/practicals/remote-learning/README.md)
+[Skill Workshop on remote working](https://github.com/makersacademy/skills-workshops/blob/master/practicals/remote-learning/README.md)
 
 Learning Objectives:
 
