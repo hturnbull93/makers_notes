@@ -1,5 +1,5 @@
 # Week Notes
 
-[Back](../README.md)
+[Back](../)
 
 - [Week 1](week1.md): Test Driven Development
