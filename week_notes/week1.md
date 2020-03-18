@@ -39,11 +39,3 @@ I will move towards the **Test-drive a simple program using objects and methods*
 ## Week 1 Afternoon Challenge - Boris Bikes
 
 [GitHub repo](https://github.com/hturnbull93/boris-bikes) with all Learning Objectives, notes, and code.
-
-### Domain Model
-
-<!-- Need to write notes -->
-
-### Feature tests
-
-<!-- Need to write notes -->
