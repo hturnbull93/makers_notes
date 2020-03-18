@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 - Test Driven Development & Debugging
 
 [Back](README.md)
 
