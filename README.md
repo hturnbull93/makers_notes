@@ -24,5 +24,5 @@ A collection of notes, learning objectives, evidence, and reflections.
 - [ ] I can justify the way I work
 - [ ] I grow collaboratively
 
-[Skills workshops]: https://github.com/hturnbull93/makers_notes/tree/master/skills_workshops
-[Week notes]: https://github.com/hturnbull93/makers_notes/tree/master/week_notes
+[Skills workshops]: skills_workshops
+[Week notes]: week_notes
