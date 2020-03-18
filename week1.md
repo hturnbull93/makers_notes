@@ -4,7 +4,7 @@
 
 ## Tuesday
 
-### AM - Debugging Workshop
+### Debugging Workshop
 
 [Skills Workshop - week 1 - debugging 1](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
 
@@ -23,7 +23,7 @@ I have completed the first three tests of the debugging examples
 
 ## Notes
 
-#### To debug, use a systematic approach
+### To debug, use a systematic approach
 
 **Tighten the loop**
 - Use error messages to find the line the bug is coming from.
@@ -37,3 +37,11 @@ I have completed the first three tests of the debugging examples
 - Once you have worked out the _one_ thing that is wrong, make the fix
 
 **DO NOT** try things at random and see if that fixes the code.
+
+## Afternoon Challenge - Boris Bikes
+
+[GitHub repo](https://github.com/hturnbull93/boris-bikes)
+
+### Domain Model
+
+### Feature tests
