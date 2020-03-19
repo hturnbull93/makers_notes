@@ -12,6 +12,7 @@
 
 **Achievement plans**
 - [x] Learn a systematic approach to debugging in the Debugging workshop
+- [ ] Complete the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
 
 
 ---
@@ -34,7 +35,16 @@ I will move towards the **Debug some programs that have errors in them, using an
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
 - [ ] Complete the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
-- [ ] Complete the Test Driving Exercises practical
+
+---
+
+## Thursday
+
+**Learning Objective & Achievement Plan**
+
+I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
+
+- [ ] Continue working on the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
 
 ---
 

@@ -20,6 +20,25 @@ I have worked on creating an TDD driven [dice app](https://github.com/hturnbull9
 
 ## Notes
 
+### Why do we write tests?
+
+- To check the functionality of the program is what we expect it to be
+- To make sure any changes to the program in the future do not break functionality
+- To make sure program doesn't do things we do not want
+- To force you to think about what you want out of ythe program
+- To demonstrate things about the program
+
+### Why do we write tests before production code?
+
+- To break down what we want to achieve into smaller pieces
+- So we do not write tests to justify production code that has already been written
+- Tests allow design to emerge from their satisfaction
+- **Testing is about what it does, not how it does it** (user doesn't care what is inside as long as it works)
+- So we do not write production code to solve problems we do not have
+
+
+### TDD mantra
+
 TDD is about doing the smallest incremental steps:
 - You are not allowed to write any production code unless it is to make a failing unit test pass.
 - You are not allowed to write any more of a unit test than is sufficient to fail.
