@@ -78,9 +78,14 @@ What feature they want | I want to be able to roll a dice | Rolling a dice shoul
 
 ### Domain Model
 
-Take the nouns and verbs from user stories and place them into a table
+Take the nouns and verbs from user stories and place them into a table.
 
-Object | Messages 
+- Nouns -> Objects
+- Verbs -> Messages
+
+Objects model objects, and Messages model methods.
+
+Objects | Messages 
 ---------|----------
 Board game player |  
 Developer |  
