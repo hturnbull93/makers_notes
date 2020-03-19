@@ -17,6 +17,16 @@
 
 ---
 
+## Monday
+
+**Learning Objective & Achievement Plan**
+
+I will become oriented with Makers' ethod, practices and meet the cohort by doing the following 
+
+- [x] Attend [First day intro]
+
+---
+
 ## Tuesday
 
 **Learning Objective & Achievement Plan**
@@ -54,5 +64,6 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 <!-- Links -->
 
+[First day introductions]: Intro_first_day.md
 [TDD process skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md
 [Debugging skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md

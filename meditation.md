@@ -2,7 +2,23 @@
 
 [Back](README.md)
 
+## Practice
+
+- Bear your head down and slowly close eyes
+
+**What can you sense**
+- What can you hear
+- What can you see
+- What can you smell
+- What can you taste
+- What can you feel
+
+<!-- add more here -->
+
+
 ## Aspects of Meditation
+
+<!-- Two other things I can not recall -->
 
 **Breath Party**
 - Treat your breath as the most important guest at a party
@@ -17,6 +33,8 @@
 ## Emotions
 
 ### Ways we process emotions unconciously 
+
+<!-- there was something before this -->
 
 **Supression**
 - Pushing down emotions about things

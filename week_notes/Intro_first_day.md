@@ -1,6 +1,8 @@
 # First Day: Intro to Makers
 
-[Schedule](https://airtable.com/shrTsLtIst8h6QiSZ?blocks=hide&mode=day&date=2020-03-16)
+[Back](README.md)
+
+[Today's Schedule](https://airtable.com/shrTsLtIst8h6QiSZ?blocks=hide&mode=day&date=2020-03-16)
 
 ## Dana’s Talk
 
