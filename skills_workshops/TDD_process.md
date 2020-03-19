@@ -51,6 +51,7 @@ TDD is about doing the smallest incremental steps:
 - **RED:** Code fails test (as it not yet written)
 - **GREEN:** Write the simplest possible code to pass the test
 - **REFACTOR:** Reorganise your code for readability and processing optimisation, but no not change functionality.
+- Write the next test
 
 Diagram:
 
