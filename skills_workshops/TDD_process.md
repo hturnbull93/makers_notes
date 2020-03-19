@@ -5,18 +5,18 @@
 **Learning Objectives**
 
 - [X] Explain why we do TDD
-- [x] Describe/diagram TDD as a set of steps
-- [x] Apply TDD following the diagram
+- [X] Describe/diagram TDD as a set of steps
+- [X] Apply TDD following the diagram
 
 **Achievement Plan**
 
-- [ ] Follow the TDD process to create a dice app
-- [ ] Create a specification from User stories
+- [X] Follow the TDD process to create a dice app
+- [X] Create a specification from User stories
 - [x] Practice writing TDD tests in `rspec`
 
 **Evidence**
 
-I have worked on creating an TDD driven [dice app](https://github.com/hturnbull93/dice-app)
+I have worked on creating an TDD'd [dice app](https://github.com/hturnbull93/dice-app)
 
 ## Notes
 
