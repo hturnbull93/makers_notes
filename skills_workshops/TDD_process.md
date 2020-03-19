@@ -36,7 +36,6 @@ I have worked on creating an TDD driven [dice app](https://github.com/hturnbull9
 - **Testing is about what it does, not how it does it** (user doesn't care what is inside as long as it works)
 - So we do not write production code to solve problems we do not have
 
-
 ### TDD mantra
 
 TDD is about doing the smallest incremental steps:
@@ -55,7 +54,7 @@ TDD is about doing the smallest incremental steps:
 
 ### Feature Tests vs Unit Tests
 
-Feature Test
+Feature Test (AKA Acceptance test)
 - Test the program with things a user would demand
 - Checks the program works properly for the user, with all parts interacting correctly overall
 - Written from a user's perspective, checking on functionality
@@ -77,10 +76,17 @@ User Story Structure | Example 1 | Example 2
 
  Take the nouns and verbs from user stories and place them into a table
 
-
 Object | Messages 
 ---------|----------
  Board game player |  
  Developer |  
  Dice | roll <br> 1-6 randomly <br> any number of dice <br> total score
  Game | record rolls
+
+### BDD - Behaviour Driven Development 
+
+[Source](https://github.com/makersacademy/course/blob/master/pills/bdd.md)
+
+BDD helps you to only do as much as you need to pass feature tests, meaning your codebase will be lean and as simple as possible.
+
+BDD reduces over-engineering.
