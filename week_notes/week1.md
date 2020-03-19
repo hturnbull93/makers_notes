@@ -44,7 +44,7 @@ I will move towards the **Test-drive a simple program using objects and methods*
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
 - [x] Work on the [TDD process skills workshop]
-- [ ] 
+
 ---
 
 ## Week 1 Afternoon Challenge - Boris Bikes
