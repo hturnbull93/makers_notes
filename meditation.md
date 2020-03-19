@@ -34,4 +34,13 @@
 - Engaging in excess of anything
 - Avoidance and procrastination
 
-### 
+Feeling the way you feel is okay
+
+
+### 4 7 8 breathing
+
+Helps in achieving 'heart rate variability'
+
+- Inhale for 4 counts
+- Hold for 7 counts, 
+- Exhale for 8 counts
