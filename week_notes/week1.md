@@ -8,12 +8,12 @@
 - [ ] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
 - [ ] Describe basic OO principles like encapsulation and SRP
-- [ ] Pair using the driver/navigator style
+- [x] Pair using the driver/navigator style
 
 **Achievement plans**
 - [x] Learn a systematic approach to debugging in the Debugging workshop
-- [ ] Complete the [TDD process skills workshop]
-- [x] Complete the [Debugging skills workshop]
+- [x] Work on the [TDD process skills workshop]
+- [x] Work on the [Debugging skills workshop]
 
 ---
 
@@ -23,8 +23,7 @@
 
 I will move towards the **Debug some programs that have errors in them, using an effective debugging process** goal by doing the following:
 
-- [x] Complete the [Debugging skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md)
-
+- [x] Work on the [Debugging skills workshop]
 
 ---
 
@@ -34,7 +33,8 @@ I will move towards the **Debug some programs that have errors in them, using an
 
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [x] Start the [TDD process skills workshop]
+- [x] Work on the [TDD process skills workshop]
+
 ---
 
 ## Thursday
@@ -43,7 +43,8 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [x] Continue working on the [TDD process skills workshop]
+- [x] Work on the [TDD process skills workshop]
+- [ ] 
 ---
 
 ## Week 1 Afternoon Challenge - Boris Bikes
