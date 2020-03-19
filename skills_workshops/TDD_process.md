@@ -52,6 +52,10 @@ TDD is about doing the smallest incremental steps:
 - **GREEN:** Write the simplest possible code to pass the test
 - **REFACTOR:** Reorganise your code for readability and processing optimisation, but no not change functionality.
 
+Diagram:
+
+![TDD Diagram](../images/TDD_diagram.jpg)
+
 ### Feature Tests vs Unit Tests
 
 Feature Test (AKA Acceptance test)
@@ -68,25 +72,31 @@ Unit Test
 
 User Story Structure | Example 1 | Example 2
 ---------|----------|---------
- Who the story is from | As a board game player, | As a board game player,
- The reason for this feature | So that I can play a game | So that I know how many steps I should move
- What feature they want | I want to be able to roll a dice | Rolling a dice should give me a number between 1 and 6
+Who the story is from | As a board game player, | As a board game player,
+The reason for this feature | So that I can play a game | So that I know how many steps I should move
+What feature they want | I want to be able to roll a dice | Rolling a dice should give me a number between 1 and 6
 
- ### Domain Model
+### Domain Model
 
- Take the nouns and verbs from user stories and place them into a table
+Take the nouns and verbs from user stories and place them into a table
 
 Object | Messages 
 ---------|----------
- Board game player |  
- Developer |  
- Dice | roll <br> 1-6 randomly <br> any number of dice <br> total score
- Game | record rolls
+Board game player |  
+Developer |  
+Dice | roll <br> 1-6 randomly <br> any number of dice <br> total score
+Game | record rolls
 
 ### BDD - Behaviour Driven Development 
 
 [Source](https://github.com/makersacademy/course/blob/master/pills/bdd.md)
 
-BDD helps you to only do as much as you need to pass feature tests, meaning your codebase will be lean and as simple as possible.
+- AKA Outside-In development
 
-BDD reduces over-engineering.
+- BDD helps you to only do as much as you need to pass feature tests, meaning your codebase will be lean and as simple as possible.
+
+- BDD reduces over-engineering.
+
+- Users want features that work, they don't care at all about the code.
+
+- Developers like nice clean code.
