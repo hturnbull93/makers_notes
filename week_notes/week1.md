@@ -12,8 +12,8 @@
 
 **Achievement plans**
 - [x] Learn a systematic approach to debugging in the Debugging workshop
-- [ ] Complete the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
-
+- [ ] Complete the [TDD process skills workshop]
+- [x] Complete the [Debugging skills workshop]
 
 ---
 
@@ -23,7 +23,7 @@
 
 I will move towards the **Debug some programs that have errors in them, using an effective debugging process** goal by doing the following:
 
-- [ ] Complete the [Debugging skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md)
+- [x] Complete the [Debugging skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md)
 
 
 ---
@@ -34,8 +34,7 @@ I will move towards the **Debug some programs that have errors in them, using an
 
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [ ] Complete the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
-
+- [x] Start the [TDD process skills workshop]
 ---
 
 ## Thursday
@@ -44,10 +43,15 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [ ] Continue working on the [TDD process skills workshop](https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md)
-
+- [x] Continue working on the [TDD process skills workshop]
 ---
 
 ## Week 1 Afternoon Challenge - Boris Bikes
 
 [GitHub repo](https://github.com/hturnbull93/boris-bikes) with all Learning Objectives, notes, and code.
+
+
+<!-- Links -->
+
+[TDD process skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md
+[Debugging skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md
