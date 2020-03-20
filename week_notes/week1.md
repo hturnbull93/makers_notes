@@ -63,8 +63,8 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 I will expand my knowledge for the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [ ] Work on the [Mocking skills workshop]
-- [x] Work on the [Mocking skills workshop]
+- [ ] Work on the [Test Driving practical]
+- [ ] If i have time work on the [Mocking skills workshop]
 
 ---
 
@@ -79,3 +79,4 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 [TDD process skills workshop]: ../skills_workshops/TDD_process.md
 [Debugging skills workshop]: ../skills_workshops/debugging.md
 [Mocking skills workshop]: ../skills_workshops/mocking.md
+[Test Driving practical]: ../practicals/test_driving_practice.md
