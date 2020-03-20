@@ -5,8 +5,8 @@
 ## Instructions
 
 - Test-drive an implementation of the requirements
-- Make sure your code is linted
-- Open a PR when you've finished
+- Make sure your code is [linted](https://github.com/rubocop-hq/rubocop)
+- [Open a PR](https://services.github.com/on-demand/github-cli/open-pull-request-github) when you've finished
 
 ## Requirements
 
