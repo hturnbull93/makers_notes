@@ -63,8 +63,8 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 I will expand my knowledge for the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [ ] Work on the [Test Driving practical]
-- [ ] If i have time work on the [Mocking skills workshop]
+- [x] Work on the [Test Driving practical]
+- [ ] If I have time work on the [Mocking skills workshop]
 
 ---
 
@@ -72,6 +72,14 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 
 [GitHub repo](https://github.com/hturnbull93/boris-bikes) with all Learning Objectives, notes, and code.
 
+---
+
+## Retrospective
+
+### asd
+
+
+---
 
 <!-- Links -->
 

@@ -2,7 +2,7 @@
 
 A collection of notes, learning objectives, evidence, and reflections.
 
-[Skills workshops] | [Week notes] | [Meditation]
+[Skills workshops] | [Week notes] | [Restrospectives] | [Meditation]
 
 ## Course Goals
 
@@ -26,4 +26,5 @@ A collection of notes, learning objectives, evidence, and reflections.
 
 [Skills workshops]: skills_workshops/README.md
 [Week notes]: week_notes/README.md
+[Restrospectives]: retro.md
 [Meditation]: meditation.md
