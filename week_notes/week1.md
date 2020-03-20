@@ -5,7 +5,7 @@
 [Week 1 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-1)
 
 **Week 1 Learning Objectives**
-- [ ] Test-drive a simple program using objects and methods
+- [x] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
 - [ ] Describe basic OO principles like encapsulation and SRP
 - [x] Pair using the driver/navigator style
@@ -76,11 +76,33 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 
 ## Retrospective
 
-### asd
+### Personal reflections
 
+**Achievements this week**
+- [x] Test-drive a simple program using objects and methods
+- [x] Debug some programs that have errors in them, using an effective debugging process
+- [ ] Describe basic OO principles like encapsulation and SRP
+- [x] Pair using the driver/navigator style
 
+### Score: 8
+
+**Reasons for Score**
+- I feel confident about the Test-drive using objects and methods and pairing from working on the Boris Bikes project.
+- The debugging workshop gave me a good understanding of how to debug effectively using tighten loop, get visibility and fix to work through error messages systematically.
+- Though I haven't covered the OO principles in detail, I feel I have had enough exposure to these concepts through the Boris Bikes project, to be able to reasonably explain them.
+
+### Material to re-cover
+
+- I would read more about encapsulation and SRP to make sure my understanding is rock solid.
+- I would get more practice with implementing unit tests in TDD as I feel I don't use them as often as I should, but I am not sure.
+- I would read more about mocking and doubles in TDD, as I haven't got to the point where I have actually used those yet. I would then apply them in a small project.
 ---
 
+## Week 1 Weekend Challenge - Airport
+
+[GitHub repo](###) with all Learning Objectives, notes, and code.
+
+---
 <!-- Links -->
 
 [First day intro]: Intro_first_day.md
