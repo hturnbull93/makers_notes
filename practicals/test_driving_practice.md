@@ -20,3 +20,14 @@ I want a program that I can load in IRB that allows me to
 
 - Test-drive extracting a birthday class
 - Isolate your birthday list class using a mock for Birthday
+
+## More resources:
+
+### TDD resources
+
+- https://github.com/makersacademy/course/blob/master/pills/tdd.md
+- https://github.com/makersacademy/course/blob/master/pills/tdd_quality_discussion.md
+
+### Mocking
+
+- https://relishapp.com/rspec/rspec-mocks/docs/basics/test-doubles
