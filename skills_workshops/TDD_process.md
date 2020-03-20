@@ -1,6 +1,6 @@
 # The TDD Process - Skills Workshop
 
-[Skills Workshop - week 1 - TDD process](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md) | [Additional notes](https://github.com/makersacademy/course/blob/master/pills/tdd.md)
+[All Workshops](README.md) | [Skills Workshop Source](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md) | [Additional notes](https://github.com/makersacademy/course/blob/master/pills/tdd.md)
 
 **Learning Objectives**
 

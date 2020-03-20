@@ -53,7 +53,17 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 I will move towards the **Test-drive a simple program using objects and methods** goal by doing the following:
 
-- [x] Work on the [TDD process skills workshop]
+- [x] Continue work on the [TDD process skills workshop]
+
+---
+
+## Friday
+
+**Learning Objective & Achievement Plan**
+
+I will expand my knowledge for the **Test-drive a simple program using objects and methods** goal by doing the following:
+
+- [x] Work on the [Mocking skills workshop]
 
 ---
 
@@ -64,6 +74,7 @@ I will move towards the **Test-drive a simple program using objects and methods*
 
 <!-- Links -->
 
-[First day introductions]: Intro_first_day.md
+[First day intro]: Intro_first_day.md
 [TDD process skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/TDD_process.md
 [Debugging skills workshop]: https://github.com/hturnbull93/makers_notes/blob/master/skills_workshops/debugging.md
+[Mocking skills workshop]: 
