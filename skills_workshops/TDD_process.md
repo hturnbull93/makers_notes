@@ -39,9 +39,9 @@ I have worked on creating an TDD'd [dice app](https://github.com/hturnbull93/dic
 ### TDD mantra
 
 TDD is about doing the smallest incremental steps:
-- You are not allowed to write any production code unless it is to make a failing unit test pass.
-- You are not allowed to write any more of a unit test than is sufficient to fail.
-- You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+- Only write the simplest test in order to fail
+- Only write production code to pass a test
+- Don't write more code than is needed to pass a test
 
 ### TDD Diagram
 
