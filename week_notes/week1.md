@@ -76,9 +76,8 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 
 ## Retrospective
 
-### Personal reflections
+### Achievements this week
 
-**Achievements this week**
 - [x] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
 - [ ] Describe basic OO principles like encapsulation and SRP
