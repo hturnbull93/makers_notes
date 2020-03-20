@@ -21,7 +21,7 @@
 
 **Learning Objective & Achievement Plan**
 
-I will become oriented with Makers' ethod, practices and meet the cohort by doing the following 
+I will become oriented with Makers' ethos, practices and meet the cohort by doing the following:
 
 - [x] Attend [First day intro]
 
