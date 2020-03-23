@@ -1,4 +1,4 @@
-# Week 2 - 
+# Week 2 - Object Oriented Programming
 
 [Back](README.md)
 
@@ -15,6 +15,7 @@
 **Achievement plans**
 
 - [x] Work on the [Code Review skills workshop]
+- [ ] Attend a Process Review
 
 
 ---
@@ -61,3 +62,4 @@ I will move towards the **Review another person's code and give them meaningful 
 
 <!-- Links -->
 
+[Code Review skills workshop]: ../skills_workshops/code_review.md
