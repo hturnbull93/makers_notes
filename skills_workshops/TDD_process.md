@@ -26,7 +26,7 @@
 - To check the functionality of the program is what we expect it to be
 - To make sure any changes to the program in the future do not break functionality
 - To make sure program doesn't do things we do not want
-- To force you to think about what you want out of ythe program
+- To force you to think about what you want out of the program
 - To demonstrate things about the program
 
 ### Why do we write tests before production code?
@@ -66,7 +66,7 @@ Feature Test (AKA Acceptance test)
 - Written from a user's perspective, checking on functionality
 
 Unit Test
-- Test an individual function or method, with mocked up dependancies
+- Test an individual function or method, with mocked up dependencies
 - Checks this individual part does what you expect
 - Written from a programmers perspective, checking on parts that a user will never see
 
