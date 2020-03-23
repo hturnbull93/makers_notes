@@ -5,9 +5,15 @@
 [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
 **Week 2 Learning Objectives**
-- [ ] 
+
+- [ ] Use all of week 1's skills (don't underestimate the importance of this)
+- [ ] Break one class into two classes that work together, while maintaining test coverage
+- [ ] Unit test classes in isolation using mocking
+- [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- [ ] Review another person's code and give them meaningful feedback
 
 **Achievement plans**
+
 - [ ] 
 
 ---
@@ -16,13 +22,13 @@
 
 **Learning Objective & Achievement Plan**
 
-I will learn to prepare my code for review and :
+I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
 - [x] Attend [code review] skills workshop for weekend challenge
 
 ---
 
-## Week 2 Afternoon Challenge - XXX
+## Week 2 Afternoon Challenge - Oystercard
 
 [GitHub repo](#) with all Learning Objectives, notes, and code.
 
@@ -46,7 +52,7 @@ I will learn to prepare my code for review and :
 
 ---
 
-## Week 2 Weekend Challenge - XXX
+## Week 2 Weekend Challenge - Takeaway
 
 [GitHub repo](###) with all Learning Objectives, notes, and code.
 
