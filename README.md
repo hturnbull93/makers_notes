@@ -2,7 +2,7 @@
 
 A collection of notes, learning objectives, evidence, and reflections.
 
-[Skills workshops] | [Week notes] | [Restrospectives] | [Meditation]
+[Skills workshops] | [Week notes] | [Retrospectives] | [Meditation]
 
 ## Course Goals
 
@@ -15,7 +15,7 @@ A collection of notes, learning objectives, evidence, and reflections.
 - [ ] I have a methodical approach to solving problems
 
 **Long Term Growth**
-- [ ] I manage my own wellbeing
+- [ ] I manage my own well-being
 - [ ] I can learn anything by myself
 
 **Team Success**
