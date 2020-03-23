@@ -16,7 +16,8 @@
 
 **Evidence**
 
-I have worked on creating an TDD'd [dice app](https://github.com/hturnbull93/dice-app)
+- I have worked on creating an TDD'd [dice app](https://github.com/hturnbull93/dice-app)
+- I have written an article describing the basics of TDD on [Medium](https://medium.com/@hturnbull93/t-e-oa-st-driven-development-adeb863e6e3c).
 
 ## Notes
 
