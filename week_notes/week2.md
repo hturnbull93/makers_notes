@@ -15,7 +15,7 @@
 **Achievement plans**
 
 - [x] Work on the [Code Review skills workshop]
-- [ ] Attend a Process Review
+- [x] Attend a [Process Review workshop](../process_workshop.md) 
 
 
 ---
@@ -27,13 +27,13 @@
 I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
 - [x] Attend [Code Review skills workshop] to review weekend challenge
-- [x] Attend [Process Workshop](../process_workshop.md#23-March) to give and receive feedback on the programming process
+- [x] Attend [Process Workshop](../process_workshop.md#23-march) to give and receive feedback on the programming process
 
 ---
 
 ## Week 2 Afternoon Challenge - Oystercard
 
-[GitHub repo](#) with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/oystercard) with all Learning Objectives, notes, and code.
 
 ---
 
