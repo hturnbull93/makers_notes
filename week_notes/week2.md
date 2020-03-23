@@ -16,7 +16,7 @@
 
 **Learning Objective & Achievement Plan**
 
-I will become oriented with Makers' ethos, practices and meet the cohort by doing the following:
+I will learn to prepare my code for review and :
 
 - [x] Attend [code review] skills workshop for weekend challenge
 
