@@ -99,7 +99,7 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 
 ## Week 1 Weekend Challenge - Airport
 
-[GitHub repo](###) with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/airport_challenge) with all Learning Objectives, notes, and code.
 
 ---
 <!-- Links -->
