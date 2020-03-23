@@ -46,7 +46,7 @@ Feeling the way you feel is okay
 
 <!-- there was something before this -->
 
-**Supression**
+**Suppression**
 - Pushing down emotions about things
 - Must come out sooner or later
 - Often in behaviours and physiological things like headaches
