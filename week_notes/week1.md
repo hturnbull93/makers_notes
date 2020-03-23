@@ -5,12 +5,14 @@
 [Week 1 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-1)
 
 **Week 1 Learning Objectives**
+
 - [x] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
 - [ ] Describe basic OO principles like encapsulation and SRP
 - [x] Pair using the driver/navigator style
 
 **Achievement plans**
+
 - [x] Learn a systematic approach to debugging in the Debugging workshop
 - [x] Work on the [TDD process skills workshop]
 - [x] Work on the [Debugging skills workshop]

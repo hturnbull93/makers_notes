@@ -10,11 +10,12 @@
 - [ ] Break one class into two classes that work together, while maintaining test coverage
 - [ ] Unit test classes in isolation using mocking
 - [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
-- [ ] Review another person's code and give them meaningful feedback
+- [x] Review another person's code and give them meaningful feedback
 
 **Achievement plans**
 
-- [ ] 
+- [x] Work on the [Code Review skills workshop]
+
 
 ---
 
@@ -24,7 +25,7 @@
 
 I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
-- [x] Attend [code review] skills workshop for weekend challenge
+- [x] Attend [Code Review skills workshop] to review weekend challenge
 
 ---
 
