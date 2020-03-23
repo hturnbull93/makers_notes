@@ -27,6 +27,7 @@
 I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
 - [x] Attend [Code Review skills workshop] to review weekend challenge
+- [x] Attend [Process Workshop](../process_workshop.md#23-March) to give and receive feedback on the programming process
 
 ---
 

@@ -32,6 +32,7 @@ A collection of notes, learning objectives, evidence, and reflections.
 
 [Skills workshops]: skills_workshops/README.md
 [Week notes]: week_notes/README.md
+[Process workshops]: process_workshops.md
 [Retrospectives]: retro.md
 [Meditation]: meditation.md
 [Medium Blog]: https://medium.com/@hturnbull93
