@@ -24,7 +24,10 @@ A collection of notes, learning objectives, evidence, and reflections.
 - [ ] I can justify the way I work
 - [ ] I grow collaboratively
 
+
+<!-- Links -->
+
 [Skills workshops]: skills_workshops/README.md
 [Week notes]: week_notes/README.md
-[Restrospectives]: retro.md
+[Retrospectives]: retro.md
 [Meditation]: meditation.md
