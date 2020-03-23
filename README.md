@@ -2,11 +2,12 @@
 
 A collection of notes, learning objectives, evidence, and reflections.
 
-[Skills workshops] | [Week notes] | [Retrospectives] | [Meditation]
+[Skills workshops] | [Week notes] | [Retrospectives] | [Meditation] | [Medium Blog]
 
 ## Course Goals
 
 **Software**
+
 - [ ] I can TDD anything
 - [ ] I can program fluently
 - [ ] I can debug anything
@@ -15,10 +16,12 @@ A collection of notes, learning objectives, evidence, and reflections.
 - [ ] I have a methodical approach to solving problems
 
 **Long Term Growth**
+
 - [ ] I manage my own well-being
 - [ ] I can learn anything by myself
 
 **Team Success**
+
 - [ ] I use an agile product development process
 - [ ] I write code that is easy to change
 - [ ] I can justify the way I work
@@ -31,3 +34,4 @@ A collection of notes, learning objectives, evidence, and reflections.
 [Week notes]: week_notes/README.md
 [Retrospectives]: retro.md
 [Meditation]: meditation.md
+[Medium Blog]: https://medium.com/@hturnbull93
