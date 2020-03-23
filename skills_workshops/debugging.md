@@ -1,6 +1,6 @@
 # Debugging - Skills Workshop
 
-[All Workshops](README.md) | [Skills Workshop Source](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
+[All Workshops](README.md) | [Source](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
 
 **Learning Objectives**
 
