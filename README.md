@@ -2,7 +2,7 @@
 
 A collection of notes, learning objectives, evidence, and reflections.
 
-[Skills workshops] | [Week notes] | [Retrospectives] | [Meditation] | [Medium Blog]
+[Skills workshops] | [Week notes] | [Process workshops] | [Retrospectives] | [Meditation] | [Medium Blog]
 
 ## Course Goals
 
