@@ -4,18 +4,18 @@
 
 **Learning Objectives**
 
-- [ ] Describe a domain model as the nouns and verbs in a program, and the relationships between them.
-- [ ] Explain how you use domain model diagramming in your development process.
-- [ ] Use domain model diagramming to help you write better code.
+- [x] Describe a domain model as the nouns and verbs in a program, and the relationships between them.
+- [x] Explain how you use domain model diagramming in your development process.
+- [x] Use domain model diagramming to help you write better code.
 
 **Achievement Plan**
 
-- [ ] 
-- [ ] 
+- [x] Practice making a class diagram from user stories
+- [x] Implement some skeleton code based on the diagram
 
 **Evidence**
 
-
+I have created a small program emulating a notebook based on a class diagram I made from user stories.
 
 ## Notes
 
