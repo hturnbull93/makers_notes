@@ -80,7 +80,36 @@ User stories for a Notebook
 
 ![Notebook Example][Notebook example]
 
-A basic implementation following the diagram
+**A skeleton implementation following the diagram:**
+
+```ruby
+class Notebook
+  def initialize
+    @notes = []
+  end
+
+  def keep(note)
+    @notes << note
+  end
+
+  def search_by_tag(tag)
+    # filters @notes array by passed tag, prints those notes
+  end
+
+end
+
+class Note
+  def initialize(information)
+    @information = information
+  end
+
+  attr_reader :tag, :information
+
+  def categorise(tag)
+    @tag
+  end
+end
+```
 
 ### Don't get lost in the tools
 
