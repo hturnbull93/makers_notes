@@ -80,9 +80,9 @@ User stories for a Notebook
 
 ![Notebook Example][Notebook example]
 
-**A skeleton implementation following the diagram:**
+**A skeleton implementation following the diagram**
 
-```ruby
+```
 class Notebook
   def initialize
     @notes = []
@@ -120,19 +120,15 @@ Unified Modelling Language is a standard maintained by the Object Management Gro
 
 This standard will allow devs to diagram any domain model diagram they come across, without needing to work out the notation.
 
-**Use-case diagram:** illustrates a unit of functionality provided by the system. Includes "actors", the people that do the action.
-
-**Class diagram:** shows how the different entities (people, things, and data) relate to each other.
-
-**Sequence diagram:** shows a detailed flow for a specific use case or even just part of a specific use case.
-
-**State-chart diagram:** models the different states that a class can be in and how that class transitions from state to state.
-
-**Activity diagram:** shows the procedural flow of control between two or more class objects while processing an activity.
-
-**Component diagram:** provides a physical view of the system. Its purpose is to show the dependencies that the software has on the other software components (e.g., software libraries) in the system.
-
-**Deployment diagram:** shows how a system will be physically deployed in the hardware environment.
+Diagram | Explanation
+------- | -------
+**Use-case diagram** | illustrates a unit of functionality provided by the system. Includes "actors", the people that do the action.
+**Class diagram** | shows how the different entities (people, things, and data) relate to each other.
+**Sequence diagram** | shows a detailed flow for a specific use case or even just part of a specific use case.
+**State-chart diagram** | models the different states that a class can be in and how that class transitions from state to state.
+**Activity diagram** | shows the procedural flow of control between two or more class objects while processing an activity.
+**Component diagram** | provides a physical view of the system. Its purpose is to show the dependencies that the software has on the other software components (e.g., software libraries) in the system.
+**Deployment diagram** | shows how a system will be physically deployed in the hardware environment.
 
 [Intro to UML]
 
