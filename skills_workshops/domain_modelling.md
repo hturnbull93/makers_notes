@@ -106,7 +106,7 @@ class Note
   attr_reader :tag, :information
 
   def categorise(tag)
-    @tag
+    @tag = tag
   end
 end
 ```
