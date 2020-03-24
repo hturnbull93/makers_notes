@@ -6,7 +6,7 @@
 
 **Week 2 Learning Objectives**
 
-- [ ] Use all of week 1's skills (don't underestimate the importance of this)
+- [ ] Use all of week 1's skills
 - [ ] Break one class into two classes that work together, while maintaining test coverage
 - [ ] Unit test classes in isolation using mocking
 - [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
@@ -15,8 +15,7 @@
 **Achievement plans**
 
 - [x] Work on the [Code Review skills workshop]
-- [x] Attend a [Process Review workshop](../process_workshop.md) 
-
+- [x] Attend a [Process Review workshop]
 
 ---
 
@@ -30,6 +29,17 @@ I will move towards the **Review another person's code and give them meaningful 
 - [x] Attend [Process Workshop](../process_workshop.md#23-march) to give and receive feedback on the programming process
 
 ---
+
+## Tuesday
+
+**Learning Objective & Achievement Plan**
+
+I will move towards the **Use all of week 1's skills** by doing the following:
+
+- [x] Attend the Domain Modelling skills workshop
+
+---
+
 
 ## Week 2 Afternoon Challenge - Oystercard
 
@@ -64,3 +74,5 @@ I will move towards the **Review another person's code and give them meaningful 
 <!-- Links -->
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
+[Process Review workshop]: ../process_workshop.md 
+[Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
