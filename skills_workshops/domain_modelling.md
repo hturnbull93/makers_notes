@@ -82,7 +82,7 @@ User stories for a Notebook
 
 **A skeleton implementation following the diagram**
 
-```
+```ruby
 class Notebook
   def initialize
     @notes = []
