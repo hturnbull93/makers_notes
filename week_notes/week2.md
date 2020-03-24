@@ -36,7 +36,7 @@ I will move towards the **Review another person's code and give them meaningful 
 
 I will move towards the **Use all of week 1's skills** by doing the following:
 
-- [x] Attend the Domain Modelling skills workshop
+- [x] Attend the [Domain Modelling skills workshop]
 
 ---
 
@@ -46,7 +46,7 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 [GitHub repo](https://github.com/hturnbull93/oystercard) with all Learning Objectives, notes, and code.
 
 ---
-
+<!-- TO COME
 ## Retrospective
 
 ### Achievements this week
@@ -70,7 +70,7 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 [GitHub repo](###) with all Learning Objectives, notes, and code.
 
 ---
-
+ -->
 <!-- Links -->
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
