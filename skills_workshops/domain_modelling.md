@@ -95,7 +95,6 @@ class Notebook
   def search_by_tag(tag)
     # filters @notes array by passed tag, prints those notes
   end
-
 end
 
 class Note
