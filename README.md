@@ -2,7 +2,7 @@
 
 A collection of notes, learning objectives, evidence, and reflections.
 
-[Skills workshops] | [Week notes] | [Process workshops] | [Retrospectives] | [Meditation] | [Medium Blog]
+[Skills workshops] | [Week notes] | [Process workshops] | [Achieving Goals] | [Retrospectives] | [Meditation] | [Medium Blog]
 
 ## Course Goals
 
@@ -33,6 +33,7 @@ A collection of notes, learning objectives, evidence, and reflections.
 [Skills workshops]: skills_workshops/README.md
 [Week notes]: week_notes/README.md
 [Process workshops]: process_workshops.md
+[Achieving Goals]: achieving_goals.md
 [Retrospectives]: retro.md
 [Meditation]: meditation.md
 [Medium Blog]: https://medium.com/@hturnbull93
