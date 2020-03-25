@@ -42,9 +42,13 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Use all of week 1's skills** by doing the following:
+I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
 - [x] Attend the [Feedback skills workshop]
+
+I will move towards the **Unit test classes in isolation using mocking** by doing the following:
+
+- [ ] Work on the [Mocking with RSpec practical]
 
 ---
 
@@ -85,3 +89,4 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
+[Mocking with RSpec practical] ../practicals/mocking_with_rspec.md
