@@ -2,7 +2,7 @@
 
 [Back](README.md) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
-**Week 2 Learning Objectives**
+Week 2 Learning Objectives
 
 - [ ] Use all of week 1's skills
 - [ ] Break one class into two classes that work together, while maintaining test coverage
@@ -10,7 +10,7 @@
 - [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - [x] Review another person's code and give them meaningful feedback
 
-**Achievement plans**
+Achievement plans
 
 - [x] Work on the [Code Review skills workshop]
 - [x] Attend a [Process Review workshop]
@@ -19,7 +19,7 @@
 
 ## Monday
 
-**Learning Objective & Achievement Plan**
+Learning Objective & Achievement Plan
 
 I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
 
@@ -30,7 +30,7 @@ I will move towards the **Review another person's code and give them meaningful 
 
 ## Tuesday
 
-**Learning Objective & Achievement Plan**
+Learning Objective & Achievement Plan
 
 I will move towards the **Use all of week 1's skills** by doing the following:
 
@@ -40,7 +40,7 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 
 ## Wednesday
 
-**Learning Objective & Achievement Plan**
+Learning Objective & Achievement Plan
 
 I will move towards the **Use all of week 1's skills** by doing the following:
 
