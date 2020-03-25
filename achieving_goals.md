@@ -1,6 +1,6 @@
 # Achieving Goals
 
-## Goals / Learning Objectives
+## Goals/Learning Objectives
 
 ## Achievement Plans
 
