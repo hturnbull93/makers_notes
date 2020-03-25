@@ -90,10 +90,10 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 [TDD process skills workshop]: ../skills_workshops/TDD_process.md
 [Debugging skills workshop]: ../skills_workshops/debugging.md
 [Mocking skills workshop]: ../skills_workshops/mocking.md
-[Test Driving practical]: ../practicals/test_driving_practice.md
+[Test Driving practical]: ../skills_workshops/test_driving_practice.md
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
-[Mocking with RSpec practical]: ../practicals/mocking_with_rspec.md
+[Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
