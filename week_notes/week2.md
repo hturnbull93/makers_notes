@@ -89,4 +89,4 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
-[Mocking with RSpec practical] ../practicals/mocking_with_rspec.md
+[Mocking with RSpec practical]: ../practicals/mocking_with_rspec.md
