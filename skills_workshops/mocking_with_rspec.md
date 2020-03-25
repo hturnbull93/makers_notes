@@ -1,4 +1,6 @@
-# Mocking With Rspec Practice - Birthdays
+# Mocking With Rspec Practice
+
+[All Workshops](README.md) | [Source](https://github.com/makersacademy/skills-workshops/tree/master/week-2/mocking_2)
 
 Learning Objectives
 
