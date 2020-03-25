@@ -48,7 +48,8 @@ I will move towards the **Review another person's code and give them meaningful 
 
 I will move towards the **Unit test classes in isolation using mocking** by doing the following:
 
-- [ ] Work on the [Mocking with RSpec practical]
+- [x] Work on the [Mocking skills workshop] from week 1
+- [ ] If I have time work on the [Mocking with RSpec practical]
 
 ---
 
@@ -84,6 +85,12 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 ---
  -->
 <!-- Links -->
+
+[First day intro]: Intro_first_day.md
+[TDD process skills workshop]: ../skills_workshops/TDD_process.md
+[Debugging skills workshop]: ../skills_workshops/debugging.md
+[Mocking skills workshop]: ../skills_workshops/mocking.md
+[Test Driving practical]: ../practicals/test_driving_practice.md
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
