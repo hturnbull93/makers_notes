@@ -1,8 +1,6 @@
 # Week 2 - Object Oriented Programming
 
-[Back](README.md)
-
-[Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
+[Back](README.md) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
 **Week 2 Learning Objectives**
 
@@ -37,6 +35,16 @@ I will move towards the **Review another person's code and give them meaningful 
 I will move towards the **Use all of week 1's skills** by doing the following:
 
 - [x] Attend the [Domain Modelling skills workshop]
+
+---
+
+## Wednesday
+
+**Learning Objective & Achievement Plan**
+
+I will move towards the **Use all of week 1's skills** by doing the following:
+
+- [x] Attend the [Feedback skills workshop]
 
 ---
 
@@ -76,3 +84,4 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
+[Feedback skills workshop]: ../skills_workshops/feedback.md
