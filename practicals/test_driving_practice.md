@@ -1,18 +1,17 @@
 # Test Driving Practice - Birthdays
 
-
-**Learning Objectives**
+Learning Objectives
 
 - [X] Practice developing with TDD
 - [X] Practice creating Domain Models
 
-**Achievement Plan**
+Achievement Plan
 
 - [X] Follow the TDD process to create a birthday tracker app
 - [X] Create a Domain Model from User stories
 - [x] Practice writing TDD tests in `rspec`
 
-**Evidence**
+Evidence
 
 I have worked on creating an TDD'd [Birthday Tracker app](https://github.com/hturnbull93/birthdays)
 
