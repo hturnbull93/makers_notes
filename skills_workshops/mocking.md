@@ -44,7 +44,7 @@ class Answer
   end
 end
 
-Answer.new(10, 10)
+an_answer = Answer.new(10, 10)
 ```
 
 A mocked Answer object in rspec:
