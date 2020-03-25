@@ -1,5 +1,7 @@
 # Achieving Goals
 
+[Back to Course Goals](README.md) | [Reflective Learning] | [Progress Insight]
+
 ## Goals/Learning Objectives
 
 ## Achievement Plans
@@ -15,3 +17,8 @@
 | Skills | Performance exercises, video-taped performances, etc, with ratings by observers
 | Attitudes | Attitudinal rating scales; performance in real situations, role playing, simulation games, critical incident-cases, etc, with feedback from participants and /or observers.
 | Values | Value rating scales; performance in value clarification groups, critical incident cases, simulation exercises, etc, with feedback from participants and/or observers.
+
+<!-- Links -->
+
+[Progress Insight]: https://github.com/makersacademy/course/blob/master/goals/progress_insight.md
+[Reflective Learning]: https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md
