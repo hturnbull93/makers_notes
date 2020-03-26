@@ -51,7 +51,6 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 - [x] Work on the [Mocking skills workshop] from week 1
 - [ ] If I have time work on the [Mocking with RSpec practical]
 
-
 ---
 
 ## Thursday
@@ -63,7 +62,6 @@ I will move towards the **Break one class into two classes that work together, w
 - [x] Work on the [Refactoring skills workshop]
 
 ---
-
 
 ## Week 2 Afternoon Challenge - Oystercard
 
