@@ -6,7 +6,7 @@ Week 2 Learning Objectives
 
 - [ ] Use all of week 1's skills
 - [ ] Break one class into two classes that work together, while maintaining test coverage
-- [ ] Unit test classes in isolation using mocking
+- [x] Unit test classes in isolation using mocking
 - [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - [x] Review another person's code and give them meaningful feedback
 
@@ -51,6 +51,19 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 - [x] Work on the [Mocking skills workshop] from week 1
 - [ ] If I have time work on the [Mocking with RSpec practical]
 
+
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Break one class into two classes that work together, while maintaining test coverage** by doing the following:
+
+- [ ] Work on the [Refactoring skills workshop]
+
+I will mote towards the **Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)** by doing the following:
+
 ---
 
 
@@ -83,8 +96,11 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 [GitHub repo](###) with all Learning Objectives, notes, and code.
 
 ---
- -->
+-->
+
 <!-- Links -->
+
+<!-- From Week 1 -->
 
 [First day intro]: Intro_first_day.md
 [TDD process skills workshop]: ../skills_workshops/TDD_process.md
@@ -92,8 +108,11 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 [Mocking skills workshop]: ../skills_workshops/mocking.md
 [Test Driving practical]: ../skills_workshops/test_driving_practice.md
 
+<!-- New in Week 2 -->
+
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
+[Refactoring skills workshop]: ../skills_workshops/refactoring.md
