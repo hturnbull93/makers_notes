@@ -58,11 +58,9 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Break one class into two classes that work together, while maintaining test coverage** by doing the following:
+I will move towards the **Break one class into two classes that work together, while maintaining test coverage** and **Explain some basic OO principles and tie them to high level concerns** by doing the following:
 
-- [ ] Work on the [Refactoring skills workshop]
-
-I will mote towards the **Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)** by doing the following:
+- [x] Work on the [Refactoring skills workshop]
 
 ---
 
