@@ -4,10 +4,10 @@
 
 Week 2 Learning Objectives
 
-- [ ] Use all of week 1's skills
-- [ ] Break one class into two classes that work together, while maintaining test coverage
+- [x] Use all of week 1's skills
+- [x] Break one class into two classes that work together, while maintaining test coverage
 - [x] Unit test classes in isolation using mocking
-- [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- [x] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - [x] Review another person's code and give them meaningful feedback
 
 Achievement plans
@@ -79,22 +79,31 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 [GitHub repo](https://github.com/hturnbull93/oystercard) with all Learning Objectives, notes, and code.
 
 ---
-<!-- TO COME
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] 
+- [x] Use all of week 1's skills
+- [x] Break one class into two classes that work together, while maintaining test coverage
+- [x] Unit test classes in isolation using mocking
+- [x] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- [x] Review another person's code and give them meaningful feedback
 
-### Score: $
+### Score: 9
 
-**Reasons for Score**
-- 
+#### Reasons for Score
+
+- I feel that I have done quite well on this week's LOs. I feel challenged, but I think everything that I have learned I have understood well.
+- I have covered a good amount of skills workshops, particularly to do with OO and refactoring.
+- I have also covered a good amount on mocking and isolated tests.
+- While I haven't had that much practice on creating dependency injections, I feel I can explain the concept.
 
 ### Material to re-cover
 
-- 
-
+- I would like to learn more about OO principles.
+- I would like to practice more refactoring to good OO design.
+- Perhaps it would be good to go over the skills workshops from this week to fill in anything I am missing. 
 
 ---
 
@@ -103,7 +112,6 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 [GitHub repo](###) with all Learning Objectives, notes, and code.
 
 ---
--->
 
 <!-- Links -->
 
