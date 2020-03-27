@@ -11,4 +11,5 @@ Topics:
 - [x] [Domain Modelling](domain_modelling.md)
 - [x] [Feedback](feedback.md)
 - [ ] [Mocking with RSpec](mocking_with_rspec.md)
-- [x] [Refactoring](refactoris.md)
+- [x] [Refactoring](refactoring.md)
+- [ ] [Concretes and Abstracts](concretes_and_abstracts.md)

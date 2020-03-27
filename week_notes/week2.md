@@ -21,7 +21,7 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
+I will move towards the **Review another person's code and give them meaningful feedback** goal by doing the following:
 
 - [x] Attend [Code Review skills workshop] to review weekend challenge
 - [x] Attend [Process Workshop](../process_workshop.md#23-march) to give and receive feedback on the programming process
@@ -42,7 +42,7 @@ I will move towards the **Use all of week 1's skills** by doing the following:
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Review another person's code and give them meaningful feedback** by doing the following:
+I will move towards the **Review another person's code and give them meaningful feedback** goal by doing the following:
 
 - [x] Attend the [Feedback skills workshop]
 
@@ -57,9 +57,19 @@ I will move towards the **Unit test classes in isolation using mocking** by doin
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Break one class into two classes that work together, while maintaining test coverage** and **Explain some basic OO principles and tie them to high level concerns** by doing the following:
+I will move towards the **Break one class into two classes that work together, while maintaining test coverage** and **Explain some basic OO principles and tie them to high level concerns** goals by doing the following:
 
 - [x] Work on the [Refactoring skills workshop]
+
+---
+
+## Friday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Explain some basic OO principles and tie them to high level concerns** goal by doing the following:
+
+- [ ] Work on the [Concretes and Abstracts skills workshop]
 
 ---
 
@@ -112,3 +122,4 @@ I will move towards the **Break one class into two classes that work together, w
 [Feedback skills workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
 [Refactoring skills workshop]: ../skills_workshops/refactoring.md
+[Concretes and Abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
