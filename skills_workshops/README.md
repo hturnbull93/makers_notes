@@ -13,7 +13,7 @@
 
 - [x] [Debugging](debugging.md)
 
-## EQ
+## EQ/Process
 
 - [x] [Feedback](feedback.md)
 - [x] [Code Review](code_review.md)
@@ -22,4 +22,4 @@
 
 - [x] [Refactoring](refactoring.md)
 - [x] [Concretes and Abstracts](concretes_and_abstracts.md)
-- [ ] [Delegation](delegation.md)
+- [x] [Delegation](delegation.md)

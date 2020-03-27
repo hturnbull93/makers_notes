@@ -70,7 +70,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Explain some basic OO principles and tie them to high level concerns** goal by doing the following:
 
 - [x] Work on the [Concretes and Abstracts skills workshop]
-- [ ] Work on the [Delegation skills workshop]
+- [x] Work on the [Delegation skills workshop]
 
 ---
 
