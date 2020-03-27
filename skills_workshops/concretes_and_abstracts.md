@@ -14,7 +14,7 @@ Achievement Plan
 
 Evidence
 
-- I have implemented new user stories required for the [Animal Calatogue](https://github.com/hturnbull93/skills-workshops/tree/master/week-2/oop_2)
+- I have implemented new user stories required for the [Animal Catalogue](https://github.com/hturnbull93/skills-workshops/tree/master/week-2/oop_2)
 
 ## Notes
 
