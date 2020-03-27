@@ -38,20 +38,20 @@ Currently implemented User Stories:
 
 User stories to implement:
 
-> As a user
-> So I can identify cows
+> As a user  
+> So I can identify cows  
 > I want to look up identifying information about cows
 
-> As a user
-> So I can identify bees
+> As a user  
+> So I can identify bees  
 > I want to look up identifying information about bees
 
-> As a user
-> So I can avoid aggressive animals
+> As a user  
+> So I can avoid aggressive animals  
 > I want to look up the demeanour of animals
 
-> As a user
-> So I can decide which animals need ceilings on their cages
+> As a user  
+> So I can decide which animals need ceilings on their cages  
 > I want to look up whether animals can fly
 
 
@@ -139,7 +139,7 @@ end
 
 In this implementation there is a procedural logic control flow, which leads to really large and unwieldy code.
 
-This will spiral out of control if more and more animals are added. The more that is added the harder the code is to read, 
+This will spiral out of control if more and more animals are added. The more that is added the harder the code is to read, and the harder it is to work with or refactor.
 
 The flog complexity of animal_catalog.rb is terrible:
 
@@ -328,5 +328,4 @@ class Dog
     false
   end
 end
-
 ```
