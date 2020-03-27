@@ -12,4 +12,4 @@ Topics:
 - [x] [Feedback](feedback.md)
 - [ ] [Mocking with RSpec](mocking_with_rspec.md)
 - [x] [Refactoring](refactoring.md)
-- [ ] [Concretes and Abstracts](concretes_and_abstracts.md)
+- [x] [Concretes and Abstracts](concretes_and_abstracts.md)
