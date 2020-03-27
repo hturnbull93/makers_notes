@@ -96,7 +96,7 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 - I would read more about encapsulation and SRP to make sure my understanding is rock solid.
 - I would get more practice with implementing unit tests in TDD as I feel I don't use them as often as I should, but I am not sure.
 - I would read more about mocking and doubles in TDD, as I haven't got to the point where I have actually used those yet. I would then apply them in a small project.
-  
+
 ---
 
 ## Week 1 Weekend Challenge - Airport
