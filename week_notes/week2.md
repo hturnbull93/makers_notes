@@ -109,7 +109,7 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 
 ## Week 2 Weekend Challenge - Takeaway
 
-[GitHub repo](###) with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/takeaway-challenge) with all Learning Objectives, notes, and code.
 
 ---
 
