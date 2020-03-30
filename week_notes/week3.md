@@ -30,6 +30,7 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 [GitHub repo]() with all Learning Objectives, notes, and code.
 
 ---
+
 <!--
 ## Retrospective
 
@@ -58,6 +59,7 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 
 ---
 -->
+
 <!-- Links -->
 
 <!-- From Week 1 -->
