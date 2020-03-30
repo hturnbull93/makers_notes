@@ -11,8 +11,7 @@ Week 3 Learning Objectives
 
 Achievement plans
 
-- [ ] Work on the [Code Review skills workshop]
-- [ ] Attend a [Process Review workshop]
+- [x] Work on the [Servers 1 skills workshop]
 
 ---
 
@@ -20,7 +19,9 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
+I will move towards the **Explain the basics of how the web works** goal by doing the following:
+
+- [x] Work on the [Servers 1 skills workshop]
 
 ---
 
@@ -79,3 +80,5 @@ I will move towards the **xxxxxx** goal by doing the following:
 [Delegation skills workshop]: ../skills_workshops/delegation.md
 
 <!-- New in Week 3 -->
+
+[Servers 1 skills workshop]: ../skills_workshops/servers_1.md
