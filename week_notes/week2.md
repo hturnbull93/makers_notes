@@ -14,6 +14,12 @@ Achievement plans
 
 - [x] Work on the [Code Review skills workshop]
 - [x] Attend a [Process Review workshop]
+- [x] Attend the [Domain Modelling skills workshop]
+- [x] Attend the [Feedback skills workshop]
+- [x] Work on the [Mocking skills workshop] from week 1
+- [x] Work on the [Refactoring skills workshop]
+- [x] Work on the [Concretes and Abstracts skills workshop]
+- [x] Work on the [Delegation skills workshop]
 
 ---
 
