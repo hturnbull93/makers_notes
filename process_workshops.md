@@ -2,7 +2,9 @@
 
 [Back to Course Goals](README.md) | [Source](https://github.com/makersacademy/skills-workshops/tree/master/process_review)
 
-Process workshops are an opportunity to watch others code, have them watch you code, and to feedback on your coding processes
+Process workshops are an opportunity to watch others code, have them watch you code, and to feedback on your coding processes.
+
+![Process Flow](images/process_outline.png)
 
 ## 23 March
 
