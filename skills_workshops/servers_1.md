@@ -42,7 +42,7 @@ socket.close
 ```
 
 - A TCPserver at port 2345 is created.
-- It accepts a connection through a "socket".
+- `server.accept` waits for a connection to be made.
 - The socket prompts for an input.
 - Returns an interpolated string.
 - Then closes.
@@ -80,7 +80,7 @@ loop do
 end
 ```
 
-With this server, a loop starts multiple threads to accept multiple clients.
+With this server, a loop starts a threads that awaits the connection to be made. Once it is the a new connection is awaited, allowing multiple clients to connect.
 
 Each client's socket loops through getting words to repeat back, until they say "quit" in which case the socket is closed.
 
