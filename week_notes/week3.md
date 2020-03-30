@@ -22,7 +22,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Explain the basics of how the web works** goal by doing the following:
 
 - [x] Work on the [Servers 1 skills workshop]
-- [ ] Work on the [Servers 2 skills workshop]
+- [x] Work on the [Servers 2 skills workshop]
 
 ---
 
