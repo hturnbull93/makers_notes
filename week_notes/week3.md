@@ -25,7 +25,7 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 
 - [x] Work on the [Servers 1 skills workshop]
 - [x] Work on the [Servers 2 skills workshop]
-- [ ] Work on the [Clients 1 skills workshop]
+- [x] Work on the [Clients 1 skills workshop]
 
 ---
 
