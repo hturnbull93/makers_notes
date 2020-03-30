@@ -6,6 +6,10 @@ Process workshops are an opportunity to watch others code, have them watch you c
 
 ![Process Flow](images/process_outline.png)
 
+- Write an input output table
+- Start with the most simple example of input output
+- Consider the dimensions of the problem
+
 ## 23 March
 
 Attempted 10 Minute Walk
