@@ -12,6 +12,8 @@ Week 3 Learning Objectives
 Achievement plans
 
 - [x] Work on the [Servers 1 skills workshop]
+- [x] Work on the [Servers 2 skills workshop]
+
 
 ---
 
