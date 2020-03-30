@@ -1,6 +1,6 @@
 # Servers 2 - Skills Workshop
 
-[All Workshops](README.md) | [Source]()
+[All Workshops](README.md) | [Source](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
 
 Learning Objectives
 
