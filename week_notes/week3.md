@@ -22,12 +22,13 @@ Learning Objective & Achievement Plan
 I will move towards the **Explain the basics of how the web works** goal by doing the following:
 
 - [x] Work on the [Servers 1 skills workshop]
+- [ ] Work on the [Servers 2 skills workshop]
 
 ---
 
-## Week 3 Afternoon Challenge - Battle
+## Week 3 Afternoon Challenge - Battles
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/battles) with all Learning Objectives, notes, and code.
 
 ---
 
@@ -84,3 +85,4 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 <!-- New in Week 3 -->
 
 [Servers 1 skills workshop]: ../skills_workshops/servers_1.md
+[Servers 2 skills workshop]: ../skills_workshops/servers_2.md
