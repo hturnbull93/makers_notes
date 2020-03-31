@@ -4,15 +4,15 @@
 
 Learning Objectives
 
-- [ ] Practice networking, building servers, and handling HTTP request/response cycle
+- [x] Practice building servers with MVC, handling HTTP request/response cycle, and HTML/CSS
 
 Achievement Plan
 
-- [ ] AP
+- [x] Create a birthday greeter app
 
 Evidence
 
-- Evidence 1
+- I have created a [birthday greeter webapp](https://github.com/hturnbull93/birthday-greeter-app)
 
 ## Practical
 
@@ -67,11 +67,39 @@ The form renders properly, but the style is the stock html styles, which look pr
 
 ### Adding CSS
 
-Created a new folder called css, and added style.css:
-
-- Added style for
-
-Added style.css to index.rb:
+Linked to style.css from index.rb:
 
 - Added a head element, with a link element to style.css
 - Wrapped the rest of the contents in a body element
+
+Created a new folder called css, and added style.css:
+
+- Added style for everything until it looked nice
+- Added some classes to elements in index.rb to facilitate that
+
+### Posting from the Form
+
+The form generates needs to generate a response based on the users submitted information.
+
+It should send a HTTP POST request.
+
+- Updated the form element with action and method attributes in index.erb
+- Added a post for '/' in birthday_app.rb
+
+### Displaying Results
+
+Now the params of the post request need to be integrated into the returned HTML, so added a new view, result.erb:
+
+- Added a single h1 element, with erb tags to insert the variable the controller will create
+
+Implemented the logic in birthday_app.rb:
+
+- @birthday assigned with a date parsed from the month and day params from the form
+- if that is equal to the date today, then @result is "Happy Birthday!"
+- else the days between today and the birthday are calculated and @result is "Your birthday is in x days."
+
+### Final Touches
+
+- Added a link to head back to the form and styled it nicely
+- Got text to scale nicely using calc based on viewport width
+- Refactored the emojis to allow them to wiggle with some animation keyframes
