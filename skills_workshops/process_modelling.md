@@ -4,16 +4,16 @@
 
 Learning Objectives
 
-- [ ] Define process modelling as a tool to describe and understand a process.
-- [ ] Use process modelling to further your understanding of HTTP requests and responses.
+- [x] Define process modelling as a tool to describe and understand a process.
+- [x] Use process modelling to further your understanding of HTTP requests and responses.
 
 Achievement Plan
 
-- [ ] Create a process model for HTTP requests and responses.
+- [x] Create a process model for HTTP requests and responses.
 
 Evidence
 
-- Evidence 1
+- I have written a sequence diagram for the HTTP request/response cycle, [see below](#sequence-diagrams).
 
 ## Notes
 
