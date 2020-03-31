@@ -2,12 +2,16 @@
 
 [Back to Course Goals](../README.md)
 
+## Modelling
+
+- [x] [Domain Modelling](domain_modelling.md)
+- [x] [Process Modelling](process_modelling.md)
+
 ## Test Driven Development
 
 - [x] [TDD Process](TDD_process.md)
 - [x] [Mocking](mocking.md)
 - [ ] [Mocking with RSpec](mocking_with_rspec.md)
-- [x] [Domain Modelling](domain_modelling.md)
 
 ## Debugging
 

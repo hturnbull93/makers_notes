@@ -13,7 +13,7 @@ Achievement plans
 
 - [x] Work on the [Servers 1 skills workshop]
 - [x] Work on the [Servers 2 skills workshop]
-
+- [x] Work on the [Clients 1 skills workshop]
 
 ---
 
@@ -28,6 +28,17 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 - [x] Work on the [Clients 1 skills workshop]
 
 ---
+
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Explain the basics of how the web works** goal by doing the following:
+
+- [x] Attend the [Process modelling skills workshop], and create a process model of HTTP request response cycle
+
+---
+
 
 ## Week 3 Afternoon Challenge - Battles
 
@@ -90,3 +101,4 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 [Servers 1 skills workshop]: ../skills_workshops/servers_1.md
 [Servers 2 skills workshop]: ../skills_workshops/servers_2.md
 [Clients 1 skills workshop]: ../skills_workshops/clients_1.md
+[Process modelling skills workshop]: ../skills_workshops/http_modelling.md
