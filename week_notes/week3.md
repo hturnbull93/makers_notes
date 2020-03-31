@@ -36,9 +36,9 @@ Learning Objective & Achievement Plan
 I will move towards the **Explain the basics of how the web works** goal by doing the following:
 
 - [x] Attend the [Process modelling skills workshop], and create a process model of HTTP request response cycle
+- [ ] Work on the [Birthday Greeter App skills workshop]
 
 ---
-
 
 ## Week 3 Afternoon Challenge - Battles
 
@@ -102,3 +102,4 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 [Servers 2 skills workshop]: ../skills_workshops/servers_2.md
 [Clients 1 skills workshop]: ../skills_workshops/clients_1.md
 [Process modelling skills workshop]: ../skills_workshops/http_modelling.md
+[Birthday Greeter App skills workshop]: ../skills_workshops/birthday_greeter_app.md
