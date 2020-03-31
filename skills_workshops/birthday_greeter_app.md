@@ -14,8 +14,23 @@ Evidence
 
 - Evidence 1
 
-## Notes
+## Practical
 
+Create an web app that allows users to enter their name, their birthday, and will tell them "Happy Birthday" or tell them how many days until their birthday.
 
+An example:
 
-### first note
+![Birthday Greeter App example](../images/birthday_greeter_app_example.jpg)
+
+### Getting a Homepage
+
+- Created a directory, initialised git and bundler, and required Sinatra in the gemfile, and bundled.
+
+- Added an app dir, and created birthday_app.rb in it:
+
+  - Required sinatra
+  - Wrote a sinatra get do for '/', the homepage, returning "Hello there!"
+
+- localhost:4567 shows "Hello there!"
+
+###
