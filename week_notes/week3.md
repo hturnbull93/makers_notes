@@ -40,6 +40,16 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 
 ---
 
+## Wednesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Explain the basics of how the web works** goal by doing the following:
+
+- [x] Attend the [Empathy EQ workshop]
+
+---
+
 ## Week 3 Afternoon Challenge - Battles
 
 [GitHub repo](https://github.com/hturnbull93/battles) with all Learning Objectives, notes, and code.
@@ -90,7 +100,7 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
-[Feedback skills workshop]: ../skills_workshops/feedback.md
+[Feedback EQ workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
 [Refactoring skills workshop]: ../skills_workshops/refactoring.md
 [Concretes and Abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
@@ -103,3 +113,4 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 [Clients 1 skills workshop]: ../skills_workshops/clients_1.md
 [Process modelling skills workshop]: ../skills_workshops/http_modelling.md
 [Birthday Greeter App skills workshop]: ../skills_workshops/birthday_greeter_app.md
+[Empathy EQ workshop]: ../skills_workshops/empathy.md

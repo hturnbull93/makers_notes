@@ -15,7 +15,7 @@ Achievement plans
 - [x] Work on the [Code Review skills workshop]
 - [x] Attend a [Process Review workshop]
 - [x] Attend the [Domain Modelling skills workshop]
-- [x] Attend the [Feedback skills workshop]
+- [x] Attend the [Feedback EQ workshop]
 - [x] Work on the [Mocking skills workshop] from week 1
 - [x] Work on the [Refactoring skills workshop]
 - [x] Work on the [Concretes and Abstracts skills workshop]
@@ -50,7 +50,7 @@ Learning Objective & Achievement Plan
 
 I will move towards the **Review another person's code and give them meaningful feedback** goal by doing the following:
 
-- [x] Attend the [Feedback skills workshop]
+- [x] Attend the [Feedback EQ workshop]
 
 I will move towards the **Unit test classes in isolation using mocking** by doing the following:
 
@@ -134,7 +134,7 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
 [Process Review workshop]: ../process_workshop.md 
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
-[Feedback skills workshop]: ../skills_workshops/feedback.md
+[Feedback EQ workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
 [Refactoring skills workshop]: ../skills_workshops/refactoring.md
 [Concretes and Abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
