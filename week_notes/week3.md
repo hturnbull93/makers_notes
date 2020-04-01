@@ -44,7 +44,7 @@ I will move towards the **Explain the basics of how the web works** goal by doin
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Explain the basics of how the web works** goal by doing the following:
+I will move towards the **Team Success** course goals by doing the following:
 
 - [x] Attend the [Empathy EQ workshop]
 
