@@ -61,6 +61,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Follow an effective debugging process for web applications** course goals by doing the following:
 
 - [x] Attend the [Debugging 2 skills workshop]
+- [ ] Work on the [Debugging a Rack App skills workshop]
 
 ---
 
@@ -130,3 +131,4 @@ I will move towards the **Follow an effective debugging process for web applicat
 [Birthday Greeter App skills workshop]: ../skills_workshops/birthday_greeter_app.md
 [Empathy EQ workshop]: ../skills_workshops/empathy.md
 [Debugging 2 skills workshop]: ../skills_workshops/debugging_2.md
+[Debugging a Rack App skills workshop]: ../skills_workshops/debugging_a_rack_app.md
