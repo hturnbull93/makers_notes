@@ -14,6 +14,10 @@ Achievement plans
 - [x] Work on the [Servers 1 skills workshop]
 - [x] Work on the [Servers 2 skills workshop]
 - [x] Work on the [Clients 1 skills workshop]
+- [x] Attend the [Process modelling skills workshop]
+- [x] Work on the [Birthday Greeter App skills workshop]
+- [x] Attend the [Empathy EQ workshop]
+- [x] Attend the [Debugging 2 skills workshop]
 
 ---
 
