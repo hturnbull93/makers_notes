@@ -36,4 +36,4 @@
 - [x] [Servers 2](servers_2.md)
 - [x] [Clients 1](clients_1.md)
 - [x] [Birthday Greeter App](birthday_greeter_app.md)
-- [ ] [Debugging a Rack app](debugging_a_rack_app.md)
+- [x] [Debugging a Rack app](debugging_a_rack_app.md)

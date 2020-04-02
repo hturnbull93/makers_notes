@@ -58,10 +58,10 @@ I will move towards the **Team Success** course goals by doing the following:
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Follow an effective debugging process for web applications** course goals by doing the following:
+I will move towards the **Follow an effective debugging process for web applications** and **Explain the basics of how the web works** course goals by doing the following:
 
 - [x] Attend the [Debugging 2 skills workshop]
-- [ ] Work on the [Debugging a Rack App skills workshop]
+- [x] Work on the [Debugging a Rack App skills workshop]
 
 ---
 
