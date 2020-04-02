@@ -5,8 +5,8 @@
 Week 3 Learning Objectives
 
 - [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- [x] Follow an effective debugging process for web applications
+- [x] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - [ ] Explain the MVC pattern
 
 Achievement plans
