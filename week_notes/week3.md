@@ -50,6 +50,17 @@ I will move towards the **Team Success** course goals by doing the following:
 
 ---
 
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Follow an effective debugging process for web applications** course goals by doing the following:
+
+- [x] Attend the [Debugging 2 skills workshop]
+
+---
+
+
 ## Week 3 Afternoon Challenge - Battles
 
 [GitHub repo](https://github.com/hturnbull93/battles) with all Learning Objectives, notes, and code.
@@ -114,3 +125,4 @@ I will move towards the **Team Success** course goals by doing the following:
 [Process modelling skills workshop]: ../skills_workshops/http_modelling.md
 [Birthday Greeter App skills workshop]: ../skills_workshops/birthday_greeter_app.md
 [Empathy EQ workshop]: ../skills_workshops/empathy.md
+[Debugging 2 skills workshop]: ../skills_workshops/debugging_2.md

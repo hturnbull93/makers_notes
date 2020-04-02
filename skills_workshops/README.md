@@ -16,6 +16,8 @@
 ## Debugging
 
 - [x] [Debugging](debugging.md)
+- [x] [Debugging 2](debugging_2.md)
+
 
 ## EQ/Process
 
