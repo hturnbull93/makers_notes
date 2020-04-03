@@ -7,7 +7,7 @@ Week 3 Learning Objectives
 - [ ] Build a simple web app
 - [x] Follow an effective debugging process for web applications
 - [x] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Explain the MVC pattern
 
 Achievement plans
 
@@ -58,10 +58,20 @@ I will move towards the **Team Success** course goals by doing the following:
 
 Learning Objective & Achievement Plan
 
-I will move towards the **Follow an effective debugging process for web applications** and **Explain the basics of how the web works** course goals by doing the following:
+I will move towards the **Follow an effective debugging process for web applications** and **Explain the basics of how the web works** goals by doing the following:
 
 - [x] Attend the [Debugging 2 skills workshop]
 - [x] Work on the [Debugging a Rack App skills workshop]
+
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Build a simple web app** goal by doing the following:
+
+- [x] Continue with the Afternoon Challenge
 
 ---
 
@@ -72,25 +82,27 @@ I will move towards the **Follow an effective debugging process for web applicat
 
 ---
 
-<!--
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Build a simple web app
+- [x] Follow an effective debugging process for web applications
+- [x] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- [x] Explain the MVC pattern
 
-### Score: X
+### Score: 9
 
 #### Reasons for Score
 
-- first reason
+- I feel I have a good handle on how the web works. Fortunately I was able to focus more deeply on HTTP response/request, Sinatra, and Rack, as I already have a knowledge of HTML/CSS from previous working life.
+- I feel comfortable with the  MVC pattern, having worked on this in the afternoon challenge a lot.
+- I have constructed simple web apps using Sinatra in the afternoon challenges and skills workshops, and feel comfortable recreating these.
+- I feel confident debugging using Tighten loop, Get visibility, Single fix steps.
 
 ### Material to re-cover
 
-- First material
+- Work further on the battles app, could make a good portfolio piece!
 
 ---
 
@@ -99,7 +111,6 @@ I will move towards the **Follow an effective debugging process for web applicat
 [GitHub repo]() with all Learning Objectives, notes, and code.
 
 ---
--->
 
 <!-- Links -->
 
