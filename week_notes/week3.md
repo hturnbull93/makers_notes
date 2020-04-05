@@ -108,7 +108,7 @@ I will move towards the **Build a simple web app** goal by doing the following:
 
 ## Week 3 Weekend Challenge - RPS
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/rps-challenge) with all Learning Objectives, notes, and code.
 
 ---
 
