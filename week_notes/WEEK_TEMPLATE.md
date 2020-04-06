@@ -37,7 +37,7 @@ I will move towards the **xxxxxx** goal by doing the following:
 - [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - [ ] Explain the MVC pattern
 
-### Score: X
+### Score: z
 
 #### Reasons for Score
 
