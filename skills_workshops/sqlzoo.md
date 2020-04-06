@@ -12,15 +12,15 @@ Achievement Plan
 
 Evidence
 
-- Evidence 1
+- I have made extensive notes during my work on SQLZoo, see below.
 
 ## Notes
 
 ### Setting Up an SQL DB
 
-[Linux](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_linux.md)
+PostgreSQL installation:
 
-[Mac OS](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md)
+[Linux](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_linux.md) | [Mac OS](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md)
 
 ### SELECT
 
