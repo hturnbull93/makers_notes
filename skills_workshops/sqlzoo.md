@@ -94,7 +94,7 @@ WHERE area BETWEEN 200000 AND 250000;
 
 #### LIKE
 
-To return the names and populations of countries whose names start with 'Al', SELECT name and population FROM the world table, using WHERE to look in the name column for entries that are LIKE "AL%". The % is a wildcard modifier.
+To return the names and populations of countries whose names start with 'Al', SELECT name and population FROM the world table, using WHERE to look in the name column for entries that are LIKE "AL%". The % is a wildcard.
 
 ```sql
 SELECT name
@@ -106,6 +106,24 @@ WHERE name LIKE "Al%";
 | ------- | ---------- |
 | Albania | 3200000    |
 | Algeria | 32900000   |
+
+To return names and populations of countries whose name has a second letter of 'n', SELECT name and population FROM world, WHERE name is LIKE '\_n'. the U is a single character wildcard.
+
+```sql
+SELECT name FROM world
+WHERE name LIKE '_n%'
+```
+
+| name                 |
+| -------------------- |
+| Angola               |
+| India                |
+| Indonesia            |
+| United Arab Emirates |
+| Antigua and Barbuda  |
+| Andorra              |
+| United Kingdom       |
+| United States        |
 
 #### Operations
 
@@ -228,37 +246,17 @@ FROM world
 WHERE LENGTH(name) = LENGTH(capital)
 ```
 
-| name       | capital    |
-| ---------- | ---------- |
-| Algeria    | Algiers    |
-| Angola     | Luanda     |
-| Armenia    | Yerevan    |
-| Botswana   | Gaborone   |
-| Cameroon   | Yaoundé    |
-| Canada     | Ottowa     |
-| Djibouti   | Djibouti   |
-| Egypt      | Cairo      |
-| Estonia    | Tallinn    |
-| Fiji       | Suva       |
-| Gambia     | Banjul     |
-| Georgia    | Tbilisi    |
-| Ghana      | Accra      |
-| Greece     | Athens     |
-| Luxembourg | Luxembourg |
-| Mauritania | Nouakchott |
-| Peru       | Lima       |
-| Poland     | Warsaw     |
-| Russia     | Moscow     |
-| Rwanda     | Kigali     |
-| San Marino | San Marino |
-| Singapore  | Singapore  |
-| Taiwan     | Taipei     |
-| Turkey     | Ankara     |
-| Zambia     | Lusaka     |
+| name      | capital  |
+| --------- | -------- |
+| Algeria   | Algiers  |
+| Angola    | Luanda   |
+| Armenia   | Yerevan  |
+| Botswana  | Gaborone |
+| Lots more | ...      |
 
 #### LEFT
 
-To return the name and capital where the first letter of each matches, but they are not the same word, SELECT name and capital FROM world, WHERE the
+To return the name and capital where the first letter of each matches, but they are not the same word, SELECT name and capital FROM world, WHERE using LEFT to get 1 character from the left of name and capital and comparing them, AND name does not equal capital
 
 ```sql
 SELECT name, capital
@@ -266,3 +264,30 @@ FROM world
 WHERE LEFT(name, 1) = LEFT(capital, 1) AND name <> capital
 ```
 
+| name      | capital          |
+| --------- | ---------------- |
+| Algeria   | Algiers          |
+| Andorra   | Andorra la Vella |
+| Barbados  | Bridgetown       |
+| Belize    | Belmopan         |
+| Lots more | ...              |
+
+### NOT
+
+To return countries with all the vowels and no spaces in its name, SELECT name FROM world, WHERE name is LIKE %a%, %e%, %i%, %o%, %u%, and NOT LIKE % %.
+
+```sql
+SELECT name
+FROM world
+WHERE
+  name LIKE '%a%'
+  AND name LIKE '%e%'
+  AND name LIKE '%i%'
+  AND name LIKE '%o%'
+  AND name LIKE '%u%'
+  AND name NOT LIKE '% %'
+```
+
+| name       |
+| ---------- |
+| Mozambique |
