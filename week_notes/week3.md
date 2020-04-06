@@ -4,7 +4,7 @@
 
 Week 3 Learning Objectives
 
-- [ ] Build a simple web app
+- [x] Build a simple web app
 - [x] Follow an effective debugging process for web applications
 - [x] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - [x] Explain the MVC pattern
@@ -18,6 +18,7 @@ Achievement plans
 - [x] Work on the [Birthday Greeter App skills workshop]
 - [x] Attend the [Empathy EQ workshop]
 - [x] Attend the [Debugging 2 skills workshop]
+- [x] Work on the [Debugging a Rack App skills workshop]
 
 ---
 
