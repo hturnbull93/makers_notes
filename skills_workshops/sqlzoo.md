@@ -333,3 +333,60 @@ ORDER BY subject IN ('Physics','Chemistry'), subject, winner
 | Bruce Merrifield    | Chemistry  |
 | Carlo Rubbia        | Physics    |
 | Simon van der Meer  | Physics    |
+
+### COUNT
+
+To return a count of how many chemistry awards given between 1950 and 1960, SELECT COUNT(subject) FROM nobel, WHERE subject is chemistry AND yr BETWEEN 1950 and 1960.
+
+```sql
+SELECT COUNT(subject) FROM nobel
+WHERE subject = 'Chemistry'
+AND yr BETWEEN 1950 and 1960
+```
+
+| COUNT(subject) |
+| -------------- |
+| 15             |
+
+### DISTINCT
+
+To return a count of years where no medicine awards were given, first SELECT DISTINCT years FROM nobel WHERE subject is medicine, then SELECT COUNT(DISTINCT yr) FROM nobel, WHERE yr is NOT IN the results of the first query.
+
+This is done with nested queries.
+
+DISTINCT returns only unique values.
+
+```sql
+SELECT COUNT(DISTINCT yr)
+FROM nobel
+WHERE yr NOT IN (
+  SELECT DISTINCT yr
+  FROM nobel
+  WHERE subject = 'Medicine'
+);
+```g
+
+| COUNT(DISTINCT yr) |
+| ------------------ |
+| 6                  |
+
+### GROUP
+
+```sql
+SELECT subject, COUNT(subject)
+FROM nobel
+WHERE yr = '1960'
+GROUP BY subject
+```
+
+| subject    | COUNT(subject) |
+| ---------- | -------------- |
+| Chemistry  | 1              |
+| Literature | 1              |
+| Medicine   | 2              |
+| Peace      | 1              |
+| Physics    | 1              |
+
+### CONCAT
+
+To return european countries name and population expressed as a percentage of the population of Germany rounded to no decimal places with a % sign, SELECT name and population divided by a nested SELECT population FROM world WHERE name is Germany, ROUND to 0 dp, CONCAT a % sign on, FROM WORLD
