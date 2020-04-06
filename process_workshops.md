@@ -41,4 +41,4 @@ Feedback:
 - Create a git repo first thing
 - Commit early and often
 
-[<img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[rick roll][<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
