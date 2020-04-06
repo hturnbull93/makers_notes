@@ -19,9 +19,10 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
+I will move towards the **Explain the basics of how databases work** goal by doing the following:
 
-- [ ] Number 1
+- [x] Read through the [Illustrated Intro to Databases]
+- [ ] Work on [SQLZoo]
 
 ---
 
@@ -91,3 +92,6 @@ I will move towards the **xxxxxx** goal by doing the following:
 [Debugging a Rack App skills workshop]: ../skills_workshops/debugging_a_rack_app.md
 
 <!-- New in Week 4 -->
+
+[Illustrated Intro to Databases]: https://illustrated.dev/databases
+[SQLZoo]: ../skills_workshops/sqlzoo.md
