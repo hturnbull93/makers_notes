@@ -291,3 +291,45 @@ WHERE
 | name       |
 | ---------- |
 | Mozambique |
+
+### ORDER
+
+To return nobel prize winners name, year and subject where the nem start with "Sir." and order by descending year first, then by name, SELECT winner, year and subject FROM nobel, WHERE winner is LIKE 'Sir%', and ORDER BY -yr (for descending), then winner.
+
+```sql
+SELECT winner, yr, subject
+FROM nobel
+WHERE winner LIKE 'Sir%'
+ORDER BY -yr, winner
+```
+
+| winner              | yr   | subject   |
+| ------------------- | ---- | --------- |
+| Sir Martin J. Evans | 2007 | Medicine  |
+| Sir Peter Mansfield | 2003 | Medicine  |
+| Sir Paul Nurse      | 2001 | Medicine  |
+| Sir Harold Kroto    | 1996 | Chemistry |
+| Sir James W. Black  | 1988 | Medicine  |
+
+### IN as a value
+
+To return the 1984 winners and subject ordered by subject and winner name, but listing chemistry and physics last, SELECT winner and subject FROM nobel, WHERE year is 1984, and order by subject IN physics or chemistry (which returns a 1 if it is or a 0 if not), then bny subject then by winner.
+
+```sql
+SELECT winner, subject
+FROM nobel
+WHERE yr = 1984
+ORDER BY subject IN ('Physics','Chemistry'), subject, winner
+```
+
+| winner              | subject    |
+| ------------------- | ---------- |
+| Richard Stone       | Economics  |
+| Jaroslav Seifert    | Literature |
+| César Milstein      | Medicine   |
+| Georges J.F. Köhler | Medicine   |
+| Niels K. Jerne      | Medicine   |
+| Desmond Tutu        | Peace      |
+| Bruce Merrifield    | Chemistry  |
+| Carlo Rubbia        | Physics    |
+| Simon van der Meer  | Physics    |
