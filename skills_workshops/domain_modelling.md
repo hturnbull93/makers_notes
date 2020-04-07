@@ -56,7 +56,7 @@ The name of a class it's attributes, and its methods. Representing the relations
 
 **Class Diagram example:**
 
-![Class Diagram example][Class Diagram example]
+![Class Diagram example][class diagram example]
 
 **Practice using [Mermaid Live Editor]**
 
@@ -78,7 +78,7 @@ User stories for a Notebook
 > So I can find notes on a certain topic  
 > I want to be able to search for all the notes with a specific tag
 
-![Notebook Example][Notebook example]
+![Notebook Example][notebook example]
 
 **A skeleton implementation following the diagram**
 
@@ -120,24 +120,21 @@ Unified Modelling Language is a standard maintained by the Object Management Gro
 
 This standard will allow devs to diagram any domain model diagram they come across, without needing to work out the notation.
 
-Diagram | Explanation
-------- | -------
-**Use-case diagram** | illustrates a unit of functionality provided by the system. Includes "actors", the people that do the action.
-**Class diagram** | shows how the different entities (people, things, and data) relate to each other.
-**Sequence diagram** | shows a detailed flow for a specific use case or even just part of a specific use case.
-**State-chart diagram** | models the different states that a class can be in and how that class transitions from state to state.
-**Activity diagram** | shows the procedural flow of control between two or more class objects while processing an activity.
-**Component diagram** | provides a physical view of the system. Its purpose is to show the dependencies that the software has on the other software components (e.g., software libraries) in the system.
-**Deployment diagram** | shows how a system will be physically deployed in the hardware environment.
+| Diagram                 | Explanation                                                                                                                                                                      |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use-case diagram**    | illustrates a unit of functionality provided by the system. Includes "actors", the people that do the action.                                                                    |
+| **Class diagram**       | shows how the different entities (people, things, and data) relate to each other.                                                                                                |
+| **Sequence diagram**    | shows a detailed flow for a specific use case or even just part of a specific use case.                                                                                          |
+| **State-chart diagram** | models the different states that a class can be in and how that class transitions from state to state.                                                                           |
+| **Activity diagram**    | shows the procedural flow of control between two or more class objects while processing an activity.                                                                             |
+| **Component diagram**   | provides a physical view of the system. Its purpose is to show the dependencies that the software has on the other software components (e.g., software libraries) in the system. |
+| **Deployment diagram**  | shows how a system will be physically deployed in the hardware environment.                                                                                                      |
 
 [Intro to UML]
 
 <!-- Links -->
 
-[Class Diagram example]: https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cdEFuaW1hbCA8fC0tIER1Y2tcblx0QW5pbWFsIDx8LS0gRmlzaFxuXHRBbmltYWwgPHwtLSBaZWJyYVxuXHRBbmltYWwgOiAraW50IGFnZVxuXHRBbmltYWwgOiArU3RyaW5nIGdlbmRlclxuXHRBbmltYWw6ICtpc01hbW1hbCgpXG5cdEFuaW1hbDogK21hdGUoKVxuXG5cdGNsYXNzIER1Y2t7XG5cdFx0K1N0cmluZyBiZWFrQ29sb3Jcblx0XHQrc3dpbSgpXG5cdFx0K3F1YWNrKClcblx0fVxuXG5cdGNsYXNzIEZpc2h7XG5cdFx0LWludCBzaXplSW5GZWV0XG5cdFx0LWNhbkVhdCgpXG5cdH1cblx0Y2xhc3MgWmVicmF7XG5cdFx0K2Jvb2wgaXNfd2lsZFxuXHRcdCtydW4oKVxuICAgIFxuXHR9XG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0
-
-[Mermaid Live Editor]: https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cbiAgTm91bnNcbiAgT2ZmaWNlIHdvcmtlclxuXG4gIFRleHQgbm90ZVxuICBJbmZvcm1hdGlvblxuICBOb3RlYm9va1xuICB0YWdcbiAgdG9waWNcblxuICBWZXJic1xuICBjcmVhdGVcbiAgY2F0ZWdvcmlzZVxuICBrZWVwXG4gIGFkZCB0YWdcbiAgc2VhcmNoIHRhZ3NcblxuICAgIE5vdGVib29rIC0tIE5vdGVcbiAgXHRjbGFzcyBOb3Rle1xuXHRcdC1TdHJpbmcgaW5mb3JtYXRpb25cbiAgICAtU3RyaW5nIHRhZ1xuICAgICtjYXRlZ29yaXNlKHRhZylcbiAgICArcmVhZCgpXG4gICAgK3JlYWRfdGFnKClcblx0fVxuXG4gICAgY2xhc3MgTm90ZWJvb2sge1xuICAgIC1BcnJheSBub3Rlc1xuICAgICtrZWVwKG5vdGUpXG4gICAgK3NlYXJjaF9ieV90YWcodGFnKVxuICB9XG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
-
-[Notebook example]: https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cbiAgTm91bnNcbiAgT2ZmaWNlIHdvcmtlclxuXG4gIFRleHQgbm90ZVxuICBJbmZvcm1hdGlvblxuICBOb3RlYm9va1xuICB0YWdcbiAgdG9waWNcblxuICBWZXJic1xuICBjcmVhdGVcbiAgY2F0ZWdvcmlzZVxuICBrZWVwXG4gIGFkZCB0YWdcbiAgc2VhcmNoIHRhZ3NcblxuICAgIE5vdGVib29rIC0tIE5vdGVcbiAgXHRjbGFzcyBOb3Rle1xuXHRcdC1TdHJpbmcgaW5mb3JtYXRpb25cbiAgICAtU3RyaW5nIHRhZ1xuICAgICtjYXRlZ29yaXNlKHRhZylcbiAgICArcmVhZCgpXG4gICAgK3JlYWRfdGFnKClcblx0fVxuXG4gICAgY2xhc3MgTm90ZWJvb2sge1xuICAgIC1BcnJheSBub3Rlc1xuICAgICtrZWVwKG5vdGUpXG4gICAgK3NlYXJjaF9ieV90YWcodGFnKVxuICB9XG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
-
-[Intro to UML]: https://developer.ibm.com/articles/an-introduction-to-uml/
+[class diagram example]: https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cdEFuaW1hbCA8fC0tIER1Y2tcblx0QW5pbWFsIDx8LS0gRmlzaFxuXHRBbmltYWwgPHwtLSBaZWJyYVxuXHRBbmltYWwgOiAraW50IGFnZVxuXHRBbmltYWwgOiArU3RyaW5nIGdlbmRlclxuXHRBbmltYWw6ICtpc01hbW1hbCgpXG5cdEFuaW1hbDogK21hdGUoKVxuXG5cdGNsYXNzIER1Y2t7XG5cdFx0K1N0cmluZyBiZWFrQ29sb3Jcblx0XHQrc3dpbSgpXG5cdFx0K3F1YWNrKClcblx0fVxuXG5cdGNsYXNzIEZpc2h7XG5cdFx0LWludCBzaXplSW5GZWV0XG5cdFx0LWNhbkVhdCgpXG5cdH1cblx0Y2xhc3MgWmVicmF7XG5cdFx0K2Jvb2wgaXNfd2lsZFxuXHRcdCtydW4oKVxuICAgIFxuXHR9XG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0
+[mermaid live editor]: https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cbiAgTm91bnNcbiAgT2ZmaWNlIHdvcmtlclxuXG4gIFRleHQgbm90ZVxuICBJbmZvcm1hdGlvblxuICBOb3RlYm9va1xuICB0YWdcbiAgdG9waWNcblxuICBWZXJic1xuICBjcmVhdGVcbiAgY2F0ZWdvcmlzZVxuICBrZWVwXG4gIGFkZCB0YWdcbiAgc2VhcmNoIHRhZ3NcblxuICAgIE5vdGVib29rIC0tIE5vdGVcbiAgXHRjbGFzcyBOb3Rle1xuXHRcdC1TdHJpbmcgaW5mb3JtYXRpb25cbiAgICAtU3RyaW5nIHRhZ1xuICAgICtjYXRlZ29yaXNlKHRhZylcbiAgICArcmVhZCgpXG4gICAgK3JlYWRfdGFnKClcblx0fVxuXG4gICAgY2xhc3MgTm90ZWJvb2sge1xuICAgIC1BcnJheSBub3Rlc1xuICAgICtrZWVwKG5vdGUpXG4gICAgK3NlYXJjaF9ieV90YWcodGFnKVxuICB9XG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
+[notebook example]: https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG5cbiAgTm91bnNcbiAgT2ZmaWNlIHdvcmtlclxuXG4gIFRleHQgbm90ZVxuICBJbmZvcm1hdGlvblxuICBOb3RlYm9va1xuICB0YWdcbiAgdG9waWNcblxuICBWZXJic1xuICBjcmVhdGVcbiAgY2F0ZWdvcmlzZVxuICBrZWVwXG4gIGFkZCB0YWdcbiAgc2VhcmNoIHRhZ3NcblxuICAgIE5vdGVib29rIC0tIE5vdGVcbiAgXHRjbGFzcyBOb3Rle1xuXHRcdC1TdHJpbmcgaW5mb3JtYXRpb25cbiAgICAtU3RyaW5nIHRhZ1xuICAgICtjYXRlZ29yaXNlKHRhZylcbiAgICArcmVhZCgpXG4gICAgK3JlYWRfdGFnKClcblx0fVxuXG4gICAgY2xhc3MgTm90ZWJvb2sge1xuICAgIC1BcnJheSBub3Rlc1xuICAgICtrZWVwKG5vdGUpXG4gICAgK3NlYXJjaF9ieV90YWcodGFnKVxuICB9XG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
+[intro to uml]: https://developer.ibm.com/articles/an-introduction-to-uml/
