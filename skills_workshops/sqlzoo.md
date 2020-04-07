@@ -51,6 +51,8 @@ Contents:
   - [DISTINCT](#distinct)
   - [GROUP BY](#group-by)
   - [HAVING](#having)
+- [Using Data From More Than 1 Table](#using-data-from-more-than-1-table)
+  - [JOIN](#join)
 
 ## Setting Up an SQL DB
 
@@ -608,3 +610,21 @@ HAVING SUM(population) > 500000000
 | Asia          | 4342955676      |
 | Europe        | 610261850       |
 | North America | 518755156       |
+
+## Using Data From More Than 1 Table
+
+### JOIN
+
+To return the game id, stadium, team1, team2 where a goal was scored by a player whose name ends with Bender, SELECT id, stadium, team1, team2 FROM game JOINing goal based ON id (in game) mapping to matchid (in goal), WHERE player ends with Bender.
+
+Two separate tables game and goal have a shared column, id in game matches to matchid in goal.
+
+```sql
+SELECT id, stadium, team1, team2
+  FROM game JOIN goal ON (id=matchid)
+ WHERE player LIKE '%Bender';
+```
+
+| id   | stadium    | team1 | team2 |
+| ---- | ---------- | ----- | ----- |
+| 1012 | Arena Lviv | DEN   | GER   |
