@@ -397,7 +397,7 @@ SELECT name, CONCAT(ROUND(100*population/(SELECT population
 
 ### AS
 
-To return the population density (population/area) labeled as desnsity for each continent, SELECT continent, and SUM(population)/SUM(area) AS density FROM world, GROUP BY continent
+To return the population density (population/area) labelled as density for each continent, SELECT continent, and SUM(population)/SUM(area) AS density FROM world, GROUP BY continent
 
 ```sql
 SELECT continent, SUM(population)/SUM(area) AS density
