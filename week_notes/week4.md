@@ -13,6 +13,8 @@ Achievement plans
 - [x] Read through the [Illustrated Intro to Databases]
 - [x] Work on [SQLZoo]
 - [x] Read through the [Development Environments pill]
+- [x] Read through the [Class methods and Instance Methods article]
+- [x] Work on the [REST Game skills workshop]
 
 ---
 
