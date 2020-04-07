@@ -39,6 +39,6 @@
 - [x] [Debugging a Rack app](debugging_a_rack_app.md)
 - [x] [REST Game](REST_game.md)
 
-## SQL
+## Databases
 
 - [x] [SQLZoo](sqlzoo.md)
