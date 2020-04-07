@@ -8,7 +8,15 @@ Learning Objectives
 
 Achievement Plan
 
-- [ ] Work through the stages of the SQLZoo tutorial
+- [x] Work through SELECT basics
+- [x] Work through SELECT from world
+- [x] Work through SELECT from nobel
+- [x] Work through SELECT in SELECT
+- [x] Work through SUM and COUNT
+- [ ] Work through JOIN
+- [ ] Work through more JOIN
+- [ ] Work through NULL
+- [ ] Work through self JOIN
 
 Evidence
 
@@ -33,6 +41,7 @@ Contents:
   - [ORDER](#order)
   - [IN as a value](#in-as-a-value)
   - [CONCAT](#concat)
+  - [AS](#as)
   - [ALL](#all)
   - [Correlated/Synchronised Sub Queries](#correlatedsynchronised-sub-queries)
 - [Aggregates](#aggregates)
@@ -60,7 +69,7 @@ Here's a sample of a table of countries and info about them. Its name is world:
 | Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
 | Andorra     | Europe    | 468     | 78115      | 3712000000   |
 | Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
-| lots more   | ...       | ...     | ...        | ...          |
+| Lots more   | ...       | ...     | ...        | ...          |
 
 SELECT will return a mini table with data filtered out.
 
@@ -386,6 +395,27 @@ SELECT name, CONCAT(ROUND(100*population/(SELECT population
 | Belarus   | 12%          |
 | Lots more | ...          |
 
+### AS
+
+To return the population density (population/area) labeled as desnsity for each continent, SELECT continent, and SUM(population)/SUM(area) AS density FROM world, GROUP BY continent
+
+```sql
+SELECT continent, SUM(population)/SUM(area) AS density
+  FROM world
+ GROUP BY continent
+```
+
+| continent     | density  |
+| ------------- | -------- |
+| Africa        | 34.9805  |
+| Asia          | 144.0131 |
+| Caribbean     | 165.1501 |
+| Eurasia       | 8.6865   |
+| Europe        | 70.0297  |
+| North America | 23.2644  |
+| Oceania       | 4.4501   |
+| South America | 22.9799  |
+
 ### ALL
 
 To return the name of the largest country by population in the world. SELECT name FROM world WHERE population is greater than or equal to ALL, SELECT population FROM world WHERE population is greater than 0.
@@ -447,6 +477,8 @@ Aggregates can be applied to a numeric attribute resulting in a single value bei
 
 To return the total gdp of the Africa, SELECT SUM(gdp) FROM world WHERE continent = 'Africa'.
 
+AVG also works the same bit will average.
+
 ```sql
 SELECT SUM(gdp)
   FROM world
@@ -477,6 +509,8 @@ SELECT COUNT(subject)
 To return countries that have a gdp greater than any country in Africa, SELECT name FROM world WHERE gdp is greater than SELECT MAX gdp (the highest value) FROM world WHERE continent is Africa.
 
 This gets past NULL values, as it will select the max from those that have values.
+
+MIN also works the same but looks for the smallest value.
 
 ```sql
 SELECT name
