@@ -41,7 +41,7 @@ I will strengthen my understanding of OOD by doing the following:
 
 I will move towards the **Build a simple web app with a database** goal by doing the following:
 
-- [ ] Work on the [REST Game skills workshop]
+- [x] Work on the [REST Game skills workshop]
 
 ---
 

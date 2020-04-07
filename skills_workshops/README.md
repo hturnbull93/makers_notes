@@ -37,8 +37,8 @@
 - [x] [Clients 1](clients_1.md)
 - [x] [Birthday Greeter App](birthday_greeter_app.md)
 - [x] [Debugging a Rack app](debugging_a_rack_app.md)
-- [ ] [REST Game](REST_game.md)
+- [x] [REST Game](REST_game.md)
 
 ## SQL
 
-- [ ] [SQLZoo](sqlzoo.md)
+- [x] [SQLZoo](sqlzoo.md)
