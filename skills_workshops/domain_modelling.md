@@ -2,18 +2,18 @@
 
 [All Workshops](README.md) | [Source](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
 
-**Learning Objectives**
+Learning Objectives
 
 - [x] Describe a domain model as the nouns and verbs in a program, and the relationships between them.
 - [x] Explain how you use domain model diagramming in your development process.
 - [x] Use domain model diagramming to help you write better code.
 
-**Achievement Plan**
+Achievement Plan
 
 - [x] Practice making a class diagram from user stories
 - [x] Implement some skeleton code based on the diagram
 
-**Evidence**
+Evidence
 
 I have created a small program emulating a notebook based on a class diagram I made from user stories.
 
@@ -21,11 +21,11 @@ I have created a small program emulating a notebook based on a class diagram I m
 
 ### Domains and Models
 
-**Domain:**
+Domain:
 
 - An area of which you have control over.
 
-**Model:**
+Model:
 
 - A representation of a real thing.
 - The domain in which our problem sits and the representation of the real life things in the domain.
@@ -34,11 +34,11 @@ I have created a small program emulating a notebook based on a class diagram I m
 
 The London Tube map is an abstracted version of the actual geographical map. The designers made this decision to make it readable for users.
 
-**The geographical tube map:**
+The geographical tube map:
 
 ![the geographical tube map](https://i.pinimg.com/originals/4a/bf/0c/4abf0cf65b9ecd6febeb90cca97a5488.gif)
 
-**The model tube map:**
+The model tube map:
 
 ![the model tube map](https://tfl.gov.uk/tfl/syndication/widgets/tubemap/images/tube-medium-zoned.gif)
 
@@ -54,11 +54,11 @@ Designing code and making design choices is inevitable. It is a good idea to hav
 
 The name of a class it's attributes, and its methods. Representing the relationship between objects in the model.
 
-**Class Diagram example:**
+Class Diagram example:
 
 ![Class Diagram example][class diagram example]
 
-**Practice using [Mermaid Live Editor]**
+Practice using [Mermaid Live Editor]
 
 User stories for a Notebook
 
@@ -80,7 +80,7 @@ User stories for a Notebook
 
 ![Notebook Example][notebook example]
 
-**A skeleton implementation following the diagram**
+A skeleton implementation following the diagram
 
 ```ruby
 class Notebook
