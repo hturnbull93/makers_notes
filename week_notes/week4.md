@@ -6,12 +6,13 @@ Week 4 Learning Objectives
 
 - [ ] Build a simple web app with a database
 - [ ] Follow an effective debugging process for database applications
-- [ ] Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
-
+- [x] Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
 Achievement plans
 
-- [ ] Number 1
+- [x] Read through the [Illustrated Intro to Databases]
+- [x] Work on [SQLZoo]
+- [x] Read through the [Development Environments pill]
 
 ---
 
@@ -22,13 +23,31 @@ Learning Objective & Achievement Plan
 I will move towards the **Explain the basics of how databases work** goal by doing the following:
 
 - [x] Read through the [Illustrated Intro to Databases]
-- [ ] Work on [SQLZoo]
+- [x] Work on [SQLZoo]
+
+---
+
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Follow an effective debugging process for database applications** goal by doing the following:
+
+- [x] Read through the [Development Environments pill]
+
+I will strengthen my understanding of OOD by doing the following:
+
+- [x] Read through the [Class methods and Instance Methods article]
+
+I will move towards the **Build a simple web app with a database** goal by doing the following:
+
+- [ ] Work on the [REST Game skills workshop]
 
 ---
 
 ## Week 4 Afternoon Challenge - Bookmark Manager
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/bookmark-manager) with all Learning Objectives, notes, and code.
 
 ---
 <!--
@@ -72,7 +91,7 @@ I will move towards the **Explain the basics of how databases work** goal by doi
 <!-- From week 2 -->
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
-[Process Review workshop]: ../process_workshop.md 
+[Process Review workshop]: ../process_workshop.md
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
@@ -95,3 +114,6 @@ I will move towards the **Explain the basics of how databases work** goal by doi
 
 [Illustrated Intro to Databases]: https://illustrated.dev/databases
 [SQLZoo]: ../skills_workshops/sqlzoo.md
+[Development Environments pill]: https://github.com/makersacademy/course/blob/master/pills/development_environments.md
+[Class methods and Instance Methods article]: https://hackmd.io/sOCjb8IcSIaPvT54SXBb3Q
+[REST Game skills workshop]: ../skills_workshops/REST_game.md
