@@ -25,6 +25,9 @@ Evidence
 Contents:
 
 - [Setting Up an SQL DB](#setting-up-an-sql-db)
+- [CREATE TABLE](#create-table)
+- [INSERT VALUES](#insert-values)
+- [UPDATE](#update)
 - [SELECT Logic](#select-logic)
   - [WHERE](#where)
   - [IN](#in)
@@ -59,6 +62,49 @@ Contents:
 PostgreSQL installation:
 
 [Linux](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_linux.md) | [Mac OS](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md)
+
+## CREATE TABLE
+
+Each table must have a schema set for it before data is entered. To create a table for Olympic years and cities, CREATE TABLE games, yr is an integere that is not null, and is also the primary key (a unique key), city is a string of variable length up to 20.
+
+```sql
+CREATE TABLE games
+(yr   INT NOT NULL PRIMARY KEY
+,city VARCHAR(20)
+);
+```
+
+## INSERT VALUES
+
+To insert some data into the games table, INSERT INTO games, specifying the fields to fill (yr,city), and the VALUE to use.
+
+```sql
+INSERT INTO games(yr,city)
+     VALUES (2012,'London');
+
+SELECT * FROM games;
+```
+
+| yr   | city   |
+| ---- | ------ |
+| 2012 | London |
+
+## UPDATE
+
+To update data in the games table for the year 2012, changing city to Paris, UPDATE games, SET the city to paris WHERE the year is 2012.
+
+```sql
+UPDATE games 
+   SET city='Paris'
+ WHERE yr = 2012;
+
+SELECT * FROM games;
+```
+
+| yr   | city   |
+| ---- | ------ |
+| 2012 | London |
+
 
 ## SELECT Logic
 
