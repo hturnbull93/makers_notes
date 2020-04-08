@@ -56,6 +56,10 @@ I will move towards the **Explain the basics of how databases work** goal by doi
 
 - [x] Attend the [Database Domain Modelling skills workshop]
 
+I will move towards the **Build a simple web app with a database** goal by doing the following:
+
+- [ ] Work on the [Diary App skills workshop]
+
 ---
 
 
@@ -131,4 +135,5 @@ I will move towards the **Explain the basics of how databases work** goal by doi
 [Development Environments pill]: https://github.com/makersacademy/course/blob/master/pills/development_environments.md
 [Class methods and Instance Methods article]: https://hackmd.io/sOCjb8IcSIaPvT54SXBb3Q
 [REST Game skills workshop]: ../skills_workshops/REST_game.md
-[Database Domain Modelling skills workshop]: ../skills-workshop/database_domain_modelling.md
+[Database Domain Modelling skills workshop]: ../skills-workshops/database_domain_modelling.md
+[Diary App skills workshop]: ../skills-workshops/diary_app.md
