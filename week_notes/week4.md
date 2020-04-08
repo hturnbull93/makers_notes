@@ -48,6 +48,17 @@ I will move towards the **Build a simple web app with a database** goal by doing
 
 ---
 
+## Wednesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Explain the basics of how databases work** goal by doing the following:
+
+- [x] Attend the [Database Domain Modelling skills workshop]
+
+---
+
+
 ## Week 4 Afternoon Challenge - Bookmark Manager
 
 [GitHub repo](https://github.com/hturnbull93/bookmark-manager) with all Learning Objectives, notes, and code.
@@ -120,3 +131,4 @@ I will move towards the **Build a simple web app with a database** goal by doing
 [Development Environments pill]: https://github.com/makersacademy/course/blob/master/pills/development_environments.md
 [Class methods and Instance Methods article]: https://hackmd.io/sOCjb8IcSIaPvT54SXBb3Q
 [REST Game skills workshop]: ../skills_workshops/REST_game.md
+[Database Domain Modelling skills workshop]: ../skills-workshop/database_domain_modelling.md

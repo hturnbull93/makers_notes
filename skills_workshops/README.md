@@ -42,3 +42,4 @@
 ## Databases
 
 - [x] [SQLZoo](sqlzoo.md)
+- [x] [Database Domain Modelling](database_domain_modelling.md)
