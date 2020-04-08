@@ -35,9 +35,9 @@ A class has Collaborators, another class that it interacts with to fulfil its re
 | Many to One  | Many of one thing relates to one of another thing  | There are many students in one cohort |
 | Many to Many | Many of one thing relates to many of another thing | Any student may have any of the tags  |
 
-### Practical
+## Practical
 
-#### User Stories
+### User Stories
 
 > As a coach  
 > So I can get to know all students  
@@ -71,6 +71,6 @@ A class has Collaborators, another class that it interacts with to fulfil its re
 > So I can get an overview of feedback  
 > I want to see an average of the day ratings for each student
 
-#### CRC Cards and Table Schema
+### CRC Cards and Table Schema
 
 ![CRC Cards and Table Schema](../images/database_domain_model_diagram.png)
