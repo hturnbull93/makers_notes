@@ -71,3 +71,9 @@ Evidence
 > As a user  
 > So that I can see different types of entry  
 > I want to be able to filter Diary Entries by Tag
+
+## Domain Model & Table Schema
+
+I created a set of Class Responsibility Collaboration Cards and a draft Table Schema:
+
+![CRC Cards and Table Schema](../images/diary_app_domain_model_table_schema.png)
