@@ -4,8 +4,8 @@
 
 Week 4 Learning Objectives
 
-- [ ] Build a simple web app with a database
-- [ ] Follow an effective debugging process for database applications
+- [x] Build a simple web app with a database
+- [x] Follow an effective debugging process for database applications
 - [x] Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
 Achievement plans
@@ -62,40 +62,48 @@ I will move towards the **Build a simple web app with a database** goal by doing
 
 ---
 
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Build a simple web app with a database** goal by doing the following:
+
+- [x] Continue work on the Afternoon Challenge
+
+---
 
 ## Week 4 Afternoon Challenge - Bookmark Manager
 
 [GitHub repo](https://github.com/hturnbull93/bookmark-manager) with all Learning Objectives, notes, and code.
 
 ---
-<!--
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Build a simple web app with a database
+- [x] Follow an effective debugging process for database applications
+- [x] Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
-### Score: Z
+### Score: 8
 
 #### Reasons for Score
 
-- First reason
+- Given this was a 4 day week I was a little concerned about covering enough material, but it was alright in the end as I was able to do a lot of self led learning over the bank holiday.
 
 ### Material to re-cover
 
-- First material
+- Practice more about Web Apps interactive with Database by doing the Diary App.
 
 ---
 
 ## Week 4 Weekend Challenge - Chitter
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/chitter-challenge) with all Learning Objectives, notes, and code.
 
 ---
--->
+
 <!-- Links -->
 
 <!-- From Week 1 -->
