@@ -4,15 +4,15 @@
 
 Learning Objectives
 
-- [ ] Learn a programming construct by exploring and reasoning about examples
+- [x] Learn a programming construct by exploring and reasoning about examples
 
 Achievement Plan
 
-- [ ] Complete the examples provided in the workshop
+- [x] Complete the examples provided in the workshop
 
 Evidence
 
-- Evidence 1
+- I have completed the exercises and made notes below.
 
 ## Exercises
 
@@ -188,9 +188,9 @@ cat.speak = myCatSpeak;
 cat.speak(); // I have 4 legs! Meow!
 ```
 
-### Functions as Object Constructors
+### The Constructor/Prototype Pattern
 
-JS does not have the exact same approach to classes as Ruby does. Instead you can define a function that creates an object, and then add methods to its prototype (base template).
+JS does not have the exact same approach to classes as Ruby does. Instead you can define a function that creates an object (constructor), and then add methods to its base template (prototype).
 
 Here we can set the number of legs for a cat with an argument when calling `new Cat(4)`.
 
@@ -230,7 +230,31 @@ var cat = new Cat(4);
 cat.speak(); // I have 4 legs! Meow!
 ```
 
-In ES6 the `class` keyword can be used, which is syntax sugar for the prototype way. 
+### The Factory Function Pattern
+
+Here, the factory function pattern is used. The `Cat` function creates an object that can return speak and legs, but it is told to do so with return. Calling `cat.speak()` returns the speak function so that is what gets called.
+
+```js
+function Cat(legs) {
+  var legs = legs;
+
+  function speak() {
+    return "I have " + this.legs + " legs! Meow!";
+  }
+
+  return {
+    legs: legs,
+    speak: speak
+  }
+}
+
+var cat = new Cat(4);
+cat.speak(); // I have 4 legs! Meow!
+```
+
+### The Class Pattern
+
+In ES6 the `class` keyword can be used, which is syntax sugar for the previous ways. 
 
 This is much more similar to the equivalent Ruby. `constructor` is essentially the `initialize` method, and additional methods are added in a similar way to JSON.
 
@@ -247,3 +271,4 @@ class Cat {
 var cat = new Cat(4);
 cat.speak(); // I have 4 legs! Meow!
 ```
+

@@ -48,3 +48,4 @@
 ## JavaScript
 
 - [x] [JS Objects and Prototypes skills workshop](js_objects_prototypes.md)
+- [x] [JS Closures skills workshop](js_closures.md)

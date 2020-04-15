@@ -35,6 +35,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Read and write JavaScript syntax** and **Understand the `this` keyword** goals by doing the following:
 
 - [x] Work on the [JS Objects and Prototypes skills workshop]
+- [x] Work on the [JS Closures skills workshop]
 
 ---
 
@@ -112,9 +113,10 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 [Development Environments pill]: https://github.com/makersacademy/course/blob/master/pills/development_environments.md
 [Class methods and Instance Methods article]: https://hackmd.io/sOCjb8IcSIaPvT54SXBb3Q
 [REST Game skills workshop]: ../skills_workshops/REST_game.md
-[Database Domain Modelling skills workshop]: ../skills-workshops/database_domain_modelling.md
-[Diary App skills workshop]: ../skills-workshops/diary_app.md
+[Database Domain Modelling skills workshop]: ../skills_workshops/database_domain_modelling.md
+[Diary App skills workshop]: ../skills_workshops/diary_app.md
 
 <!-- New in Week 5 -->
 
-[JS Objects and Prototypes skills workshop]: ../skills-workshops/js_objects_prototypes.md
+[JS Objects and Prototypes skills workshop]: ../skills_workshops/js_objects_prototypes.md
+[JS Closures skills workshop]: ../skills_workshops/js_closures.md
