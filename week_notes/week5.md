@@ -13,7 +13,12 @@ Week 5 Learning Objectives
 
 Achievement plans
 
+- [x] Recreate FizzBuzz using JavaScript and Jasmine
+- [x] Recreate Airport using JavaScript and Jasmine
 - [x] Work on the [JS Objects and Prototypes skills workshop]
+- [x] Work on the [JS Objects and Prototypes skills workshop]
+- [x] Work on the [JS Closures skills workshop]
+- [x] Read the [CodeAcademy guide to semicolons]
 
 ---
 
@@ -24,7 +29,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Read and write JavaScript syntax** goal by doing the following:
 
 - [x] Recreate FizzBuzz using JavaScript and Jasmine
-- [x] Recreate Airport using JacaScript and Jasmine
+- [x] Recreate Airport using JavaScript and Jasmine
 
 ---
 
@@ -36,7 +41,7 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 
 - [x] Work on the [JS Objects and Prototypes skills workshop]
 - [x] Work on the [JS Closures skills workshop]
-- [x] Read the [CodeAcademy guide to semicolons](https://news.codecademy.com/your-guide-to-semicolons-in-javascript/)
+- [x] Read the [CodeAcademy guide to semicolons]
 
 ---
 
@@ -121,3 +126,4 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 
 [JS Objects and Prototypes skills workshop]: ../skills_workshops/js_objects_prototypes.md
 [JS Closures skills workshop]: ../skills_workshops/js_closures.md
+[CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
