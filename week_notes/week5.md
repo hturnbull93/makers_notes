@@ -13,7 +13,7 @@ Week 5 Learning Objectives
 
 Achievement plans
 
-- [ ] Number 1
+- [ ] Work on the [JS Objects and Prototypes skills workshop]
 
 ---
 
@@ -21,9 +21,9 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
+I will move towards the **Read and write JavaScript syntax** and **Understand the `this` keyword** goals by doing the following:
 
-- [ ] Number 1
+- [ ] Work on the [JS Objects and Prototypes skills workshop]
 
 ---
 
@@ -33,6 +33,7 @@ I will move towards the **xxxxxx** goal by doing the following:
 
 ---
 <!--
+
 ## Retrospective
 
 ### Achievements this week
@@ -106,3 +107,4 @@ I will move towards the **xxxxxx** goal by doing the following:
 
 <!-- New in Week 5 -->
 
+[JS Objects and Prototypes skills workshop]: ../skills-workshops/js_objects_prototypes.md

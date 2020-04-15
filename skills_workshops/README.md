@@ -45,3 +45,6 @@
 - [x] [Database Domain Modelling](database_domain_modelling.md)
 - [ ] [Diary App](diary_app.md)
 
+## JavaScript
+
+- [ ] [JS Objects and Prototypes skills workshop](js_objects_prototypes.md)
