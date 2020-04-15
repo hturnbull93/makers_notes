@@ -36,6 +36,7 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 
 - [x] Work on the [JS Objects and Prototypes skills workshop]
 - [x] Work on the [JS Closures skills workshop]
+- [x] Read the [CodeAcademy guide to semicolons](https://news.codecademy.com/your-guide-to-semicolons-in-javascript/)
 
 ---
 
