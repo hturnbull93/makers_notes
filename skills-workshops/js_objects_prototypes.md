@@ -87,6 +87,7 @@ sayHiTo("Dave"); // Hi Dave!
 ```
 
 In ES6 they can be declared as arrow functions, which is longer for non anonymous functions, but shorter for anonymous functions.
+
 The following is equivalent:
 
 ```js
@@ -156,7 +157,7 @@ cat.speak(); // Meow!
 
 The this keyword will look for the key in the scope of the object that has the method being called.
 
-Here, this.legs refers to cat.legs.
+Here, `this.legs` refers to `cat.legs`.
 
 ```js
 var cat = {
@@ -169,4 +170,80 @@ var cat = {
 cat.speak(); // I have 4 legs! Meow!
 cat.legs = 5;
 cat.speak(); // I have 5 legs! Meow!
+```
+
+The `this` keyword is relative to scope the function is being called from, even if it was defined elsewhere.
+
+```js
+var myCatSpeak = function() {
+  return "I have " + this.legs + " legs! Meow!";
+};
+
+var cat = {
+  legs: 4
+};
+
+cat.speak = myCatSpeak;
+
+cat.speak(); // I have 4 legs! Meow!
+```
+
+### Functions as Object Constructors
+
+JS does not have the exact same approach to classes as Ruby does. Instead you can define a function that creates an object, and then add methods to its prototype (base template).
+
+Here we can set the number of legs for a cat with an argument when calling `new Cat(4)`.
+
+The `this` keyword is used to assign keep the variable in the scope of that particular cat instance.
+
+```js
+var Cat = function(legs) {
+  this.legs = legs;
+};
+
+Cat.prototype.speak = function() {
+  return "I have " + this.legs + " legs! Meow!";
+};
+
+var cat = new Cat(4);
+cat.speak(); // I have 4 legs! Meow!
+
+var otherCat = new Cat(5);
+otherCat.speak(); // I have 5 legs! Meow!
+
+otherCat.legs = 6;
+otherCat.speak(); // I have 6 legs! Meow!
+```
+
+Of course, creating the function with the `function` keyword also works.
+
+```js
+function Cat(legs) {
+  this.legs = legs;
+};
+
+Cat.prototype.speak = function() {
+  return "I have " + this.legs + "legs! Meow!";
+};
+
+var cat = new Cat(4);
+cat.speak(); // I have 4 legs! Meow!
+```
+
+In ES6 the `class` keyword can be used, which is syntax sugar for the prototype way. 
+
+This is much more similar to the equivalent Ruby. `constructor` is essentially the `initialize` method, and additional methods are added in a similar way to JSON.
+
+```js
+class Cat {
+  constructor(legs) {
+    this.legs = legs;
+  }
+  speak() {
+    return "I have " + this.legs + " legs! Meow!";
+  }
+};
+
+var cat = new Cat(4);
+cat.speak(); // I have 4 legs! Meow!
 ```

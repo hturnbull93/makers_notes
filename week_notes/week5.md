@@ -13,17 +13,28 @@ Week 5 Learning Objectives
 
 Achievement plans
 
-- [ ] Work on the [JS Objects and Prototypes skills workshop]
+- [x] Work on the [JS Objects and Prototypes skills workshop]
 
 ---
 
-## Monday
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Read and write JavaScript syntax** goal by doing the following:
+
+- [x] Recreate FizzBuzz using JavaScript and Jasmine
+- [x] Recreate Airport using JacaScript and Jasmine
+
+---
+
+## Wednesday
 
 Learning Objective & Achievement Plan
 
 I will move towards the **Read and write JavaScript syntax** and **Understand the `this` keyword** goals by doing the following:
 
-- [ ] Work on the [JS Objects and Prototypes skills workshop]
+- [x] Work on the [JS Objects and Prototypes skills workshop]
 
 ---
 
@@ -61,9 +72,8 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 
 ---
 -->
-<!-- Links -->
 
-!-- Links -->
+<!-- Links -->
 
 <!-- From Week 1 -->
 
