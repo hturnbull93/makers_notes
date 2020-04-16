@@ -60,7 +60,7 @@ I will move towards the **Read and write JavaScript syntax** goal by doing the f
 
 ## Week 5 Afternoon Challenge - Thermostat
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/thermostat) with all Learning Objectives, notes, and code.
 
 ---
 <!--
