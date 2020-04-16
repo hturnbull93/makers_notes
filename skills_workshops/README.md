@@ -12,6 +12,7 @@
 - [x] [TDD Process](TDD_process.md)
 - [x] [Mocking](mocking.md)
 - [ ] [Mocking with RSpec](mocking_with_rspec.md)
+- [x] [Spies and Mocking in JavaScript](spies_mocking_javascript.md)
 
 ## Debugging
 

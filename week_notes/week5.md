@@ -53,6 +53,7 @@ Learning Objective & Achievement Plan
 I will move towards the **Read and write JavaScript syntax** goal by doing the following:
 
 - [ ] Attend the [Getting Visibility in JavaScript skills workshop]
+- [x] Attend the impromptu [Spies and Mocking in JavaScript skills workshop]
 
 ---
 
@@ -140,3 +141,4 @@ I will move towards the **Read and write JavaScript syntax** goal by doing the f
 [JS Closures skills workshop]: ../skills_workshops/js_closures.md
 [CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
 [Getting Visibility in JavaScript skills workshop]: ../skills_workshops/visibility_javascript.md
+[Spies and Mocking in JavaScript skills workshop]: ../skills_workshops/spies_mocking_javascript.md
