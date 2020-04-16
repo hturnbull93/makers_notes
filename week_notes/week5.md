@@ -19,6 +19,7 @@ Achievement plans
 - [x] Work on the [JS Objects and Prototypes skills workshop]
 - [x] Work on the [JS Closures skills workshop]
 - [x] Read the [CodeAcademy guide to semicolons]
+- [ ] Attend the [Getting Visibility in JavaScript skills workshop]
 
 ---
 
@@ -44,6 +45,17 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 - [x] Read the [CodeAcademy guide to semicolons]
 
 ---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Read and write JavaScript syntax** goal by doing the following:
+
+- [ ] Attend the [Getting Visibility in JavaScript skills workshop]
+
+---
+
 
 ## Week 5 Afternoon Challenge - Thermostat
 
@@ -127,3 +139,4 @@ I will move towards the **Read and write JavaScript syntax** and **Understand th
 [JS Objects and Prototypes skills workshop]: ../skills_workshops/js_objects_prototypes.md
 [JS Closures skills workshop]: ../skills_workshops/js_closures.md
 [CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
+[Getting Visibility in JavaScript skills workshop]: ../skills_workshops/visibility_javascript.md

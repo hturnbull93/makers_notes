@@ -4,7 +4,7 @@
 
 Learning Objectives
 
-- [ ] Understand JavaScript Closures
+- [x] Understand JavaScript Closures
 
 Achievement Plan
 
