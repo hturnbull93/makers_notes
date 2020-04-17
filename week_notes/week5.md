@@ -52,7 +52,6 @@ Learning Objective & Achievement Plan
 
 I will move towards the **Read and write JavaScript syntax** goal by doing the following:
 
-- [ ] Attend the [Getting Visibility in JavaScript skills workshop]
 - [x] Attend the impromptu [Spies and Mocking in JavaScript skills workshop]
 
 ---

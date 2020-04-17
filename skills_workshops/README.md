@@ -18,7 +18,6 @@
 
 - [x] [Debugging](debugging.md)
 - [x] [Debugging 2](debugging_2.md)
-- [ ] [Getting Visibility in JavaScript](visibility_javascript.md)
 
 ## EQ/Process
 
