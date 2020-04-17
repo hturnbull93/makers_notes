@@ -117,3 +117,9 @@ console.log(2)
 ```
 
 However, a risk of this is that synchronous code cannot rely on something returned from asynchronous code, because all the synchronous code will execute before the async event queue is started.
+
+### setTimeout
+
+The `setTimeout` function takes a callback and a time in ms as arguments.
+
+It executes after the stack after waiting however many ms.
