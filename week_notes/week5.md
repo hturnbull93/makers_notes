@@ -56,16 +56,15 @@ I will move towards the **Read and write JavaScript syntax** goal by doing the f
 
 ---
 
-## Thursday
+## Friday
 
 Learning Objective & Achievement Plan
 
 I will move towards the **Understand control flow of callbacks** goal by doing the following:
 
-- [x] Work on the [Callbacks and following the flow of control skills workshop]
+- [x] Work on the [Callbacks and Async skills workshop]
 
 ---
-
 
 ## Week 5 Afternoon Challenge - Thermostat
 
@@ -151,4 +150,4 @@ I will move towards the **Understand control flow of callbacks** goal by doing t
 [CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
 [Getting Visibility in JavaScript skills workshop]: ../skills_workshops/visibility_javascript.md
 [Spies and Mocking in JavaScript skills workshop]: ../skills_workshops/spies_mocking_javascript.md
-[Callbacks and following the flow of control skills workshop]: ../skills_workshops/callbacks_control_flow_javascript.md
+[Callbacks and Async skills workshop]: ../skills_workshops/callbacks_async_javascript.md

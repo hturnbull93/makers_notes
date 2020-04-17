@@ -50,3 +50,4 @@
 
 - [x] [JS Objects and Prototypes skills workshop](js_objects_prototypes.md)
 - [x] [JS Closures skills workshop](js_closures.md)
+- [x] [Callbacks and Async](skills_workshops/callbacks_async_javascript.md)
