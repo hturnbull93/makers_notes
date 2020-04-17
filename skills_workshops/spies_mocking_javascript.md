@@ -1,6 +1,6 @@
 # Spies and Mocking in JavaScript - Skills Workshop
 
-[All Workshops](README.md) | [Source]()
+[All Workshops](README.md)
 
 Learning Objectives
 

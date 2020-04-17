@@ -7,8 +7,8 @@ Week 5 Learning Objectives
 - [ ] Test drive a simple front-end web app with Javascript
 - [ ] Follow an effective process for learning a new language
 - [ ] Read and write JavaScript syntax
-- [ ] Understand the `this` keyword
-- [ ] Understand Ajax request and response
+- [x] Understand the `this` keyword
+- [x] Understand Ajax request and response
 - [ ] Understand control flow of callbacks
 
 Achievement plans
@@ -53,6 +53,16 @@ Learning Objective & Achievement Plan
 I will move towards the **Read and write JavaScript syntax** goal by doing the following:
 
 - [x] Attend the impromptu [Spies and Mocking in JavaScript skills workshop]
+
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Understand control flow of callbacks** goal by doing the following:
+
+- [x] Work on the [Callbacks and following the flow of control skills workshop]
 
 ---
 
@@ -141,3 +151,4 @@ I will move towards the **Read and write JavaScript syntax** goal by doing the f
 [CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
 [Getting Visibility in JavaScript skills workshop]: ../skills_workshops/visibility_javascript.md
 [Spies and Mocking in JavaScript skills workshop]: ../skills_workshops/spies_mocking_javascript.md
+[Callbacks and following the flow of control skills workshop]: ../skills_workshops/callbacks_control_flow_javascript.md
