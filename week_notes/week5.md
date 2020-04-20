@@ -4,12 +4,12 @@
 
 Week 5 Learning Objectives
 
-- [ ] Test drive a simple front-end web app with Javascript
-- [ ] Follow an effective process for learning a new language
-- [ ] Read and write JavaScript syntax
+- [x] Test drive a simple front-end web app with Javascript
+- [x] Follow an effective process for learning a new language
+- [x] Read and write JavaScript syntax
 - [x] Understand the `this` keyword
 - [x] Understand Ajax request and response
-- [ ] Understand control flow of callbacks
+- [x] Understand control flow of callbacks
 
 Achievement plans
 
@@ -19,7 +19,8 @@ Achievement plans
 - [x] Work on the [JS Objects and Prototypes skills workshop]
 - [x] Work on the [JS Closures skills workshop]
 - [x] Read the [CodeAcademy guide to semicolons]
-- [ ] Attend the [Getting Visibility in JavaScript skills workshop]
+- [x] Attend the impromptu [Spies and Mocking in JavaScript skills workshop]
+- [x] Work on the [Callbacks and Async skills workshop]
 
 ---
 
@@ -71,35 +72,37 @@ I will move towards the **Understand control flow of callbacks** goal by doing t
 [GitHub repo](https://github.com/hturnbull93/thermostat) with all Learning Objectives, notes, and code.
 
 ---
-<!--
 
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Test drive a simple front-end web app with Javascript
+- [x] Follow an effective process for learning a new language
+- [x] Read and write JavaScript syntax
+- [x] Understand the `this` keyword
+- [x] Understand Ajax request and response
+- [x] Understand control flow of callbacks
 
-### Score: z
+### Score: 8
 
 #### Reasons for Score
 
-- First reason
+- I'm happy with my ability to create simple front-end apps using JS, as I have demonstrated in Thermostat and Bowling Scorecard.
+- I'm satisfied with the rate at which I have become comfortable with JS, practice makes perfect though.
+- I understand AJAX and have implemented it with API calls to openweathermap.org in Thermostat, and I understand in theory how this could be used to hook up a remote database, but I haven't actually implemented that to save Thermostat state.
 
 ### Material to re-cover
 
-- First material
+- Create and hook up a database to save Thermostat state.
 
 ---
 
-## Week 5 Weekend Challenge - WEEKENDCHALLENGE
+## Week 5 Weekend Challenge - Bowling Scorecard
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/bowling-challenge) with all Learning Objectives, notes, and code.
 
 ---
--->
 
 <!-- Links -->
 
