@@ -51,3 +51,11 @@ Feedback:
 - Stick with your guns on which dimension of the problem to solve first.
 - Commit after every step of red green refactor.
 - Use only one elsif statement before refactoring to a general solution.
+
+## 20 April
+
+Attempted Ten Green Bottle
+
+Feedback:
+
+- Make sure methods are appropriately named.
