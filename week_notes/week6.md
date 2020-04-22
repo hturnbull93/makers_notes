@@ -27,6 +27,12 @@ Achievement plans
 [GitHub repo]() with all Learning Objectives, notes, and code.
 
 ---
+
+## Additional Workshops
+
+- [ ] Attend [Optimise Your Team - Communication EQ workshop]
+
+
 <!--
 ## Retrospective
 
@@ -107,3 +113,5 @@ Achievement plans
 [Callbacks and Async skills workshop]: ../skills_workshops/callbacks_async_javascript.md
 
 <!-- New in week 6 -->
+
+[Optimise Your Team - Communication EQ workshop]: ../skills_workshops/communication.md
