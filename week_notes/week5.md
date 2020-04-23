@@ -1,4 +1,4 @@
-# Week 5 - TITLE
+# Week 5 - JavaScript
 
 [Back](README.md) | [Week 5 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-5)
 
