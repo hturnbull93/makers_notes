@@ -4,15 +4,15 @@
 
 Learning Objectives
 
-- [ ] LO
+- [x] Learn the types of people in the DISC
 
 Achievement Plan
 
-- [ ] AP
+- [x] Discuss the motivations, priorities, fears, annoyances and advice for each DISC personality
 
 Evidence
 
-- Evidence 1
+- I have made notes on the discussion below.
 
 ## DISC
 
