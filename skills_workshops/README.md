@@ -24,7 +24,7 @@
 - [x] [Feedback](feedback.md)
 - [x] [Code Review](code_review.md)
 - [x] [Empathy](empathy.md)
-- [ ] [Communication](communication.md)
+- [x] [Communication](communication.md)
 
 ## OOP
 
