@@ -31,68 +31,63 @@ Outgoing people <----> Reserved people
 
 ### D: Direct Decisive Doer (Task + Outgoing)
 
-Q1. Motivation/ What gets them out of bed in the morning?
-Gives very direct straight to the point and honest feedback from a place of kindness as it is seen as for your own good.
+1. What gets us out of bed in the morning
+   - Gives very direct straight to the point and honest feedback from a place of kindness as it is seen as for your own good.
+   - Motivated by a desire to get things done! They want to see the project succeed, meet goals and targets.
+   - Motivated to be very honest, even if they feel it may upset you (tough love) as they believe it will help you improve in the long run, and will help the project succeed.
+   - They are motivated by a desire to lead, and be in a position of strength and power.
 
-Motivated by a desire to get things done! They want to see the project succeed, meet goals and targets.
+2. What is our priority
+   - Goal driven, - often less interested in smaller details, are focussing on the big picture to get things done as efficiently as possible.
+   - Their priority is more based on the project, than the people, they are more interested in efficiency of the project and its completion than how the people feel on the team.
+   - Meeting targets, ticking things off a list.
 
-Motivated to be very honest, even if they feel it may upset you (tough love) as they believe it will help you improve in the long run, and will help the project succeed.
+3. What are their fears
+   - THE PROJECT FAILS
+   - My goal is incomplete!
+   - People getting in the way of my goal.
+   - Messy feelings
+   - Not being heard
+   - Not being in control
+   - Being powerless
 
-They are motivated by a desire to lead, and be in a position of strength and power.
+4. What annoys them?
+   - Don’t do the task
+   - Get distracted
+   - Detail focused
+   - Go off on tangents
+   - Emotional focus
+   - Planning too much
+   - Dithering - people going on a tangent / or socialise
+   - Not sticking to timetables, being late
 
-Q2. What are their priorities?
-Goal driven, - often less interested in smaller details, are focussing on the big picture to get things done as efficiently as possible.
+5. What are their shortcomings (what annoys other people)
+   - Being domineering
+   - Not caring about others feelings
+   - Written communication is very direct
+   - Perceived to not listen
+   - ‘Gung ho’
+   - Missing out the details
 
-Their priority is more based on the project, than the people, they are more interested in efficiency of the project and its completion than how the people feel on the team.
-
-Meeting targets, ticking things off a list.
-
-Q. Fears
-THE PROJECT FAILS
-My goal is incomplete!
-People getting in the way of my goal.
-Messy feelings
-Not being heard
-Not being in control
-Being powerless
-
-Q. How to annoy them?
-Don’t do the task
-Get distracted
-Detail focused
-Go off on tangents
-Emotional focus
-Planning too much
-Dithering - people going on a tangent / or socialis
-Not sticking to timetables, being late
-
-Q. How do they annoy others
-Being domineering
-Not caring about others feelings
-Written communication is very direct
-Perceived to not listen
-‘Gung ho’
-Missing out the details
-
-Q.
-Take a breath before speaking
-Let everyone else talk before you go again
-Setting expectations - are you happy that written communication is direct? - so it’s not misinterpreted when you are direct
-It’s ok to show vulnerability - you don’t have to be great at everything, you can delegate
-It’s ok to allow other people to be detail orientated
+6. Advice
+   - Take a breath before speaking
+   - Let everyone else talk before you go again
+   - Setting expectations - are you happy that written communication is direct? - so it’s not misinterpreted when you are direct
+   - It’s ok to show vulnerability - you don’t have to be great at everything, you can delegate
+   - It’s ok to allow other people to be detail orientated
 
 ### I: Interesting Interactive Inspiring (People + outgoing)
 
 1. What gets us out of bed in the morning
-Extrinsically motivated
-When climbing a mountain, we want to pick one we can all climb, we all get there together and everyone has a great time.
-Stand ups, retros - is everyone getting something out of it and feels involved.
+   - Extrinsically motivated
+   - When climbing a mountain, we want to pick one we can all climb, we all get there together and everyone has a great time.
+   - Stand ups, retros - is everyone getting something out of it and feels involved.
 
 2. What is our priority
-Want to make sure everyone else is having a good time
-Want to share their knowledge
-Understand how people want to learn
-Does everyone understand before moving on
+   - Want to make sure everyone else is having a good time
+   - Want to share their knowledge
+   - Understand how people want to learn
+   - Does everyone understand before moving on
 
 3. What are their fears
    - Not being able to interact with others
