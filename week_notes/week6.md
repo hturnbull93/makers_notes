@@ -4,63 +4,65 @@
 
 Week 6 Learning Objectives
 
-- [ ] Break down projects into tasks and allocate them to pairs
-- [ ] Build to a specification (rather than challenges)
-- [ ] Run stand-ups and retrospectives
-- [ ] Use a branch/PR/merge git workflow
-- [ ] Give and receive meaningful code review
+- [x] Break down projects into tasks and allocate them to pairs
+- [x] Build to a specification (rather than challenges)
+- [x] Run stand-ups and retrospectives
+- [x] Use a branch/PR/merge git workflow
+- [x] Give and receive meaningful code review
 
 High Level Skills
 
-- [ ] Use [XP values](https://github.com/makersacademy/course/tree/master/makersbnb#xp-values) to guide your behaviour?
-- [ ] Follow the full [developer workflow](https://github.com/makersacademy/course/tree/master/makersbnb#development-workflow) (Creating issues, branching, reviewing, squirrelling, merging.)
-- [ ] Keep code quality and test coverage high whilst building new features?
+- [x] Use [XP values](https://github.com/makersacademy/course/tree/master/makersbnb#xp-values) to guide your behaviour?
+- [x] Follow the full [developer workflow](https://github.com/makersacademy/course/tree/master/makersbnb#development-workflow) (Creating issues, branching, reviewing, squirrelling, merging.)
+- [x] Keep code quality and test coverage high whilst building new features?
 
 Achievement plans
 
-- [ ] Number 1
+- [x] Work as a team to create an Air BnB clone.
+- [x] Lead the team for a day.
 
 ---
 
 ## Week Challenge - Makers BnB
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/team-bnb) with all Learning Objectives, notes, and code.
 
 ---
 
 ## Additional Workshops
 
-- [ ] Attend [Optimise Your Team - Communication EQ workshop]
+- [x] Attend [Optimise Your Team - Communication EQ workshop]
 
-
-<!--
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Break down projects into tasks and allocate them to pairs
+- [x] Build to a specification (rather than challenges)
+- [x] Run stand-ups and retrospectives
+- [x] Use a branch/PR/merge git workflow
+- [x] Give and receive meaningful code review
 
-### Score: z
+### Score: 8
 
 #### Reasons for Score
 
-- First reason
-
-### Material to re-cover
-
-- First material
+- I think we learned to work as an agile/xp team well.
+- There was little time to expand my technical skill, as most of the time was spent implementing features I had already done before.
 
 ---
 
-## Week 6 Weekend Challenge - WEEKENDCHALLENGE
+## Week 6 Weekend Challenge - Bowling Challenge
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/bowling-challenge) with all Learning Objectives, notes, and code.
+
+As most of the bowling challenge was completed last weekend, I also:
+
+- Learned some [basic React](https://github.com/hturnbull93/react-practice).
+- Recreated the [thermostat in React](https://github.com/hturnbull93/react-thermostat).
 
 ---
--->
+
 <!-- Links -->
 
 <!-- From Week 1 -->
