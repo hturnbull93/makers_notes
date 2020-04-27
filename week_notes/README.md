@@ -10,3 +10,4 @@ Each week contains Learning Objectives, Achievement Plans, Evidences, and a diar
 - [Week 4](week4.md): Databases
 - [Week 5](week5.md): JavaScript
 - [Week 6](week6.md): Makers BnB
+- [Week 7](week7.md): Vanilla JavaScript
