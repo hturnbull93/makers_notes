@@ -56,4 +56,4 @@
 - [x] [Thermostat in React](https://github.com/hturnbull93/react-thermostat)
 - [x] [Frontend Single Page App](frontend_single_page_app.md)
 - [x] [JavaScript Promises skills workshop](javascript_promises.md)
-
+- [x] [JavaScript Module Patterns skills workshop](javascript_module_patterns.md)

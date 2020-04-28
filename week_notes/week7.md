@@ -38,7 +38,7 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 
 - [x] Work on the [JavaScript Promises skills workshop]
 
-I will move towards the **Reason about asynchronous behaviour in Javascript** goal by doing the following:
+I will move towards the **Work competently in Javascript** goal by doing the following:
 
 - [x] Work on the [JavaScript Module Patterns skills workshop]
 
