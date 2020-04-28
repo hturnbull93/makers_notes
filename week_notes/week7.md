@@ -10,7 +10,7 @@ Week 7 Learning Objectives
 
 Achievement plans
 
-- [ ] Number 1
+- [x] Attend the week orientation
 
 ---
 
@@ -18,15 +18,25 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
+I will move towards the **Build a front-end app in Javascript** goal by doing the following:
 
-- [ ] Number 1
+- [x] Attend the week orientation
+
+---
+
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Build a front-end app in Javascript** goal by doing the following:
+
+- [ ] Read and made notes on the the [Frontend Single Page App] pill
 
 ---
 
 ## Week 7 Afternoon Challenge - Notes App with Testing Framework
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/grahamfalconer/notes_app) with all Learning Objectives, notes, and code.
 
 [Source](https://github.com/makersacademy/course/blob/master/further_javascript/project_track.md)
 
@@ -115,3 +125,5 @@ I will move towards the **xxxxxx** goal by doing the following:
 [Optimise Your Team - Communication EQ workshop]: ../skills_workshops/communication.md
 
 <!-- New in Week 7 -->
+
+[Frontend Single Page App]: ../skills_workshops/frontend_single_page_app.md
