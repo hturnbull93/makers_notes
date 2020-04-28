@@ -11,6 +11,7 @@ Week 7 Learning Objectives
 Achievement plans
 
 - [x] Attend the week orientation
+- [x] Work on the [Frontend Single Page App skills workshop]
 
 ---
 
@@ -30,7 +31,7 @@ Learning Objective & Achievement Plan
 
 I will move towards the **Build a front-end app in Javascript** goal by doing the following:
 
-- [ ] Read and made notes on the the [Frontend Single Page App] pill
+- [x] Work on the [Frontend Single Page App skills workshop]
 
 ---
 
@@ -126,4 +127,4 @@ I will move towards the **Build a front-end app in Javascript** goal by doing th
 
 <!-- New in Week 7 -->
 
-[Frontend Single Page App]: ../skills_workshops/frontend_single_page_app.md
+[Frontend Single Page App skills workshop]: ../skills_workshops/frontend_single_page_app.md

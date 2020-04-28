@@ -4,12 +4,12 @@
 
 Learning Objectives
 
-- [ ] Understand how to prevent a page reloading
-- [ ] Alter content using event listeners
+- [x] Understand how to prevent a page reloading
+- [x] Alter content using event listeners
 
 Achievement Plan
 
-- [ ] Understand and make notes on the examples
+- [x] Understand and make notes on the examples
 
 Evidence
 
