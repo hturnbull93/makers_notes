@@ -16,7 +16,7 @@ Evidence
 
 ## Exercises
 
-A closure is a 
+A closure is a function within a function.
 
 ### A Basic Counter
 
