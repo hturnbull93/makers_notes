@@ -12,6 +12,7 @@ Achievement plans
 
 - [x] Attend the week orientation
 - [x] Work on the [Frontend Single Page App skills workshop]
+- [x] Work on the [JavaScript Promises skills workshop]
 
 ---
 
