@@ -38,6 +38,10 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 
 - [x] Work on the [JavaScript Promises skills workshop]
 
+I will move towards the **Reason about asynchronous behaviour in Javascript** goal by doing the following:
+
+- [x] Work on the [JavaScript Module Patterns skills workshop]
+
 ---
 
 ## Week 7 Afternoon Challenge - Notes App with Testing Framework
@@ -134,3 +138,4 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 
 [Frontend Single Page App skills workshop]: ../skills_workshops/frontend_single_page_app.md
 [JavaScript Promises skills workshop]: ../skills_workshops/javascript_promises.md
+[JavaScript Module Patterns skills workshop]: ../skills_workshops/javascript_module_patterns.md
