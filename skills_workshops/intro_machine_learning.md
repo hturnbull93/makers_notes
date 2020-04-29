@@ -8,7 +8,7 @@
 
 Stanford
 
-> Traditionally, software engineering combined human created rules with data to create answers to a problem. Instead Machine Learning uses data and answers to ciscover the rules behind the problem.
+> Traditionally, software engineering combined human created rules with data to create answers to a problem. Instead Machine Learning uses data and answers to discover the rules behind the problem.
 
 Chollet
 
@@ -20,7 +20,7 @@ Carnegie Mellon
 
 ### Recommendations
 
-In ebay, amazon, netflix etc.
+In EBay, Amazon, Netflix etc.
 
 Based on what other users have done in the past it will recommend other products, movies etc.
 
