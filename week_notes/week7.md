@@ -13,6 +13,7 @@ Achievement plans
 - [x] Attend the week orientation
 - [x] Work on the [Frontend Single Page App skills workshop]
 - [x] Work on the [JavaScript Promises skills workshop]
+- [x] Work on the [JavaScript Module Patterns skills workshop]
 
 ---
 
@@ -41,8 +42,25 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 I will move towards the **Work competently in Javascript** goal by doing the following:
 
 - [x] Work on the [JavaScript Module Patterns skills workshop]
+- [x] Attend the Testing Framework Starter workshop
 
 ---
+
+## Wednesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Reason about asynchronous behaviour in Javascript** goal by doing the following:
+
+- [x] Attend the [Async and the Event Loop skills workshop]
+
+Also:
+
+- [x] Attend the [Intro to Machine Learning Seminar]
+
+
+---
+
 
 ## Week 7 Afternoon Challenge - Notes App with Testing Framework
 
@@ -139,3 +157,5 @@ I will move towards the **Work competently in Javascript** goal by doing the fol
 [Frontend Single Page App skills workshop]: ../skills_workshops/frontend_single_page_app.md
 [JavaScript Promises skills workshop]: ../skills_workshops/javascript_promises.md
 [JavaScript Module Patterns skills workshop]: ../skills_workshops/javascript_module_patterns.md
+[Async and the Event Loop skills workshop]: ../skills_workshops/async_event_loop.md
+[Intro to Machine Learning Seminar]: ../skills_workshops/intro_machine_learning.md

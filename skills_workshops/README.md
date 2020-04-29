@@ -55,5 +55,10 @@
 - [x] [Basic React](https://github.com/hturnbull93/react-practice)
 - [x] [Thermostat in React](https://github.com/hturnbull93/react-thermostat)
 - [x] [Frontend Single Page App](frontend_single_page_app.md)
-- [x] [JavaScript Promises skills workshop](javascript_promises.md)
-- [x] [JavaScript Module Patterns skills workshop](javascript_module_patterns.md)
+- [x] [JavaScript Promises](javascript_promises.md)
+- [x] [JavaScript Module Patterns](javascript_module_patterns.md)
+- [x] [Async and the Event Loop](async_event_loop.md)
+
+## Machine Learning
+
+- [x] [Intro to Machine Learning](intro_machine_learning.md)
