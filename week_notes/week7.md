@@ -58,6 +58,15 @@ Also:
 
 - [x] Attend the [Intro to Machine Learning Seminar]
 
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the **Reason about asynchronous behaviour in Javascript** goal by doing the following:
+
+- [x] Attend the week orientation
 
 ---
 
