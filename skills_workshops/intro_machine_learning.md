@@ -101,7 +101,9 @@ Become learned!
 
 ## Difficulties facing Machine Learning
 
-Biased or unlabelled data sets.
+Biased data results in biased models.
+
+Unlabelled data sets take time to label.
 
 ## AI, Machine Learning, Deep Learning
 
