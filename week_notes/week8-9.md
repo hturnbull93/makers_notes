@@ -59,8 +59,6 @@ Learning Objective & Achievement Plan
 -->
 <!-- Links -->
 
-<!-- Links -->
-
 <!-- From Week 1 -->
 
 [First day intro]: Intro_first_day.md
