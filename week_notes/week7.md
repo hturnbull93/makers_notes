@@ -79,33 +79,33 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 
 ---
 
-<!--
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a front-end app in Javascript
-- [ ] Work competently in Javascript
-- [ ] Reason about asynchronous behaviour in Javascript
+- [x] Build a front-end app in Javascript
+- [x] Work competently in Javascript
+- [x] Reason about asynchronous behaviour in Javascript
 
-### Score: z
+### Score: 6
 
 #### Reasons for Score
 
-- First reason
+- I have done well in self led learning, however I feel that I have had trouble being challenged during the group project in the afternoons, (although I have made progress during the weekend challenge)
 
 ### Material to re-cover
 
-- First material
+- More practice on APIs, async/await, promises, and setTimeout.
 
 ---
 
-## Week 7 Weekend Challenge - WEEKENDCHALLENGE
+## Week 7 Weekend Challenge - News Summary
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
+[GitHub repo](https://github.com/hturnbull93/news-summary-challenge) with all Learning Objectives, notes, and code.
 
 ---
--->
+
 <!-- Links -->
 
 <!-- From Week 1 -->
