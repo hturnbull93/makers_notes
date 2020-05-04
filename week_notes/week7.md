@@ -70,7 +70,6 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 
 ---
 
-
 ## Week 7 Afternoon Challenge - Notes App with Testing Framework
 
 [GitHub repo](https://github.com/grahamfalconer/notes_app) with all Learning Objectives, notes, and code.
@@ -78,7 +77,6 @@ I will move towards the **Reason about asynchronous behaviour in Javascript** go
 [Source](https://github.com/makersacademy/course/blob/master/further_javascript/project_track.md)
 
 ---
-
 
 ## Retrospective
 

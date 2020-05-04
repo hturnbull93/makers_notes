@@ -10,7 +10,6 @@ Week 8 & 9 Learning Objectives
 - [ ] Diagram the sequence of events when you run rails server
 - [ ] Diagram a request and response cycle of a user interacting with the rails app
 
-
 Achievement plans
 
 - [ ] Number 1

@@ -40,9 +40,9 @@ Second, code is read way more times than it is written.
 
 Third, code needs to be written quickly, but if too fast, compromises made to the flexibility of code.
 
-#### About the codebase
+#### About the Codebase
 
-Most code is called one on startup, some is called infrequently, a smaller amount of code is used frequently.
+Most code is called one on startup just once, some is called infrequently, a smaller amount of code is used frequently.
 
 It's important to optimise the small amount of frequently used code fast.
 
@@ -89,7 +89,7 @@ There are organisations that pay people to write libraries. These people will al
 
 Use libraries for:
 
-- Time - trouble with leap years, leap seconds, timeshifts (bst), before epoch.
+- Time - trouble with leap years, leap seconds, timezone changes (e.g. bst), before epoch.
 - Money - (do not use floating point!!)
 - Threads - avoid unless you really really have to.
 - Logging - to logfiles etc. console.log is synchronous, so if you do a lot of logging you block the thread a lot.
@@ -97,4 +97,58 @@ Use libraries for:
 
 Focus on the business problem!
 
-## 
+## Questions
+
+### How did you decide what you wanted to do?
+
+Just followed whatever what was going on for the first couple of years.
+
+Only with the last couple of jobs did he decided what to work on.
+
+Hiring senior devs is hard as they tend to have strong opinions on subjects at that point.
+
+### What does Babylon do in hiring process to get the developers that align with their schools of thought
+
+Coding interview, pair programming. Not looking for encyclopaedic knowledge, but how their mind works and how they approach problems.
+
+Seniors do systems design interview. Can they build something simple and stupid, (i.e. not a facebook clone immediately), but have an understanding of where it could be expanded to.
+
+### Any recurring patterns from junior devs?
+
+Always ask questions, it reduces the time taken to learn, do not feel ashamed of asking questions.
+
+Good managers will give you time to do self led learning.
+
+### Should we use threading?
+
+It depends. Old days of game dev, there were lots of hacks to work with minimal storage and cpu power.
+
+Now with web, android and iOS, now there is another constrained environment.
+
+In android, one thread is for display, and another thread does the server fetch work.
+
+Hopefully there would be a set of abstractions to make it easier to work with, otherwise it can get tricky.
+
+Threading comes up in interviews, threads and deadlocks, and binary search. Things that never actually get done in work, but the fact you know about them shows you understand what is going on.
+
+### When applying for a job should you be worried about not knowing a language so well?
+
+There's a balance to be struck. The concepts in languages are going to be cross language.
+
+When starting out, you have very little to lose by making the application, be upfront with it.
+
+A good hiring manager will look for personality and drive, rather than specific language trivia.
+
+CS structure, Order of familiarity for languages and frameworks. CVs are buzzword bingo, gets you past recruiter into the hands of the actual hiring manager.
+
+### Senior devs having strong opinions, how do you work with that?
+
+Seniors have enough knowledge to have a strong opinion, but not yet have the understanding that opinion doesn't matter.
+
+"Religious Wars" on things that don't matter as long as they are consistent. Like which of kebab-case, snake_case, or ramcase for url path names.
+
+Junior is about writing code.
+
+Senior is about using code writing and feature creation skills to make working code that solves a problem.
+
+Tech Lead is managing juniors, mids and seniors to make sure they are all working towards the actual goal of the project.
