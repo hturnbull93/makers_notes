@@ -5,6 +5,11 @@
 Week 8 & 9 Learning Objectives
 
 - [ ] Use high-quality processes to build a project in a team?
+- [ ] Diagram a high-level view of Rails MVC architecture
+- [ ] Compare and contrast to another MVC framework
+- [ ] Diagram the sequence of events when you run rails server
+- [ ] Diagram a request and response cycle of a user interacting with the rails app
+
 
 Achievement plans
 
@@ -24,7 +29,7 @@ I will move towards the **xxxxxx** goal by doing the following:
 
 ## Week 8 & 9 Week Challenge - Acebook
 
-[Source](https://github.com/makersacademy/course/tree/master/engineering_projects/rails) | [GitHub repo]() with all Learning Objectives, notes, and code.
+[Source](https://github.com/makersacademy/course/tree/master/engineering_projects/rails) | [GitHub repo](https://github.com/Steven-Klavins/acebook-myspace) with all Learning Objectives, notes, and code.
 
 ---
 <!--
