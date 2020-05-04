@@ -12,7 +12,7 @@ Week 8 & 9 Learning Objectives
 
 Achievement plans
 
-- [ ] Number 1
+- [x] Attended [Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]
 
 ---
 
@@ -20,7 +20,7 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-- [ ] Attended [Stuff I'd Tell My Younger Self - Doogal Simpson - Lunchtime Talk]
+- [x] Attended [Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]
 
 ---
 
@@ -125,4 +125,4 @@ Learning Objective & Achievement Plan
 <!-- New in Week 8 & 9 -->
 
 [Intro to Machine Learning Seminar]: ../skills_workshops/intro_machine_learning.md
-[Stuff I'd Tell My Younger Self - Doogal Simpson - Lunchtime Talk]: ../skills_workshops/stuff_id_tell_my_younger_self.md
+[Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]: ../skills_workshops/stuff_id_tell_my_younger_self.md
