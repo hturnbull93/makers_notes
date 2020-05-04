@@ -59,6 +59,7 @@
 - [x] [JavaScript Module Patterns](javascript_module_patterns.md)
 - [x] [Async and the Event Loop](async_event_loop.md)
 
-## Machine Learning
+## Seminars/Lunchtime Talks
 
 - [x] [Intro to Machine Learning](intro_machine_learning.md)
+- [x] [Stuff I'd Tell My Younger Self](stuff_id_tell_my_younger_self.md)
