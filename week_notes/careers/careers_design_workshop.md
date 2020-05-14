@@ -46,7 +46,7 @@ I would like to work for Google. Or a web development agency. Anywhere that allo
 
 Commuting distance: 1 hour each way maximum. I am comfortable remote working.
 
-Opportunity for self led learning/personal skills development.
+Opportunity for self led learning/personal skills development, supported by the company explicitly.
 
 ### What is this career change really about
 
