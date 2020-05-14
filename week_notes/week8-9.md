@@ -16,7 +16,7 @@ Achievement plans
 
 ---
 
-## Week 1Monday
+## Week 1 Monday
 
 Learning Objective & Achievement Plan
 
@@ -43,6 +43,12 @@ Learning Objective & Achievement Plan
 ## Week 8 & 9 Week Challenge - Acebook
 
 [Source](https://github.com/makersacademy/course/tree/master/engineering_projects/rails) | [Full Learning Objectives](https://github.com/makersacademy/course/blob/master/engineering_projects/rails/learning_objectives.md) | [GitHub repo](https://github.com/Steven-Klavins/acebook-myspace) with all Learning Objectives, notes, and code.
+
+---
+
+## Week 8 Weekend Challenge - Instagram Challenge
+
+[GitHub repo](https://github.com/hturnbull93/instagram-challenge) with all Learning Objectives, notes, and code.
 
 ---
 <!--
