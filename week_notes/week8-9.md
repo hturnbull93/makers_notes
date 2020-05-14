@@ -147,4 +147,4 @@ Learning Objective & Achievement Plan
 [Intro to Machine Learning Seminar]: ../skills_workshops/intro_machine_learning.md
 [Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]: ../skills_workshops/stuff_id_tell_my_younger_self.md
 [Review]: /reviews.md
-[Careers Design workshop]: ./careers/careers_design_workshop.md
+[Careers Design workshop]: ../careers/careers_design_workshop.md
