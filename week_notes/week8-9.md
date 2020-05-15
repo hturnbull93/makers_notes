@@ -4,11 +4,11 @@
 
 Week 8 & 9 Learning Objectives
 
-- [ ] Use high-quality processes to build a project in a team?
-- [ ] Diagram a high-level view of Rails MVC architecture
-- [ ] Compare and contrast to another MVC framework
-- [ ] Diagram the sequence of events when you run rails server
-- [ ] Diagram a request and response cycle of a user interacting with the rails app
+- [x] Use high-quality processes to build a project in a team
+- [x] Diagram a high-level view of Rails MVC architecture
+- [x] Compare and contrast to another MVC framework
+- [x] Diagram the sequence of events when you run rails server
+- [x] Diagram a request and response cycle of a user interacting with the rails app
 
 Achievement plans
 
@@ -59,34 +59,32 @@ Learning Objective & Achievement Plan
 [GitHub repo](https://github.com/hturnbull93/instagram-challenge) with all Learning Objectives, notes, and code.
 
 ---
-<!--
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Use high-quality processes to build a project in a team
+- [x] Diagram a high-level view of Rails MVC architecture
+- [x] Compare and contrast to another MVC framework
+- [x] Diagram the sequence of events when you run rails server
+- [x] Diagram a request and response cycle of a user interacting with the rails app
 
-### Score: z
+### Score: 8
 
 #### Reasons for Score
 
-- First reason
+- This week has been a bit stressful, as it was the end of a two week project.
+- I feel I have learned a lot about teamwork.
+- I have learned new technologies: Ruby on Rails, and React.
+- The quality of our teams code was not up to the highest standard in terms of test coverage.
+- The processes for teamwork could be improved
 
 ### Material to re-cover
 
-- First material
+- Rails API sessions, authentication.
+- More practice on React state management, complex prop passing.
 
----
-
-## Week 8 & 9 Weekend Challenge - WEEKENDCHALLENGE
-
-[GitHub repo]() with all Learning Objectives, notes, and code.
-
----
--->
 <!-- Links -->
 
 <!-- From Week 1 -->
