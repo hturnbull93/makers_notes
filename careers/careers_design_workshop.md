@@ -2,18 +2,6 @@
 
 [All Workshops](README.md)
 
-Learning Objectives
-
-- [ ] LO
-
-Achievement Plan
-
-- [ ] AP
-
-Evidence
-
-- Evidence 1
-
 ## Job Hunt Schedule
 
 Monday: QnA
@@ -45,6 +33,12 @@ I would like to work for Google.
 Or a web development agency.
 
 Anywhere that allows a flexible working environments (not just in a cubicle, but I would like my own desk).
+
+Other companies:
+
+- Monzo
+- Thoughtmachine
+- Babylon
 
 ### What are the non-negotiable you must have in your next role
 
@@ -112,14 +106,40 @@ Stick to your guns on your requirements.
 
 Always have your aim, and always move towards it.
 
-### 7. 
+### 7. Use LinkedIn as your primary tool
 
-### 8. 
+Search for bootcamp grads, see where they work, connect with their companies teams, (as they have hired bootcamp grads before).
 
-### 9. 
+### 8. Don't rely on your CV or cover letters
 
-### 10. 
+Connect with people who will be involved in your hire.
 
-### 11. 
+Find a companies github, look at their issues. Fix one.
 
-### 12. 
+### 9. Read about wider issues in tech
+
+Understand the context of your work.
+
+Have a favourite blog.
+
+Read Dev.to.
+
+Listen to podcast CodeNewbie.
+
+### 10. Dig into CS fundamentals
+
+Algorithms course from Alice.
+
+interviewcake.com
+
+Book: Cracking the coding interview
+
+### 11. Trust your process
+
+Honour where you are at and move forward in your journey.
+
+### 12. Know you are awesome
+
+Know your strengths.
+
+Get good at communicating (tech interview stuff next week).
