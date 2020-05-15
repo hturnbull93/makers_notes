@@ -26,6 +26,10 @@ Design a mobile responsive CV in addition to pdf/print CV
 
 Mobile app concept using [invision](https://www.invisionapp.com/).
 
+[Essa's app concept](https://projects.invisionapp.com/share/6AT12ROPEWN#/screens/374391819)
+
+Creativity tempered with usefulness.
+
 - Has little jokes/easter eggs, be playful and have a story
 - Intro
 - Work history
@@ -55,14 +59,16 @@ Do something extra that gives you an edge.
 
 Design Details podcast
 
-http://narrowdesign.com/
+<http://narrowdesign.com/>
 
-http://rleonardi.com/
+<http://rleonardi.com/>
 
-https://bruno-simon.com/
+<https://bruno-simon.com/>
 
 Chatbot to introduce yourself
 
 In your emails, link to your website with query string populating info on your landing page.
 
-Make sure your
+Make a website of the name of the ceo/hiring manager/whoever
+
+Make linkedin ads to target a hiring manager
