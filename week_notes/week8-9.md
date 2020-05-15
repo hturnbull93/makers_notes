@@ -40,6 +40,14 @@ Learning Objective & Achievement Plan
 
 ---
 
+## Week 2 Friday
+
+Learning Objective & Achievement Plan
+
+- [x] Attended [Creative Job Hunting seminar](creative_job_hunting.md)
+
+---
+
 ## Week 8 & 9 Week Challenge - Acebook
 
 [Source](https://github.com/makersacademy/course/tree/master/engineering_projects/rails) | [Full Learning Objectives](https://github.com/makersacademy/course/blob/master/engineering_projects/rails/learning_objectives.md) | [GitHub repo](https://github.com/Steven-Klavins/acebook-myspace) with all Learning Objectives, notes, and code.
@@ -148,3 +156,4 @@ Learning Objective & Achievement Plan
 [Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]: ../skills_workshops/stuff_id_tell_my_younger_self.md
 [Review]: /reviews.md
 [Careers Design workshop]: ../careers/careers_design_workshop.md
+[Creative Job Hunting seminar]: ../careers/creative_job_hunting.md
