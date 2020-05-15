@@ -26,7 +26,7 @@ Design a mobile responsive CV in addition to pdf/print CV
 
 Mobile app concept using [invision](https://www.invisionapp.com/).
 
-[Essa's app concept](https://projects.invisionapp.com/share/6AT12ROPEWN#/screens/374391819)
+[Essa's app concept>](https://projects.invisionapp.com/share/6AT12ROPEWN#/screens/374391819)
 
 Creativity tempered with usefulness.
 
