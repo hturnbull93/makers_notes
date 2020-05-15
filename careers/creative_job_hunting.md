@@ -65,6 +65,8 @@ Design Details podcast
 
 <https://bruno-simon.com/>
 
+<http://ericpak.me/>
+
 Chatbot to introduce yourself
 
 In your emails, link to your website with query string populating info on your landing page.
