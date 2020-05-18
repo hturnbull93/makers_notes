@@ -1,4 +1,4 @@
-# Week 8 & 9 - TITLE
+# Week 8 & 9 - Engineering Project
 
 [Back](README.md) | [Week 8 & 9 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-8-9)
 
