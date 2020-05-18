@@ -10,7 +10,7 @@ Week 10 Learning Objectives
 
 Achievement plans
 
-- [ ] Number 1
+- [x] [Task 1: Bank]
 
 ---
 
@@ -18,9 +18,9 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
+I will move towards the goals by doing the following:
 
-- [ ] Number 1
+- [x] [Task 1: Bank]
 
 ---
 
@@ -124,3 +124,5 @@ I will move towards the **xxxxxx** goal by doing the following:
 [Creative Job Hunting seminar]: ../careers/creative_job_hunting.md
 
 <!-- New in Week 10 -->
+
+[Task 1: Bank]: https://github.com/hturnbull93/bank
