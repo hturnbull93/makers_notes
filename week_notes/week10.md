@@ -10,7 +10,8 @@ Week 10 Learning Objectives
 
 Achievement plans
 
-- [x] [Task 1: Bank]
+- [x] [Bank]
+- [x] [Bank in JS]
 
 ---
 
@@ -20,7 +21,18 @@ Learning Objective & Achievement Plan
 
 I will move towards the goals by doing the following:
 
-- [x] [Task 1: Bank]
+- [x] [Bank]
+
+---
+
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the goals by doing the following:
+
+- [x] [Bank in JS]
+- [ ] Attend [Careers CV Starter workshop]
 
 ---
 
@@ -125,4 +137,6 @@ I will move towards the goals by doing the following:
 
 <!-- New in Week 10 -->
 
-[Task 1: Bank]: https://github.com/hturnbull93/bank
+[Bank]: https://github.com/hturnbull93/bank
+[Bank in JS]: https://github.com/hturnbull93/bank-js
+[Careers CV Starter workshop]: ../careers/cv_starter_workshop.md
