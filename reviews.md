@@ -35,4 +35,9 @@ Feedback Summary:
 Feedback Summary:
 
 - Think of the general case (the simplest thing someone would actually do).
+- In this example, a single array:
+  - [0], low of 1 and high of 2.
+  - [1], low of 1 and high of 2.
+  - [2], low of 1 and high of 2.
+  - [3], low of 1 and high of 2.
 - Avoid specific cases until later.
