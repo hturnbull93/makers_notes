@@ -12,6 +12,7 @@ Achievement plans
 
 - [x] [Bank]
 - [x] [Bank in JS]
+- [x] Attend [Careers CV Starter workshop]
 
 ---
 
@@ -32,7 +33,27 @@ Learning Objective & Achievement Plan
 I will move towards the goals by doing the following:
 
 - [x] [Bank in JS]
-- [ ] Attend [Careers CV Starter workshop]
+- [x] Attend [Careers CV Starter workshop]
+
+---
+
+## Wednesday
+
+Learning Objective & Achievement Plan
+
+I will move towards the goals by doing the following:
+
+- [x] [Bank in Node]
+
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+I will move towards the goals by doing the following:
+
+- [x] Attend second [Review]
 
 ---
 
@@ -140,3 +161,4 @@ I will move towards the goals by doing the following:
 [Bank]: https://github.com/hturnbull93/bank
 [Bank in JS]: https://github.com/hturnbull93/bank-js
 [Careers CV Starter workshop]: ../careers/cv_starter_workshop.md
+[Bank in Node]: https://github.com/hturnbull93/bank-node
