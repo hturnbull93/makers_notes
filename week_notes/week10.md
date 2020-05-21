@@ -54,6 +54,7 @@ Learning Objective & Achievement Plan
 I will move towards the goals by doing the following:
 
 - [x] Attend second [Review]
+- [x] Attend second [Careers CV formatting workshop]
 
 ---
 
@@ -162,3 +163,4 @@ I will move towards the goals by doing the following:
 [Bank in JS]: https://github.com/hturnbull93/bank-js
 [Careers CV Starter workshop]: ../careers/cv_starter_workshop.md
 [Bank in Node]: https://github.com/hturnbull93/bank-node
+[Careers CV formatting workshop]: ../careers/cv_formatting_workshop.md
