@@ -31,3 +31,8 @@ Feedback Summary:
 ## 21 May
 
 [Full Feedback](/reviews/2020-05-21-feedback.pdf) | [Recording]()
+
+Feedback Summary:
+
+- Think of the general case (the simplest thing someone would actually do).
+- Avoid specific cases until later.
