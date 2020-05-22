@@ -104,4 +104,3 @@ Use any design tool, squeeze in all good information.
 ## Examples
 
 <https://github.com/Whatapalaver/CV/blob/master/README.md>
-
