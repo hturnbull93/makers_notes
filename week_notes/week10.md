@@ -4,9 +4,9 @@
 
 Week 10 Learning Objectives
 
-- [ ] Can you solve a challenging technical problem by writing well crafted code?
-- [ ] Feel more confident in your ability to complete a tech test.
-- [ ] Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills.
+- [x] Can you solve a challenging technical problem by writing well crafted code?
+- [x] Feel more confident in your ability to complete a tech test.
+- [x] Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills.
 
 Achievement plans
 
@@ -73,34 +73,29 @@ I will move towards the goals by doing the following:
 
 ---
 
-<!--
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Can you solve a challenging technical problem by writing well crafted code?
+- [x] Feel more confident in your ability to complete a tech test.
+- [x] Have developed a structured process to approaching complex problems, utilising TDD and good OO design skills.
 
-### Score: z
+### Score: 9
 
 #### Reasons for Score
 
-- First reason
+- I have demonstrated my TDD skills in four different contexts (Ruby, JavaScript for browser, JavaScript in Node, Python).
+- I have received good feedback on my implementations.
+- I have been able to justify my design decisions when challenged.
+- I have been able to implement improvement feedback.
 
 ### Material to re-cover
 
-- First material
+- More Python maybe, the project isn't quite finished.
+- Keep working on TDD process (always improving).
+- Read POODR.
 
----
-
-## Week 10 Weekend Challenge - WEEKENDCHALLENGE
-
-[GitHub repo]() with all Learning Objectives, notes, and code.
-
----
--->
 <!-- Links -->
 
 <!-- From Week 1 -->
