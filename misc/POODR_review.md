@@ -497,3 +497,36 @@ module Schedulable
     0
   end
 end
+```
+
+### Antipatterns to Watch Out For
+
+> First, an object that uses a variable with a name like type or category to
+> determine what message to send to self contains two highly related but slightly
+> different types.
+
+> Second, when a sending object checks the class of a receiving object to deter-
+> mine what message to send, you have overlooked a duck type.
+
+> In addition to sharing an interface, duck types might also share behavior. When
+> they do, place the shared code in a module and include that module in each class or
+> object that plays the role.
+
+### Liskov Substitution Principle
+
+> Let q(x) be a property provable about objects x of type T. Then q(y)
+> should be true for objects y of type S where S is a subtype of T.
+
+> In order for a type system to be sane, sub-types must be substitutable for their supertypes.
+
+A subclass should never rescind anything a superclass does, and a superclass should in some way do anything anything of its subclasses does. Otherwise the subclass isn't really "a kind" of the superclass.
+
+### General Advice
+
+Always use hooks over calling super in subclasses
+
+Always use shallow heirarchies, they can be as wide as you like. Depth increases dependencies in the chain.
+
+### Combining Objects with Composition
+
+
