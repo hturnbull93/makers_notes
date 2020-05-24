@@ -2,7 +2,7 @@
 
 ## Agile Influences on Design
 
-> You should build software in tiny increments, gradually 
+> You should build software in tiny increments, gradually
 > iterating your way into an application that meets the customer’s true need.
 
 > First, there is absolutely no point in doing a
@@ -119,11 +119,11 @@ An object has a dependency when it knows:
 
 - **The name of another class**. Gear expects a class named Wheel to exist.
 - **The name of a message that it intends to send to someone other than self.**
-Gear expects a Wheel instance to respond to diameter.
+  Gear expects a Wheel instance to respond to diameter.
 - **The arguments that a message requires.** Gear knows that Wheel.new requires a
-rim and a tire.
+  rim and a tire.
 - **The order of those arguments.** Gear knows the first argument to Wheel.new
-should be rim, the second, tire.
+  should be rim, the second, tire.
 
 High dependency increases the likelihood that some class may need to change if their dependency changes.
 
@@ -196,7 +196,7 @@ The dependency direction should be towards the thing that changes least often. I
 - Concrete classes are more likely to change than abstract classes.
 - Changing a class that has many dependents will result in widespread consequences.
 
-Recognizing Concretions and Abstractions. 
+Recognizing Concretions and Abstractions.
 
 Refering to things that are specific (such as particular arguments and their order) is concrete.
 
@@ -324,7 +324,7 @@ A class could be many ducks, with more than one public interface incorporated in
 > to act like any, or all, of the public interfaces it implements. It’s not what an object is
 > that matters, it’s what it does.
 
-Objects of the same duck type ought to implement the same public interface. This may mean providing different 
+Objects of the same duck type ought to implement the same public interface. This may mean providing different
 
 ### Polymorphism
 
@@ -347,4 +347,66 @@ You can replace the following with ducks:
 > difficult to change.
 
 ## Acquiring Behaviour Through Inheritance
+
+> Inheritance is, at its core, a mechanism for automatic message
+> delegation. It defines a forwarding path for not-understood messages. It creates
+> relationships such that, if one object cannot respond to a received message, it delegates
+> that message to another. You don’t have to write code to explicitly delegate the
+> message, instead you define an inheritance relationship between two objects and the
+> forwarding happens automatically.
+
+A concrete class can be extended by more abstract classes that add some additional behaviour or data.
+
+Adding behaviour that would be specific to a subclass to the superclass muddies the Single Responsibility of the superclass.
+
+> Some of Bicycle’s behavior applies to all bicycles, some only to
+> road bikes, and some only to mountain bikes. This single class contains several different,
+> but related, types.
+> This is the exact problem that inheritance solves; that of highly related types that
+> share common behavior but differ along some dimension.
+
+If a subclass receives a message it does not know how to respond to, it delegates that to the superclass.
+
+A subclass can redefine a message of the superclass, as the NillClass does with the nil? message (true), redefining the Object superclass (false).
+
+### Using Inheritance
+
+Here the MountainBike inherits from Bicycle, its initialise calls super passing in the args hash to the superclass's initialize method.
+
+Its spares method calls the superclass's spares method (returns a hash) and merges in the rear_shock key and value.
+
+```ruby
+class MountainBike < Bicycle
+  attr_reader :front_shock, :rear_shock
+
+  def initialize(args)
+    @front_shock = args[:front_shock]
+    @rear_shock = args[:rear_shock]
+    super(args)
+  end
+
+  def spares
+    super.merge(rear_shock: rear_shock)
+  end
+end
+```
+
+### Abstract Classes
+
+![Abstract Class UML Diagram](images/../../images/bike-inheritance.png)
+
+The above shows MountainBike and RoadBike inheriting from superclass Bicycle, which is an abstract class: it is never intended to be instantiated by itself, only as one of the subclasses.
+
+> Abstract classes exist to be subclassed. This is their sole purpose. They provide a
+> common repository for behavior that is shared across a set of subclasses - subclasses
+> that in turn supply specializations.
+
+When planning Abstract classes, if there is only one subclass it isn't needed. Anticipating more subclasses is also not helpful, as you don't know what the abstract class should hold in common for the subclasses until they need to be implemented.
+
+Do push down code from the superclass to subclass, then bring back up bits of abstract code that all subclasses can share. It is better for subclasses to hold on to more abstraction than they need, than for a superclass to have concretions (code that does not apply to all subclasses) they shouldn't have.
+
+> When a bit of the abstraction gets left behind, the oversight becomes visible as soon
+> as another subclass needs the same behavior. In order to give all subclasses access to the
+> behavior you’ll be forced to either duplicate the code (in each subclass) or promote it (to
+> the common superclass).
 
