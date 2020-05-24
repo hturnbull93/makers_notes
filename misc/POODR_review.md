@@ -244,6 +244,8 @@ Private interfaces:
 > You don’t send messages because you have objects, you have objects because you
 > send messages.
 
+### Context Independant Interfaces and Trust
+
 Messages between classes should be declarative, not imperative. They should ask for "what" not "how". For example, ask the mechanic to service the bicycle, rather than telling the mechanic to oil the chain, check the brakes etc. These should be part of the mechanics private interface, and the public interface is service the bicycle, reducing the likelihood that the mechanic's public interface will change in future, reducing dependency coupling.
 
 In the best case, the trip asks the mechanic to prepare the trip. the mechanic's private workings knows that means servicing the bikes. Combined with dependency injection:
@@ -259,4 +261,53 @@ Now trip can be extended with many things that prepare it by injecting different
 > Trip would be telling Mechanic: “I know what I want and I know how you do it;” in
 > Figure 4.6: “I know what I want and I know what you do” and in Figure 4.7: “I know
 > what I want and I trust you to do your part.”
+
+### Discovering Classes From Messages
+
+If the message doesn't seem that it is a responsibility for any of your existing classes, perhaps it should be received by a new class. For example the customer shouldn't ask for suitable trips to a Trip, then suitable bikes from a Bike class. But it shouldn't need to, it could ask suitable trips from a Trip Finder class, which then asks trip for suitable trips, then for each trip found ask Bike for suitable bikes available.
+
+### Rules of Thumb for Good Interfaces
+
+Every time you create a class, declare its interfaces. Methods in the public
+interface should:
+
+- Be explicitly identified as such
+- Be more about what than how
+- Have names that, insofar as you can anticipate, will not change
+- Take a hash as an options parameter
+
+### Interacting with Classes
+
+- Only call their public methods.
+- Minimise context, interact with other classes as little as you possibly can, inject dependencies, and abstract knowledge to messages only.
+
+### The Law of Demeter
+
+> Demeter is often paraphrased as “only talk to your immediate neighbors” or “use only one dot.”
+
+Avoid using chained messages to reach to behaviour of distant objects.
+
+```ruby
+customer.bicycle.wheel.tire
+customer.bicycle.wheel.rotate
+```
+
+Each chained message is knowledge this class has on the result of the preceding message. Which is too much in these examples.
+
+- Changing tire or rotate may break something in depart. Because Trip is distant and apparently unrelated, the failure will be completely unexpected. This code is not **transparent**.
+- If wheel changes tire or rotate, depart may have to change. Trip has nothing to do with wheel yet changes to wheel might force changes in Trip. This unnecessarily raises the cost of change; the code is not **reasonable**.
+- Trip cannot be reused unless it has access to a customer with a bicycle that has a wheel and a tire. It requires a lot of context and is not easily **usable**.
+- This pattern of messages will be replicated by others, producing more code with similar problems. This style of code, unfortunately, breeds itself. It is not **exemplary**.
+
+```ruby
+hash.keys.sort.join(', ')
+```
+
+Although this has many dots, hash.keys, and .sort return Enumerables, and join acts on that enumerable. It doesn't reach to far off objects, only manipulates a near one.
+
+Delegate to the object you are calling, which calls the next dot etc.
+
+## Reduceing Costs with Duck Typing
+
+
 
