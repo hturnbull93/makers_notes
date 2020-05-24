@@ -112,3 +112,151 @@ Methods with a single responsibility are:
 - **Are easy to move to another class** - Easier to extract as they are already extracted from the other method.
 
 ## Managing Dependencies
+
+### Recognising Dependencies
+
+An object has a dependency when it knows:
+
+- **The name of another class**. Gear expects a class named Wheel to exist.
+- **The name of a message that it intends to send to someone other than self.**
+Gear expects a Wheel instance to respond to diameter.
+- **The arguments that a message requires.** Gear knows that Wheel.new requires a
+rim and a tire.
+- **The order of those arguments.** Gear knows the first argument to Wheel.new
+should be rim, the second, tire.
+
+High dependency increases the likelihood that some class may need to change if their dependency changes.
+
+### Writing Loosely Coupled Code
+
+Always inject dependencies. This way you can change the default injection, and need not to change it elsewhere.
+
+> It is not the
+> class of the object that’s important, it’s the message you plan to send to it. Gear needs
+> access to an object that can respond to diameter; a duck type, if you will.
+
+A class should be agnostic of what it is collaborating with, all it needs to know is that it can send a message to this thing and it will be able to respond correctly.
+
+If you cannot fully inject the class (in an existing application), Lazy initialisation is a good alternative. An example where wheel returns `@wheel`, assigning it with a new wheel instance if it is not already assigned.
+
+```ruby
+def wheel
+  @wheel ||= Wheel.new(rim, tire)
+end
+```
+
+Isolate vulnerable external messages by extracting parts of methods that refer to dependencies to their own helper methods. Now if the dependency changes it is simple to know where to look to make any changes.
+
+```ruby
+def gear_inches
+  #... a few lines of scary math
+  foo = some_intermediate_result * diameter
+  #... more lines of scary math
+end
+
+def diameter
+  wheel.diameter
+end
+```
+
+Remove argument order dependencies by passing arguments as a hash, and letting the dependency sort it out. This leads to a higher volume of code now, but less likelihood that changes will cascade into dependents later.
+
+Keys in the hash also are self documenting.
+
+```ruby
+class Gear
+  attr_reader :chainring, :cog, :wheel
+  def initialize(args)
+  @chainring = args[:chainring]
+  @cog = args[:cog]
+  @wheel = args[:wheel]
+  end
+  # ...
+end
+
+Gear.new(
+  chainring: 52,
+  cog: 11,
+  wheel: Wheel.new(26, 1.5)
+)
+```
+
+Or use keyword arguments!
+
+> An object whose
+> purpose is to create other objects is a factory
+
+### Managing Dependency Direction
+
+In the examples Gear is injected with a Wheel, however it could be done the opposite way.
+
+The dependency direction should be towards the thing that changes least often. I.e. if gear changes a lot, wheel should be injected as a dependency.
+
+- Some classes are more likely than others to have changes in requirements.
+- Concrete classes are more likely to change than abstract classes.
+- Changing a class that has many dependents will result in widespread consequences.
+
+Recognizing Concretions and Abstractions. 
+
+Refering to things that are specific (such as particular arguments and their order) is concrete.
+
+Refering to things that you have less knowledge of (i.e. it responds to diameter, but we don't know what it is) is abstract.
+
+> When you inject Wheel into Gear such that Gear then depends on a Duck
+> who responds to diameter, you are, however casually, defining an interface. This interface
+> is an abstraction of the idea that a certain category of things will have a diameter.
+
+Dependent-laden classes will be under massive pressure not to change, as you don't want to upset their dependents. This will handicap the agility of the application. Don't do it.
+
+Zones A B and C are safe. D is not.
+
+![Dependencys vs likelihood of change](images/../../images/Dependency-and-requirement-to-change.png)
+
+## Creating Flexible Interfaces
+
+> Design, therefore, must be concerned with the messages that pass between objects.
+> It deals not only with what objects know (their responsibilities) and who they
+> know (their dependencies), but how they talk to one another.
+
+A kitchen has a public interface, the menu, and the order is a message to the kitchen. There are many internal private message within the kitchen, however.
+
+> Using a menu avoids this problem by letting each customer ask for what they want
+> without knowing anything about how the kitchen makes it.
+
+Public interfaces:
+
+- Reveal its primary responsibility
+- Are expected to be invoked by others
+- Will not change on a whim
+- Are safe for others to depend on
+- Are thoroughly documented in the tests
+
+Private interfaces:
+
+- Handle implementation details
+- Are not expected to be sent by other objects
+- Can change for any reason whatsoever
+- Are unsafe for others to depend on
+- May not even be referenced in the tests
+
+> Instead of deciding on a class and then figuring out its responsibilities, you are
+> now deciding on a message and figuring out where to send it.
+> You don’t send messages because you have objects, you have objects because you
+> send messages.
+
+Messages between classes should be declarative, not imperative. They should ask for "what" not "how". For example, ask the mechanic to service the bicycle, rather than telling the mechanic to oil the chain, check the brakes etc. These should be part of the mechanics private interface, and the public interface is service the bicycle, reducing the likelihood that the mechanic's public interface will change in future, reducing dependency coupling.
+
+In the best case, the trip asks the mechanic to prepare the trip. the mechanic's private workings knows that means servicing the bikes. Combined with dependency injection:
+
+> Trip doesn’t know or care
+> that it has a Mechanic and it doesn’t have any idea what the Mechanic will do. Trip
+> merely holds onto an object to which it will send prepare_trip; it trusts the receiver
+> of this message to behave appropriately.
+
+Now trip can be extended with many things that prepare it by injecting different things that respond to `prepare_trip` and prepare in different ways.
+
+> If objects were human and could describe their own relationships, in Figure 4.5
+> Trip would be telling Mechanic: “I know what I want and I know how you do it;” in
+> Figure 4.6: “I know what I want and I know what you do” and in Figure 4.7: “I know
+> what I want and I trust you to do your part.”
+
