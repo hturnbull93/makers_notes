@@ -307,7 +307,7 @@ Although this has many dots, hash.keys, and .sort return Enumerables, and join a
 
 Delegate to the object you are calling, which calls the next dot etc.
 
-## Reduceing Costs with Duck Typing
+## Reducing Costs with Duck Typing
 
 > Duck types are public interfaces that are
 > not tied to any specific class. These across-class interfaces add enormous flexibility to
@@ -317,4 +317,34 @@ Delegate to the object you are calling, which calls the next dot etc.
 > Duck typed objects are chameleons that are defined more by their behavior than
 > by their class. This is how the technique gets its name; if an object quacks like a duck
 > and walks like a duck, then its class is immaterial, it’s a duck.
+
+A class could be many ducks, with more than one public interface incorporated in it.
+
+> Users of any object can blithely expect it
+> to act like any, or all, of the public interfaces it implements. It’s not what an object is
+> that matters, it’s what it does.
+
+Objects of the same duck type ought to implement the same public interface. This may mean providing different 
+
+### Polymorphism
+
+> Polymorphism in OOP refers to the ability of many different objects to
+> respond to the same message. Senders of the message need not care about
+> the class of the receiver; receivers supply their own specific version of the
+> behavior.
+
+> Polymorphic methods honor an implicit bargain; they agree to be inter-
+> changeable from the sender’s point of view.
+
+You can replace the following with ducks:
+
+- Case statements that switch on class
+- kind_of? and is_a?
+- responds_to?
+
+> This knowledge exposes a lack of trust in collaborating objects and acts as a
+> millstone around your object’s neck. It introduces dependencies that make code
+> difficult to change.
+
+## Acquiring Behaviour Through Inheritance
 
