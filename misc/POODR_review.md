@@ -309,5 +309,12 @@ Delegate to the object you are calling, which calls the next dot etc.
 
 ## Reduceing Costs with Duck Typing
 
+> Duck types are public interfaces that are
+> not tied to any specific class. These across-class interfaces add enormous flexibility to
+> your application by replacing costly dependencies on class with more forgiving
+> dependencies on messages
 
+> Duck typed objects are chameleons that are defined more by their behavior than
+> by their class. This is how the technique gets its name; if an object quacks like a duck
+> and walks like a duck, then its class is immaterial, it’s a duck.
 
