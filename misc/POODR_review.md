@@ -410,3 +410,90 @@ Do push down code from the superclass to subclass, then bring back up bits of ab
 > behavior you’ll be forced to either duplicate the code (in each subclass) or promote it (to
 > the common superclass).
 
+### Hooks
+
+> Instead of allowing
+> subclasses to know the algorithm and requiring that they send super, superclasses can
+> instead send hook messages, ones that exist solely to provide subclasses a place to con-
+> tribute information by implementing matching methods. This strategy removes
+> knowledge of the algorithm from the subclass and returns control to the superclass.
+
+A "hook" method within the abstract class's initialiser forgives you for forgetting to call super in initialise of a subclass, as does the local_spares hook.
+
+```ruby
+class Bicycle
+  def initialize(args={})
+    @size = args[:size]
+    @chain = args[:chain] || default_chain
+    @tire_size = args[:tire_size] || default_tire_size
+
+    post_initialize(args)
+  end
+
+  def post_initialize(args)
+    nil
+  end
+
+  def spares
+    {
+      tire_size: tire_size,
+      chain: chain
+    }.merge(local_spares)
+  end
+
+  def local_spares
+    {}
+  end
+  # ...
+end
+
+class RoadBike < Bicycle
+  def post_initialize(args)
+    @tape_color = args[:tape_color]
+  end
+
+  def local_spares
+    {tape_color: tape_color}
+  end
+  # ...
+end
+```
+
+## Sharing Role Behaviour with Modules
+
+Roles exemplified by duck types (e.g. preparers), often suggest there is a parallel role for these types to handle (e.g. preparables). 
+
+Groups of class independent methods are generally called modules, which can be mixed in to an existing class. DRYing up code that is incorporated between sister subclasses, but not all subclasses.
+
+The total set of messages to which an object can respond includes:
+
+- Those it implements
+- Those implemented in all objects above it in the hierarchy
+- Those implemented in any module that has been added to it
+- Those implemented in all modules added to any object above it in the hierarchy
+
+The individual schedulable duck type should respond to shedulable, knowing their lead-days, and checking to see if they are available against its injected schedule which holds the scheduled dates.
+
+Schedulable can be a module that can be mixed in to several classes that are schedulable.
+
+```ruby
+module Schedulable
+  attr_writer :schedule
+
+  def schedule
+    @schedule ||= ::Schedule.new
+  end
+
+  def schedulable?(start_date, end_date)
+    !scheduled?(start_date - lead_days, end_date)
+  end
+
+  def scheduled?(start_date, end_date)
+    schedule.scheduled?(self, start_date, end_date)
+  end
+
+  # includers may override this hook
+  def lead_days
+    0
+  end
+end
