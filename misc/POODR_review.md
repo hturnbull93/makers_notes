@@ -527,6 +527,97 @@ Always use hooks over calling super in subclasses
 
 Always use shallow heirarchies, they can be as wide as you like. Depth increases dependencies in the chain.
 
-### Combining Objects with Composition
+## Combining Objects with Composition
 
+Composition is an alternative to inheritance.
+
+![part parts UML diagram](images/../../images/part-parts-uml.png)
+
+A one to one relationship between bicycle and parts, and a one to many relationship between parts and part.
+
+> It is confusing to use the word “parts” to refer to a collection of Part
+> objects, when that same word already refers to a single Parts object. However, the
+> previous phrase illustrates a technique that side steps the communication problem;
+> when discussing Part and Parts, you can follow the class name with the word
+> “object” and pluralize “object” as necessary.
+
+> Perhaps Parts is an Array, albeit one with a bit of extra behavior. You could
+> make it one; the next example shows a new version of the Parts class, now as a subclass
+> of Array.
+
+```ruby
+class Parts < Array
+  def spares
+    select {|part| part.needs_spare}
+  end
+end
+```
+
+However this has issues where combining a Parts with another Parts with "+" results in an array that does not respond to spares.
+
+Instead we can do the following:
+
+> The Parts class below delegates size and each to its @parts array
+> and includes Enumerable to get common traversal and searching methods.
+
+Forwardable allows delegation to parts for size and each, and Enumerable allows things like sort etc.
+
+```ruby
+require 'forwardable'
+class Parts
+  extend Forwardable
+  def_delegators :@parts, :size, :each
+  include Enumerable
+
+  def initialize(parts)
+    @parts = parts
+  end
+
+  def spares
+    select {|part| part.needs_spare}
+  end
+end
+```
+
+### Use Factories to Create Objects From Data
+
+Using a factory we can take a 2d array like this:
+
+```ruby
+road_config = [
+  ['chain', '10-speed'],
+  ['tire_size', '23'],
+  ['tape_color', 'red']
+]
+
+mountain_config = [
+  ['chain', '10-speed'],
+  ['tire_size', '2.1'],
+  ['front_shock', 'Manitou', false],
+  ['rear_shock', 'Fox']
+]
+```
+
+Which is more concise than creating a bunch of objects manually and putting them into an array in the parts initialiser.
+
+The PartsFactory takes a config 2d array as above, names for the part and parts class, initialises the parts class by mapping through creating new part objects from each element of the config.
+
+```ruby
+module PartsFactory
+  def self.build(config, part_class = Part, parts_class = Parts)
+    parts_class.new(
+      config.map {|part_config|
+        part_class.new(
+          name: part_config[0],
+          description: part_config[1],
+          needs_spare: part_config.fetch(2, true)
+        )
+      }
+    )
+  end
+end
+
+mountain_parts = PartsFactory.build(mountain_config)
+
+```
 
