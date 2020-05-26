@@ -59,6 +59,11 @@
 - [x] [JavaScript Module Patterns](javascript_module_patterns.md)
 - [x] [Async and the Event Loop](async_event_loop.md)
 
+## Algorithms
+
+- [x] [Algorithmic Complexity](algorithmic_complexity.md)
+
+
 ## Seminars/Lunchtime Talks
 
 - [x] [Intro to Machine Learning](intro_machine_learning.md)
