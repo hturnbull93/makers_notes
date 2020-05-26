@@ -12,7 +12,9 @@ I want to know if any given value is in a sorted array.
 
 Find 13 in the array:
 
-`[3, 8, 9, 11, 26, 32, 34]`
+```pseudo
+[3, 8, 9, 11, 26, 32, 34]
+```
 
 ### Linear Search:
 
