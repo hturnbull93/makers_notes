@@ -621,3 +621,131 @@ mountain_parts = PartsFactory.build(mountain_config)
 
 ```
 
+This can be improved using OpenStruct objects, which are similar to Structs, though they are initialised with a hash, argument order agnostic.
+
+The part class is a bit overkill as we basically just use it as a container for data. It takes no additional behaviour
+
+```ruby
+require 'ostruct'
+module PartsFactory
+  def self.build(config, parts_class = Parts)
+    parts_class.new(
+      config.map { |part_config| create_part(part_config) }
+    )
+  end
+
+  def self.create_part(part_config)
+    OpenStruct.new(
+      name: part_config[0],
+      description: part_config[1],
+      needs_spare: part_config.fetch(2, true)
+    )
+  end
+end
+```
+
+New kinds of bikes can easily be made:
+
+```ruby
+recumbent_config = [
+  ["chain", "9-speed"],
+  ["tire_size", "28"],
+  ['flag', 'tall and orange']
+]
+
+recumbent_bike = Bicycle.new(
+  size: 'L',
+  parts: PartsFactory.build(recumbent_config)
+)
+```
+
+### Aggregation vs Composition
+
+Composition is where the objects the thing is composed of are completely encapsulated by the whole, and do niot act independendtly of the whole.
+
+Aggregation is where the objects are part of a thing, but are independent in their own right also.
+
+### Inheritance vs Composition
+
+> For the cost of arranging objects in a hierarchy, you get message delegation for free.
+> Composition is an alternative that reverses these costs and benefits. In composition,
+> the relationship between objects is not codified in the class hierarchy; instead
+> objects stand alone and as a result must explicitly know about and delegate messages
+> to one another. Composition allows objects to have structural independence, but at
+> the cost of explicit message delegation.
+
+> If you cannot explicitly
+> defend inheritance as a better solution, use composition. Composition contains far
+> fewer built-in dependencies than inheritance; it is very often the best choice.
+
+Inheritance Benefits:
+
+- Reasonable: small changes can introduce new behaviour to many subclasses.
+- Usable: Hierarchies are excellent for open-closed, they can be extended with more subclasses, and the existing subclasses remain unaltered.
+- Exemplary: The existing subclasses are examples of how new subclasses should be implemented.
+
+Cost of Inheritance:
+
+- Flipside of reasonable: The high cost of making changes near the top of the hierarchy, a small change implemented poorly can have major knock on effects.
+- Flipside of usable: When subclasses represent a mixture of types (recumbent mountainbike).
+- Flipside of exemplary: You shoulnd't extend poorly modelled hierarchies.
+
+Composition Benefits:
+
+- Transparent: small objects are easy to understand, no side effects from hierarchical changes.
+- Reasonable: new composite parts can be added because its easy to understand the interface/duck type they honour.
+- Usable: well defined interfaces of composite parts are easy to swap in and out.
+
+Cost of Composition:
+
+- Flipside of transparent: while the parts may be simple, the whole may not be.
+- Also, delegation of messages needs to be known explicitly, there is no inheritance chain to look through.
+
+### Which to Choose
+
+- “Inheritance is specialization.” _— Bertrand Meyer, Touch of Class: Learning to Program Well with Objects and Contracts_
+- “Inheritance is best suited to adding functionally to existing classes when you will use most of the old code and add relatively small amounts of new code.” _— Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, Design Patterns: Elements of Reusable Object-Oriented Software_
+- “Use composition when the behavior is more than the sum of its parts.” _— paraphrase of Grady Booch, Object-Oriented Analysis and Design_
+
+**Use inheritance for _is-a_ relationships:**
+
+- when the things are all variations of the indivisible idea, spreading out in a shallow hierarchy.
+
+> The hierarchy’s small size makes it understandable, intention revealing, and
+> easily extendable. Because these objects meet the criteria for successful use of
+> inheritance, the risk of being wrong is low, but in the unlikely event that you are
+> wrong, the cost of changing your mind is also low.
+
+**Use Duck types for _behaves-like-a_ relationships:**
+
+- many varied things might share behaviour (e.g. schedulables), so model those with shared Duck Type interfaces and behaviour.
+
+> Your design task is to recognize that a role exists, define the interface of its duck
+> type and provide an implementation of that interface for every possible player.
+
+**Use composition for _has-a/many_ relationships:**
+
+- things can generally contain other things, so should be composed.
+- the further you drill down, you may find specific parts that have variants that can be modelled with composition.
+
+> The more parts an object has, the more likely it is that it should be
+> modeled with composition. The deeper you drill down into individual parts, the more
+> likely it is that you’ll discover a specific part that has a few specialized variants and is
+> thus a reasonable candidate for inheritance.
+
+## Designing Cost-Effective Tests
+
+Refactoring:
+
+> Refactoring is the process of changing a software system in such a way
+> that it does not alter the external behavior of the code yet improves the
+> internal structure.
+
+- Martin Fowler in Refactoring: Improving the Design of Existing Code
+
+> Good tests weather
+> code refactorings with aplomb; they are written such that changes to the code do not
+> force rewrites of the tests.
+
+### Intentional Testing
+
