@@ -461,7 +461,7 @@ end
 
 ## Sharing Role Behaviour with Modules
 
-Roles exemplified by duck types (e.g. preparers), often suggest there is a parallel role for these types to handle (e.g. preparables). 
+Roles exemplified by duck types (e.g. preparers), often suggest there is a parallel role for these types to handle (e.g. preparables).
 
 Groups of class independent methods are generally called modules, which can be mixed in to an existing class. DRYing up code that is incorporated between sister subclasses, but not all subclasses.
 
@@ -661,7 +661,7 @@ recumbent_bike = Bicycle.new(
 
 ### Aggregation vs Composition
 
-Composition is where the objects the thing is composed of are completely encapsulated by the whole, and do niot act independendtly of the whole.
+Composition is where the objects the thing is composed of are completely encapsulated by the whole, and do niot act independently of the whole.
 
 Aggregation is where the objects are part of a thing, but are independent in their own right also.
 
@@ -748,4 +748,3 @@ Martin Fowler in Refactoring: Improving the Design of Existing Code
 > force rewrites of the tests.
 
 ### Intentional Testing
-
