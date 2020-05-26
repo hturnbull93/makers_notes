@@ -741,7 +741,7 @@ Refactoring:
 > that it does not alter the external behavior of the code yet improves the
 > internal structure.
 
-- Martin Fowler in Refactoring: Improving the Design of Existing Code
+Martin Fowler in Refactoring: Improving the Design of Existing Code
 
 > Good tests weather
 > code refactorings with aplomb; they are written such that changes to the code do not
