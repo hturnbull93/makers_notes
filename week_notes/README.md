@@ -13,3 +13,4 @@ Each week contains Learning Objectives, Achievement Plans, Evidences, and a diar
 - [Week 7](week7.md): Vanilla JavaScript
 - [Week 8 & 9](week8-9.md): Acebook
 - [Week 10](week10.md): Code Quality
+- [Week 10](week11-12.md): Final Project
