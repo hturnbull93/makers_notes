@@ -14,24 +14,24 @@ Process notes:
 
 ### Software
 
-- [ ] I can TDD anything
-- [ ] I can program fluently
-- [ ] I can debug anything
-- [ ] I can model anything
-- [ ] I can refactor anything
-- [ ] I have a methodical approach to solving problems
+- [x] I can TDD anything
+- [x] I can program fluently
+- [x] I can debug anything
+- [x] I can model anything
+- [x] I can refactor anything
+- [x] I have a methodical approach to solving problems
 
 ### Long Term Growth
 
-- [ ] I manage my own well-being
-- [ ] I can learn anything by myself
+- [x] I manage my own well-being
+- [x] I can learn anything by myself
 
 ### Team Success
 
-- [ ] I use an agile product development process
-- [ ] I write code that is easy to change
-- [ ] I can justify the way I work
-- [ ] I grow collaboratively
+- [x] I use an agile product development process
+- [x] I write code that is easy to change
+- [x] I can justify the way I work
+- [x] I grow collaboratively
 
 <!-- Links -->
 
