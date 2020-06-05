@@ -109,7 +109,7 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 
 - I would like to learn more about OO principles.
 - I would like to practice more refactoring to good OO design.
-- Perhaps it would be good to go over the skills workshops from this week to fill in anything I am missing. 
+- Perhaps it would be good to go over the skills workshops from this week to fill in anything I am missing.
 
 ---
 
@@ -123,19 +123,19 @@ I will move towards the **Explain some basic OO principles and tie them to high 
 
 <!-- From Week 1 -->
 
-[First day intro]: Intro_first_day.md
-[TDD process skills workshop]: ../skills_workshops/TDD_process.md
-[Debugging skills workshop]: ../skills_workshops/debugging.md
-[Mocking skills workshop]: ../skills_workshops/mocking.md
-[Test Driving practical]: ../skills_workshops/test_driving_practice.md
+[first day intro]: Intro_first_day.md
+[tdd process skills workshop]: ../skills_workshops/TDD_process.md
+[debugging skills workshop]: ../skills_workshops/debugging.md
+[mocking skills workshop]: ../skills_workshops/mocking.md
+[test driving practical]: ../skills_workshops/test_driving_practice.md
 
 <!-- New in Week 2 -->
 
-[Code Review skills workshop]: ../skills_workshops/code_review.md
-[Process Review workshop]: ../process_workshop.md 
-[Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
-[Feedback EQ workshop]: ../skills_workshops/feedback.md
-[Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
-[Refactoring skills workshop]: ../skills_workshops/refactoring.md
-[Concretes and Abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
-[Delegation skills workshop]: ../skills_workshops/delegation.md
+[code review skills workshop]: ../skills_workshops/code_review.md
+[process review workshop]: ../process_workshop.md
+[domain modelling skills workshop]: ../skills_workshops/domain_modelling.md
+[feedback eq workshop]: ../skills_workshops/feedback.md
+[mocking with rspec practical]: ../skills_workshops/mocking_with_rspec.md
+[refactoring skills workshop]: ../skills_workshops/refactoring.md
+[concretes and abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
+[delegation skills workshop]: ../skills_workshops/delegation.md
