@@ -6,7 +6,7 @@ Week 1 Learning Objectives
 
 - [x] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
-- [ ] Describe basic OO principles like encapsulation and SRP
+- [x] Describe basic OO principles like encapsulation and SRP
 - [x] Pair using the driver/navigator style
 
 Achievement plans
@@ -80,7 +80,7 @@ I will expand my knowledge for the **Test-drive a simple program using objects a
 
 - [x] Test-drive a simple program using objects and methods
 - [x] Debug some programs that have errors in them, using an effective debugging process
-- [ ] Describe basic OO principles like encapsulation and SRP
+- [x] Describe basic OO principles like encapsulation and SRP
 - [x] Pair using the driver/navigator style
 
 ### Score: 8
