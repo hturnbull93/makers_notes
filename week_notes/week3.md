@@ -66,7 +66,7 @@ I will move towards the **Follow an effective debugging process for web applicat
 
 ---
 
-## Thursday
+## Friday
 
 Learning Objective & Achievement Plan
 
@@ -75,7 +75,6 @@ I will move towards the **Build a simple web app** goal by doing the following:
 - [x] Continue with the Afternoon Challenge
 
 ---
-
 
 ## Week 3 Afternoon Challenge - Battles
 
