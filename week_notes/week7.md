@@ -4,9 +4,9 @@
 
 Week 7 Learning Objectives
 
-- [ ] Build a front-end app in Javascript
-- [ ] Work competently in Javascript
-- [ ] Reason about asynchronous behaviour in Javascript
+- [x] Build a front-end app in Javascript
+- [x] Work competently in Javascript
+- [x] Reason about asynchronous behaviour in Javascript
 
 Achievement plans
 
