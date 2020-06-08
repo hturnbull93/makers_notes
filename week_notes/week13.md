@@ -4,11 +4,11 @@
 
 Week 13 Learning Objectives
 
-- [ ] Number 1
+- [ ] Get oriented with job hunting
 
 Achievement plans
 
-- [ ] Number 1
+- [x] Attend [Jobhunt Kickoff]
 
 ---
 
@@ -16,9 +16,7 @@ Achievement plans
 
 Learning Objective & Achievement Plan
 
-I will move towards the **xxxxxx** goal by doing the following:
-
-- [ ] Number 1
+- [x] Attend [Jobhunt Kickoff]
 
 ---
 
@@ -56,7 +54,7 @@ I will move towards the **xxxxxx** goal by doing the following:
 <!-- From week 2 -->
 
 [Code Review skills workshop]: ../skills_workshops/code_review.md
-[Process Review workshop]: ../process_workshop.md 
+[Process Review workshop]: ../process_workshop.md
 [Domain Modelling skills workshop]: ../skills_workshops/domain_modelling.md
 [Feedback skills workshop]: ../skills_workshops/feedback.md
 [Mocking with RSpec practical]: ../skills_workshops/mocking_with_rspec.md
@@ -64,4 +62,69 @@ I will move towards the **xxxxxx** goal by doing the following:
 [Concretes and Abstracts skills workshop]: ../skills_workshops/concretes_and_abstracts.md
 [Delegation skills workshop]: ../skills_workshops/delegation.md
 
+<!-- From week 3 -->
+
+[Servers 1 skills workshop]: ../skills_workshops/servers_1.md
+[Servers 2 skills workshop]: ../skills_workshops/servers_2.md
+[Clients 1 skills workshop]: ../skills_workshops/clients_1.md
+[Process modelling skills workshop]: ../skills_workshops/http_modelling.md
+[Birthday Greeter App skills workshop]: ../skills_workshops/birthday_greeter_app.md
+[Empathy EQ workshop]: ../skills_workshops/empathy.md
+[Debugging 2 skills workshop]: ../skills_workshops/debugging_2.md
+[Debugging a Rack App skills workshop]: ../skills_workshops/debugging_a_rack_app.md
+
+<!-- From week 4 -->
+
+[Illustrated Intro to Databases]: https://illustrated.dev/databases
+[SQLZoo]: ../skills_workshops/sqlzoo.md
+[Development Environments pill]: https://github.com/makersacademy/course/blob/master/pills/development_environments.md
+[Class methods and Instance Methods article]: https://hackmd.io/sOCjb8IcSIaPvT54SXBb3Q
+[REST Game skills workshop]: ../skills_workshops/REST_game.md
+[Database Domain Modelling skills workshop]: ../skills_workshops/database_domain_modelling.md
+[Diary App skills workshop]: ../skills_workshops/diary_app.md
+
+<!-- From week 5 -->
+
+[JS Objects and Prototypes skills workshop]: ../skills_workshops/js_objects_prototypes.md
+[JS Closures skills workshop]: ../skills_workshops/js_closures.md
+[CodeAcademy guide to semicolons]: https://news.codecademy.com/your-guide-to-semicolons-in-javascript/
+[Getting Visibility in JavaScript skills workshop]: ../skills_workshops/visibility_javascript.md
+[Spies and Mocking in JavaScript skills workshop]: ../skills_workshops/spies_mocking_javascript.md
+[Callbacks and Async skills workshop]: ../skills_workshops/callbacks_async_javascript.md
+
+<!-- From week 6 -->
+
+[Optimise Your Team - Communication EQ workshop]: ../skills_workshops/communication.md
+
+<!-- From week 7 -->
+
+[Frontend Single Page App skills workshop]: ../skills_workshops/frontend_single_page_app.md
+[JavaScript Promises skills workshop]: ../skills_workshops/javascript_promises.md
+[JavaScript Module Patterns skills workshop]: ../skills_workshops/javascript_module_patterns.md
+[Async and the Event Loop skills workshop]: ../skills_workshops/async_event_loop.md
+[Intro to Machine Learning Seminar]: ../skills_workshops/intro_machine_learning.md
+
+<!-- From week 8 & 9 -->
+
+[Intro to Machine Learning Seminar]: ../skills_workshops/intro_machine_learning.md
+[Stuff I'd Tell My Younger Self - Dougal Simpson - Lunchtime Talk]: ../skills_workshops/stuff_id_tell_my_younger_self.md
+[Review]: /reviews.md
+[Careers Design workshop]: ../careers/careers_design_workshop.md
+[Creative Job Hunting seminar]: ../careers/creative_job_hunting.md
+
+<!-- From Week 10 -->
+
+[Bank]: https://github.com/hturnbull93/bank
+[Bank in JS]: https://github.com/hturnbull93/bank-js
+[Careers CV Starter workshop]: ../careers/cv_starter_workshop.md
+[Bank in Node]: https://github.com/hturnbull93/bank-node
+[Bank in Python]: https://github.com/hturnbull93/bank-py
+[Careers CV formatting workshop]: ../careers/cv_formatting_workshop.md
+
+<!-- From Week 11 & 12 -->
+
+[Algorithm Complexity seminar]: ../skills_workshops/algorithmic_complexity.md
+
 <!-- New in Week 13 -->
+
+[Jobhunt Kickoff]: ../careers/jobhunt_kickoff.md

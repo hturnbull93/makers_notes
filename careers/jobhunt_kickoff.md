@@ -2,56 +2,53 @@
 
 [All Workshops](README.md)
 
-## Questions
+## How have you grown in the past three months?
 
-What to show, what not to show?
+### What do you know now?
 
-How to get started? What to include in terms of tech stuff?
+How to program, and how to learn anything to do with programming
 
-## Why People Hire Makers
+### What can you do now?
 
-- problem solving skills
-- ability to learn new skills
-- trained in agile processes
-- soft skills -collaboration
-- Makers have a wide range of skills, including both technical and personal skills
-- Makers reputation
-- Ability to feedback and reflect
-- We balance good teamwork with good technical skill
-- Outside experience from other fields
-- Training is holistic
-- Reputation for producing developers who follow good coding practice
-- they have learned to learn fast
-- driven to learn
-- TDD processes
-- Processes
-- Quality code
-- technical skill, practised in their languages
-- Object oriented concepts
-- We are language agnostic
-- Agile workflow, I was recommended Makers by a friend in tech and he stated they were so good
-- Getting Things Done
-- collaborative
-- team communication
-- Goal making
-- eq
-- Leadership
-- ability to track progress
-- We are brave when taking on new challenges
+I can create websites, and more.
+I can learn anything I set my mind to.
 
-## Job History
+### How have you changed?
 
-On each job:
+I have become a better learner and teacher to my peers.
 
-- Did you automate something?
-- What required technical knowledge?
-- Any recognisable partners/clients?
-- One or two things that you are proud of/have some data to support.
+I am now very comfortable with remote working.
 
-## Gaps on CVs
+### What are you proud of achieving in the past three months?
 
-Avoid recruiters, go direct.
+I can take a problem and break it down into small manageable parts.
 
-Recruiters tick boxes, like "no gaps", fill a gap with one line.
+### What are you grateful for?
 
-The gap is not an issue, just fill it with something.
+The cohort.
+The coaches.
+The time I took to learn.
+I have made the right decision taking the course.
+
+### What were some of the biggest challenges?
+
+Learning that asking for help isn't a bad thing.
+Learning something big for the first time.
+
+## Job Offer Guarantee
+
+6 months
+
+Requirements
+
+Track the jobs you apply for huntr.co
+
+Read this: https://makers.tech/job-offer-guarantee-terms/
+
+Keep doing reviews
+
+Keep asking for feedback on my work
+
+No careers fair yet
+
+create a careersteam slack
