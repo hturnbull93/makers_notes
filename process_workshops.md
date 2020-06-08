@@ -67,3 +67,4 @@ Attempted Echo
 Feedback:
 
 - Make sure methods are appropriately named.
+- Make sure tests test all of what you are expecting (in regards to yyyy/mm/dd and then stubbing date after causing it to fail).
