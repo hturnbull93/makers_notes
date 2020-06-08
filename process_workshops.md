@@ -54,7 +54,15 @@ Feedback:
 
 ## 20 April
 
-Attempted Ten Green Bottle
+Attempted Ten Green Bottles
+
+Feedback:
+
+- Make sure methods are appropriately named.
+
+## 8 June
+
+Attempted Echo
 
 Feedback:
 
