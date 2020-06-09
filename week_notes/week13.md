@@ -10,6 +10,7 @@ Achievement plans
 
 - [x] Attend [Jobhunt Kickoff]
 - [x] Watch [Ben Sheridan - Watch Me Recruit workshop]
+- [x] Attend [Goal Setting careers workshop]
 
 ---
 
@@ -19,6 +20,14 @@ Learning Objective & Achievement Plan
 
 - [x] Attend [Jobhunt Kickoff]
 - [x] Watch [Ben Sheridan - Watch Me Recruit workshop]
+
+---
+
+## Tuesday
+
+Learning Objective & Achievement Plan
+
+- [x] Attend [Goal Setting careers workshop]
 
 ---
 
@@ -131,3 +140,4 @@ Learning Objective & Achievement Plan
 
 [Jobhunt Kickoff]: ../careers/jobhunt_kickoff.md
 [Ben Sheridan - Watch Me Recruit workshop]: ../careers/watch_me_recruit.md
+[Jobhunt Kickoff]: ../careers/goal_setting.md
