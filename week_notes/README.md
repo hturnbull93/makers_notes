@@ -19,4 +19,4 @@ Course:
 
 Jobhunt:
 
-- [Week 13](week13.md): Final Project
+- [Week 13](week13.md): Jobhunt Orientation

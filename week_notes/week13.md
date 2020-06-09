@@ -1,4 +1,4 @@
-# Week 13 - Jobhunt Start
+# Week 13 - Jobhunt Orientation
 
 [Back](README.md) | [Week 13 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-13)
 
