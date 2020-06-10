@@ -8,3 +8,4 @@
 - [x] [Creative Job Hunting](creative_job_hunting.md)
 - [x] [Careers CV Starter workshop](cv_starter_workshop.md)
 - [x] [CV formatting](cv_formatting_workshop.md)
+- [x] [Goal setting](goal_setting.md)
