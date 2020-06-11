@@ -60,6 +60,7 @@ Learning Objective & Achievement Plan
 - [x] Overcome Neogram Travis problem
 - [x] Consider Amazon S3 for active storage hosting (dynos will drop disk)
 - [ ] Research Gatsby for portfolio site
+- [x] Attend [Practical Machine Learning Literacy]
 
 ---
 
@@ -175,3 +176,4 @@ Learning Objective & Achievement Plan
 [Jobhunt Kickoff]: ../careers/goal_setting.md
 [Focussed CV workshop]: ../careers/focussed_cv_workshop.md
 [Side Project workshop]: ../careers/side_projects.md
+[Practical Machine Learning Literacy]: ../skills_workshops/practical_machine_learning_literacy.md
