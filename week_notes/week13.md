@@ -16,6 +16,9 @@ Achievement plans
 - [x] Attend [Focussed CV workshop]
 - [x] Add any CV feedback that comes back
 - [x] Write one pager CV
+- [x] Attend [Side Project workshop]
+- [x] Overcome Neogram Travis problem
+- [x] Consider Amazon S3 for active storage hosting (dynos will drop disk)
 
 ---
 
@@ -55,7 +58,7 @@ Learning Objective & Achievement Plan
 
 - [x] Attend [Side Project workshop]
 - [x] Overcome Neogram Travis problem
-- [ ] Consider Amazon S3 for active storage hosting (dynos will drop disk)
+- [x] Consider Amazon S3 for active storage hosting (dynos will drop disk)
 - [ ] Research Gatsby for portfolio site
 
 ---
