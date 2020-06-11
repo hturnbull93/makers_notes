@@ -4,7 +4,7 @@
 
 Week 13 Learning Objectives
 
-- [ ] Get oriented with job hunting
+- [x] Get oriented with job hunting
 
 Achievement plans
 
@@ -13,6 +13,9 @@ Achievement plans
 - [x] Attend [Goal Setting careers workshop]
 - [x] Complete first draft of CV
 - [x] Send out for feedback
+- [x] Attend [Focussed CV workshop]
+- [x] Add any CV feedback that comes back
+- [x] Write one pager CV
 
 ---
 
@@ -39,9 +42,21 @@ Learning Objective & Achievement Plan
 
 Learning Objective & Achievement Plan
 
-- [ ] Attend [Focussed CV Workshop]
-- [ ] Add any CV feedback that comes back
-- [ ] Deploy Neogram with CI/CD using Travis, to Heroku, add badge/link to README, link to CV
+- [x] Attend [Focussed CV workshop]
+- [x] Add any CV feedback that comes back
+- [x] Write one pager CV
+- [x] Deploy Neogram with CI/CD using Travis, to Heroku, add badge/link to README, link to CV
+
+---
+
+## Thursday
+
+Learning Objective & Achievement Plan
+
+- [x] Attend [Side Project workshop]
+- [x] Overcome Neogram Travis problem
+- [ ] Consider Amazon S3 for active storage hosting (dynos will drop disk)
+- [ ] Research Gatsby for portfolio site
 
 ---
 
@@ -155,4 +170,5 @@ Learning Objective & Achievement Plan
 [Jobhunt Kickoff]: ../careers/jobhunt_kickoff.md
 [Ben Sheridan - Watch Me Recruit workshop]: ../careers/watch_me_recruit.md
 [Jobhunt Kickoff]: ../careers/goal_setting.md
-[Focussed CV Workshop]: ../careers/focussed_cv_workshop.md
+[Focussed CV workshop]: ../careers/focussed_cv_workshop.md
+[Side Project workshop]: ../careers/side_projects.md

@@ -10,3 +10,4 @@
 - [x] [CV formatting](cv_formatting_workshop.md)
 - [x] [Focussed CV Workshop](focussed_cv_workshop.md)
 - [x] [Goal Setting](goal_setting.md)
+- [x] [Side Projects](side_projects.md)
