@@ -11,6 +11,8 @@ Achievement plans
 - [x] Attend [Jobhunt Kickoff]
 - [x] Watch [Ben Sheridan - Watch Me Recruit workshop]
 - [x] Attend [Goal Setting careers workshop]
+- [x] Complete first draft of CV
+- [x] Send out for feedback
 
 ---
 
@@ -27,7 +29,19 @@ Learning Objective & Achievement Plan
 
 Learning Objective & Achievement Plan
 
-- [x] Attend [Goal Setting careers workshop]
+- [x] Attend [Goal Setting careers standup]
+- [x] Complete first draft of CV
+- [x] Send out for feedback
+
+---
+
+## Wednesday
+
+Learning Objective & Achievement Plan
+
+- [ ] Attend [Focussed CV Workshop]
+- [ ] Add any CV feedback that comes back
+- [ ] Deploy Neogram with CI/CD using Travis, to Heroku, add badge/link to README, link to CV
 
 ---
 
@@ -141,3 +155,4 @@ Learning Objective & Achievement Plan
 [Jobhunt Kickoff]: ../careers/jobhunt_kickoff.md
 [Ben Sheridan - Watch Me Recruit workshop]: ../careers/watch_me_recruit.md
 [Jobhunt Kickoff]: ../careers/goal_setting.md
+[Focussed CV Workshop]: ../careers/focussed_cv_workshop.md
