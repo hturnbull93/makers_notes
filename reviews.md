@@ -41,3 +41,13 @@ Feedback Summary:
   - [2], low of 1 and high of 2.
   - [3], low of 1 and high of 2.
 - Avoid specific cases until later.
+
+## 12 June
+
+[Full Feedback](/reviews/2020-06-12-feedback.pdf) | [Recording](https://www.youtube.com/watch?v=????)
+
+Feedback Summary:
+
+- Split refactor into two steps: one to address the interpolation, another to use the array.
+- Always test for behaviour, not for implementation (so don't check that it uses `File.open`, as this could change later perhaps).
+- Always start commit messages with a capital letter.
