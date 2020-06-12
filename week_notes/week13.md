@@ -25,6 +25,9 @@ Achievement plans
 - [x] Implement Amazon S3 for active storage hosting (Heroku dynos will drop disk)
 - [x] Research Gatsby for portfolio site
 - [x] Attend [Practical Machine Learning Literacy]
+- [x] Attend another [Review]
+- [x] Research how to TDD with Gatsby (React Calculator)
+- [x] Attend [Dev Tea with Kate Morris]
 
 ---
 
@@ -77,8 +80,8 @@ Learning Objective & Achievement Plan
 Learning Objective & Achievement Plan
 
 - [x] Attend another [Review]
-- [ ] Research how to TDD with Gatsby (React Calculator)
-- [ ] Attend [Dev Tea with Kate Morris]
+- [x] Research how to TDD with Gatsby (React Calculator)
+- [x] Attend [Dev Tea with Kate Morris]
 
 ---
 
