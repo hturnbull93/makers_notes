@@ -78,6 +78,7 @@ Learning Objective & Achievement Plan
 
 - [x] Attend another [Review]
 - [ ] Research how to TDD with Gatsby (React Calculator)
+- [ ] Attend [Dev Tea with Kate Morris]
 
 ---
 
@@ -188,3 +189,4 @@ Learning Objective & Achievement Plan
 [Focussed CV workshop]: ../careers/focussed_cv_workshop.md
 [Side Project workshop]: ../careers/side_projects.md
 [Practical Machine Learning Literacy]: ../skills_workshops/practical_machine_learning_literacy.md
+[Dev Tea with Kate Morris]: ../careers/dev_tea_kate_morris.md
