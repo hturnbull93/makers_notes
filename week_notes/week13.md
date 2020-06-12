@@ -5,6 +5,8 @@
 Week 13 Learning Objectives
 
 - [x] Get oriented with job hunting
+- [x] Polish Neogram
+- [x] Start portfolio site
 
 Achievement plans
 
@@ -13,12 +15,16 @@ Achievement plans
 - [x] Attend [Goal Setting careers workshop]
 - [x] Complete first draft of CV
 - [x] Send out for feedback
+- [x] Collect job ads
 - [x] Attend [Focussed CV workshop]
 - [x] Add any CV feedback that comes back
 - [x] Write one pager CV
+- [x] Collect more job ads
 - [x] Attend [Side Project workshop]
 - [x] Overcome Neogram Travis problem
-- [x] Consider Amazon S3 for active storage hosting (dynos will drop disk)
+- [x] Implement Amazon S3 for active storage hosting (Heroku dynos will drop disk)
+- [x] Research Gatsby for portfolio site
+- [x] Attend [Practical Machine Learning Literacy]
 
 ---
 
@@ -38,6 +44,7 @@ Learning Objective & Achievement Plan
 - [x] Attend [Goal Setting careers standup]
 - [x] Complete first draft of CV
 - [x] Send out for feedback
+- [x] Collect job ads
 
 ---
 
@@ -49,6 +56,7 @@ Learning Objective & Achievement Plan
 - [x] Add any CV feedback that comes back
 - [x] Write one pager CV
 - [x] Deploy Neogram with CI/CD using Travis, to Heroku, add badge/link to README, link to CV
+- [x] Collect more job ads
 
 ---
 
@@ -58,33 +66,36 @@ Learning Objective & Achievement Plan
 
 - [x] Attend [Side Project workshop]
 - [x] Overcome Neogram Travis problem
-- [x] Consider Amazon S3 for active storage hosting (dynos will drop disk)
-- [ ] Research Gatsby for portfolio site
+- [x] Implement Amazon S3 for active storage hosting (Heroku dynos will drop disk)
+- [x] Research Gatsby for portfolio site
 - [x] Attend [Practical Machine Learning Literacy]
 
 ---
 
-<!--
+## Friday
+
+Learning Objective & Achievement Plan
+
+- [x] Attend another [Review]
+- [ ] Research how to TDD with Gatsby (React Calculator)
+
+---
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
+- [x] Get oriented with job hunting
+- [x] Polish Neogram
+- [x] Start portfolio site
 
-### Score: z
+### Score: 7
 
 #### Reasons for Score
 
-- First reason
+- I feel like I have done a decent job with my CV, though by seeking feedback it appears there's a lot of work still to do to improve it.
+- Blockers to Neogram deployment took some time to clear, but were valuable learning.
 
-### Material to re-cover
-
-- First material
-
--->
 <!-- Links -->
 
 <!-- From Week 1 -->
