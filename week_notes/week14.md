@@ -10,6 +10,8 @@ Week 14 Objectives
 Achievement plans
 
 - [x] Do Tech Test on Hired.com
+- [x] Attend Tray.io partner talk
+- [x] Start personal portfolio development
 
 ---
 
@@ -20,6 +22,7 @@ Objective & Achievement Plan
 - [x] Attend Tray.io partner talk
 - [x] Start personal portfolio development
 - [x] Do Tech Test on Hired.com
+- [ ] Update pdf CV with advice from Josh
 
 <!--
 ## Retrospective
