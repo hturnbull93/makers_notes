@@ -1,8 +1,8 @@
 # Week 13 - Jobhunt Orientation
 
-[Back](README.md) | [Week 13 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-13)
+[Back](README.md)
 
-Week 13 Learning Objectives
+Week 13 Objectives
 
 - [x] Get oriented with job hunting
 - [x] Polish Neogram
@@ -33,7 +33,7 @@ Achievement plans
 
 ## Monday
 
-Learning Objective & Achievement Plan
+Objective & Achievement Plan
 
 - [x] Attend [Jobhunt Kickoff]
 - [x] Watch [Ben Sheridan - Watch Me Recruit workshop]
@@ -42,7 +42,7 @@ Learning Objective & Achievement Plan
 
 ## Tuesday
 
-Learning Objective & Achievement Plan
+Objective & Achievement Plan
 
 - [x] Attend [Goal Setting careers standup]
 - [x] Complete first draft of CV
@@ -53,7 +53,7 @@ Learning Objective & Achievement Plan
 
 ## Wednesday
 
-Learning Objective & Achievement Plan
+Objective & Achievement Plan
 
 - [x] Attend [Focussed CV workshop]
 - [x] Add any CV feedback that comes back
@@ -65,7 +65,7 @@ Learning Objective & Achievement Plan
 
 ## Thursday
 
-Learning Objective & Achievement Plan
+Objective & Achievement Plan
 
 - [x] Attend [Side Project workshop]
 - [x] Overcome Neogram Travis problem
@@ -77,7 +77,7 @@ Learning Objective & Achievement Plan
 
 ## Friday
 
-Learning Objective & Achievement Plan
+Objective & Achievement Plan
 
 - [x] Attend another [Review]
 - [x] Research how to TDD with Gatsby (React Calculator)
