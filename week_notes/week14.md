@@ -5,13 +5,15 @@
 Week 14 Objectives
 
 - [ ] Apply for a job
+- [ ] Write cover letter set
 - [x] TDD portfolio site
 
 Achievement plans
 
-- [x] Do Tech Test on Hired.com
 - [x] Attend Tray.io partner talk
 - [x] Start personal portfolio development
+- [x] Do Tech Test on Hired.com
+- [x] Update pdf CV with advice from Josh
 
 ---
 
@@ -22,7 +24,17 @@ Objective & Achievement Plan
 - [x] Attend Tray.io partner talk
 - [x] Start personal portfolio development
 - [x] Do Tech Test on Hired.com
-- [ ] Update pdf CV with advice from Josh
+- [x] Update pdf CV with advice from Josh
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [ ] Attend [Job boards workshop]
+- [ ] Continue personal portfolio development
+- [ ] Write cover letter set
 
 <!--
 ## Retrospective
@@ -136,3 +148,5 @@ Objective & Achievement Plan
 [Dev Tea with Kate Morris]: ../careers/dev_tea_kate_morris.md
 
 <!-- Week 14 -->
+
+[Job boards workshop]: ../careers/job_boards_workshop.md
