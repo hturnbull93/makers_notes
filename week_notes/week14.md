@@ -14,6 +14,10 @@ Achievement plans
 - [x] Start personal portfolio development
 - [x] Do Tech Test on Hired.com
 - [x] Update pdf CV with advice from Josh
+- [x] Attend [Job boards workshop]
+- [x] Start cover letter template
+- [x] Attend Makers video interview
+- [x] Work on Statue Project
 
 ---
 
@@ -33,8 +37,7 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend [Job boards workshop]
-- [ ] Continue personal portfolio development
-- [ ] Write cover letter template
+- [x] Start cover letter template
 - [x] Attend Makers video interview
 - [x] Work on Statue Project
 
