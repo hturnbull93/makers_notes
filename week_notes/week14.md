@@ -36,6 +36,18 @@ Objective & Achievement Plan
 - [ ] Continue personal portfolio development
 - [ ] Write cover letter template
 - [x] Attend Makers video interview
+- [x] Work on Statue Project
+
+---
+
+## Wednesday
+
+Objective & Achievement Plan
+
+- [ ] Attend [Who's Who in Hiring workshop]
+- [ ] Apply for first job
+- [ ] Continue personal portfolio development
+- [ ] Write cover letter template
 
 <!--
 ## Retrospective
