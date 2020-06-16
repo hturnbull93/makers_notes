@@ -50,7 +50,7 @@ Objective & Achievement Plan
 - [ ] Attend [Who's Who in Hiring workshop]
 - [ ] Apply for first job
 - [ ] Continue personal portfolio development
-- [ ] Write cover letter template
+- [ ] Finish cover letter template
 
 <!--
 ## Retrospective
