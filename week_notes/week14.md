@@ -166,3 +166,4 @@ Objective & Achievement Plan
 <!-- Week 14 -->
 
 [Job boards workshop]: ../careers/job_boards_workshop.md
+[Who's Who in Hiring workshop]: ../careers/whos_who_in_hiring.md
