@@ -4,8 +4,8 @@
 
 Week 14 Objectives
 
-- [ ] Apply for at least one job
-- [ ] Write cover letter template
+- [x] Apply for at least one job
+- [x] Write cover letter template
 - [x] TDD portfolio site
 
 Achievement plans
@@ -18,6 +18,10 @@ Achievement plans
 - [x] Start cover letter template
 - [x] Attend Makers video interview
 - [x] Work on Statue Project
+- [x] Attend [Who's Who in Hiring workshop]
+- [x] Apply for first job
+- [x] Continue personal portfolio development
+- [x] Finish cover letter template
 
 ---
 
@@ -47,10 +51,10 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
-- [ ] Attend [Who's Who in Hiring workshop]
-- [ ] Apply for first job
-- [ ] Continue personal portfolio development
-- [ ] Finish cover letter template
+- [x] Attend [Who's Who in Hiring workshop]
+- [x] Apply for first job
+- [x] Continue personal portfolio development
+- [x] Finish cover letter template
 
 <!--
 ## Retrospective
