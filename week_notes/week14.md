@@ -19,9 +19,13 @@ Achievement plans
 - [x] Attend Makers video interview
 - [x] Work on Statue Project
 - [x] Attend [Who's Who in Hiring workshop]
-- [x] Apply for first job
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
+- [x] Apply for first job
+- [x] Attend Standup
+- [x] Work on Statue Project
+- [x] Write slide deck for Documentation workshop
+- [x] Apply for another job
 
 ---
 
@@ -52,9 +56,35 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend [Who's Who in Hiring workshop]
-- [x] Apply for first job
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
+- [x] Apply for first job
+
+---
+
+## Thursday
+
+Objective & Achievement Plan
+
+- [x] Attend Standup
+- [x] Work on Statue Project
+- [x] Write slide deck for Documentation workshop
+- [x] Apply for another job
+
+---
+
+## Friday
+
+Objective & Achievement Plan
+
+- [ ] Work on Statue Project
+- [ ] Deliver Documentation workshop
+- [ ] Add GitHub repo link to all deployed sites.
+- [ ] Add pics to Guardian Summariser
+- [ ] Review CV with Jason
+- [ ] Apply for another job
+
+---
 
 <!--
 ## Retrospective
