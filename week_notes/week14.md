@@ -21,11 +21,21 @@ Achievement plans
 - [x] Attend [Who's Who in Hiring workshop]
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
-- [x] Apply for first job
+- [x] Apply for first job (Trint)
 - [x] Attend Standup
 - [x] Work on Statue Project
 - [x] Write slide deck for Documentation workshop
-- [x] Apply for another job
+- [x] Apply for another job (Nutmeg)
+- [x] Work on Statue Project
+- [x] Deliver Documentation workshop
+- [x] Apply for another job (Stairway)
+- [x] Add GitHub repo link to all deployed sites.
+  - [x] Neogram
+  - [x] Immersive Bowling Scorecard
+  - [x] News Summary
+- [x] Attend [Dev Tea with Chris Ly]
+- [x] Add pics to News Summary
+- [x] Review CV with Jason
 
 ---
 
@@ -58,7 +68,7 @@ Objective & Achievement Plan
 - [x] Attend [Who's Who in Hiring workshop]
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
-- [x] Apply for first job
+- [x] Apply for first job (Trint)
 
 ---
 
@@ -69,7 +79,7 @@ Objective & Achievement Plan
 - [x] Attend Standup
 - [x] Work on Statue Project
 - [x] Write slide deck for Documentation workshop
-- [x] Apply for another job
+- [x] Apply for another job (Nutmeg)
 
 ---
 
@@ -77,31 +87,33 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
-- [ ] Work on Statue Project
-- [ ] Deliver Documentation workshop
-- [ ] Add GitHub repo link to all deployed sites.
-- [ ] Add pics to Guardian Summariser
-- [ ] Review CV with Jason
-- [ ] Apply for another job
+- [x] Work on Statue Project
+- [x] Deliver Documentation workshop
+- [x] Apply for another job (Stairway)
+- [x] Add GitHub repo link to all deployed sites.
+  - [x] Neogram
+  - [x] Immersive Bowling Scorecard
+  - [x] News Summary
+- [x] Attend [Dev Tea with Chris Ly]
+- [x] Add pics to News Summary
+- [x] Review CV with Jason
 
 ---
 
-<!--
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Get oriented with job hunting
-- [ ] Polish Neogram
-- [ ] Start portfolio site
+- [x] Apply for at least one job
+- [x] Write cover letter template
+- [x] TDD portfolio site
 
-### Score: X
+### Score: 8
 
 #### Reasons for Score
 
-- 
-
--->
+- I am pleased with how I have applied for three jobs this week. I hope to hit a stride of five per week soon.
+- I am excited to get stuck in with the statue project.
 
 <!-- Links -->
 
@@ -201,3 +213,4 @@ Objective & Achievement Plan
 
 [Job boards workshop]: ../careers/job_boards_workshop.md
 [Who's Who in Hiring workshop]: ../careers/whos_who_in_hiring.md
+[Dev Tea with Chris Ly]: ../careers/dev_tea_chris_ly.md
