@@ -16,6 +16,7 @@
 ## Dev Tea
 
 - [x] [Dev Tea - Kate Morris](dev_tea_kate_morris.md)
+- [x] [Dev Tea - Chris Ly](dev_tea_chris_ly.md)
 
 ## Independent Talks
 
