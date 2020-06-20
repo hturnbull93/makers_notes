@@ -6,8 +6,6 @@
 
 [Kate's LinkedIn](https://www.linkedin.com/in/kate-morris-a3962943/)
 
-Wonder why you trained with makers after having stidued computer science and had a previous career as a software developer?
-
 ## Deloitte
 
 Clear career path, reviews in may, which decide promotions.
