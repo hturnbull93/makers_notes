@@ -36,6 +36,7 @@ Achievement plans
 - [x] Attend [Dev Tea with Chris Ly]
 - [x] Add pics to News Summary
 - [x] Review CV with Jason
+- [x] Apply for job (Triptease)
 
 ---
 
@@ -97,6 +98,7 @@ Objective & Achievement Plan
 - [x] Attend [Dev Tea with Chris Ly]
 - [x] Add pics to News Summary
 - [x] Review CV with Jason
+- [x] Apply for job (Triptease)
 
 ---
 
