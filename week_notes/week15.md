@@ -4,39 +4,12 @@
 
 Week 14 Objectives
 
-- [x] Apply for at least one job
-- [x] Write cover letter template
-- [x] TDD portfolio site
+- [ ] Apply for 5 jobs this week.
+- [ ] Finish Portfolio site.
 
 Achievement plans
 
-- [x] Attend Tray.io partner talk
-- [x] Start personal portfolio development
-- [x] Do Tech Test on Hired.com
-- [x] Update pdf CV with advice from Josh
-- [x] Attend [Job boards workshop]
-- [x] Start cover letter template
-- [x] Attend Makers video interview
-- [x] Work on Statue Project
-- [x] Attend [Who's Who in Hiring workshop]
-- [x] Continue personal portfolio development
-- [x] Finish cover letter template
-- [x] Apply for first job (Trint)
-- [x] Attend Standup
-- [x] Work on Statue Project
-- [x] Write slide deck for Documentation workshop
-- [x] Apply for another job (Nutmeg)
-- [x] Work on Statue Project
-- [x] Deliver Documentation workshop
-- [x] Apply for another job (Stairway)
-- [x] Add GitHub repo link to all deployed sites.
-  - [x] Neogram
-  - [x] Immersive Bowling Scorecard
-  - [x] News Summary
-- [x] Attend [Dev Tea with Chris Ly]
-- [x] Add pics to News Summary
-- [x] Review CV with Jason
-- [x] Apply for job (Triptease)
+- [ ] 
 
 ---
 
@@ -44,63 +17,10 @@ Achievement plans
 
 Objective & Achievement Plan
 
-- [x] Attend Tray.io partner talk
-- [x] Start personal portfolio development
-- [x] Do Tech Test on Hired.com
-- [x] Update pdf CV with advice from Josh
+- [ ] 
 
 ---
-
-## Tuesday
-
-Objective & Achievement Plan
-
-- [x] Attend [Job boards workshop]
-- [x] Start cover letter template
-- [x] Attend Makers video interview
-- [x] Work on Statue Project
-
----
-
-## Wednesday
-
-Objective & Achievement Plan
-
-- [x] Attend [Who's Who in Hiring workshop]
-- [x] Continue personal portfolio development
-- [x] Finish cover letter template
-- [x] Apply for first job (Trint)
-
----
-
-## Thursday
-
-Objective & Achievement Plan
-
-- [x] Attend Standup
-- [x] Work on Statue Project
-- [x] Write slide deck for Documentation workshop
-- [x] Apply for another job (Nutmeg)
-
----
-
-## Friday
-
-Objective & Achievement Plan
-
-- [x] Work on Statue Project
-- [x] Deliver Documentation workshop
-- [x] Apply for another job (Stairway)
-- [x] Add GitHub repo link to all deployed sites.
-  - [x] Neogram
-  - [x] Immersive Bowling Scorecard
-  - [x] News Summary
-- [x] Attend [Dev Tea with Chris Ly]
-- [x] Add pics to News Summary
-- [x] Review CV with Jason
-- [x] Apply for job (Triptease)
-
----
+<!--
 
 ## Retrospective
 
