@@ -1,15 +1,23 @@
-# Week 14 - Jobhunt
+# Week 15 - Jobhunt
 
 [Back](README.md)
 
 Week 14 Objectives
 
-- [ ] Apply for 5 jobs this week.
+- [ ] Apply for 4 jobs this week.
 - [ ] Finish Portfolio site.
 
 Achievement plans
 
-- [ ] 
+- [x] Statue project work.
+- [x] Work on portfolio project section.
+- [x] Reconsider portfolio design.
+- [x] Apply to job (QuantSpark).
+- [x] Apply to job (OakNorth).
+- [x] Statue project work.
+- [x] Meet with Rainer (Alumni mentor).
+- [x] Continue work on portfolio design.
+- [x] Attend portfolio website meeting.
 
 ---
 
@@ -17,7 +25,23 @@ Achievement plans
 
 Objective & Achievement Plan
 
-- [ ] 
+- [x] Statue project work.
+- [x] Work on portfolio project section.
+- [x] Reconsider portfolio design.
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [x] Apply to job (QuantSpark).
+- [x] Apply to job (OakNorth).
+- [x] Statue project work.
+- [x] Meet with Rainer (Alumni mentor).
+- [x] Continue work on portfolio design.
+- [x] Attend portfolio website meeting.
+- [ ] Start implementation of new portfolio design.
 
 ---
 <!--
