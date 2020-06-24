@@ -22,3 +22,5 @@
 
 - [x] [Creative Job Hunting](creative_job_hunting.md)
 - [x] [Ben Sheridan - Watch Me Recruit](watch_me_recruit.md)
+- [x] [Programmed in Pencil June 2020](programmed_in_pencil_june.md)
+- [x] [HIRED Ask a Careers Coach webinar](hired_ask_a_careers_coach.md)
