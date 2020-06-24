@@ -12,6 +12,7 @@ Achievement plans
 - [x] Statue project work.
 - [x] Work on portfolio project section.
 - [x] Reconsider portfolio design.
+- [x] Attend standup.
 - [x] Apply to job (QuantSpark).
 - [x] Apply to job (OakNorth).
 - [x] Statue project work.
@@ -35,13 +36,38 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
+- [x] Attend standup.
 - [x] Apply to job (QuantSpark).
 - [x] Apply to job (OakNorth).
 - [x] Statue project work.
 - [x] Meet with Rainer (Alumni mentor).
 - [x] Continue work on portfolio design.
 - [x] Attend portfolio website meeting.
-- [ ] Start implementation of new portfolio design.
+
+---
+
+## Wednesday
+
+Objective & Achievement Plan
+
+- [x] Attend standup.
+- [ ] Work on portfolio site.
+- [ ] Attend Statue project standup.
+- [ ] Statue project work.
+- [ ] Attend [HIRED Ask a Careers Coach webinar].
+- [ ] Attend [Programmed in Pencil June meetup].
+
+---
+
+## Thursday
+
+Objective & Achievement Plan
+
+- [ ] Job gathering/Huntr clearout.
+- [ ] Attend 11am standup.
+- [ ] Attend Statue project standup.
+- [ ] Statue project work.
+- [ ] Attend [Make a splash with ML workshop].
 
 ---
 <!--
@@ -160,3 +186,8 @@ Objective & Achievement Plan
 [Job boards workshop]: ../careers/job_boards_workshop.md
 [Who's Who in Hiring workshop]: ../careers/whos_who_in_hiring.md
 [Dev Tea with Chris Ly]: ../careers/dev_tea_chris_ly.md
+
+<!-- Week 15 -->
+
+[HIRED Ask a Careers Coach webinar]: ../careers/hired_ask_a_careers_coach.md
+[Programmed in Pencil June meetup]: ../careers/programmed_in_pencil_june.md
