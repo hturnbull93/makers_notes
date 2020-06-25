@@ -19,6 +19,12 @@ Achievement plans
 - [x] Meet with Rainer (Alumni mentor).
 - [x] Continue work on portfolio design.
 - [x] Attend portfolio website meeting.
+- [x] Attend standup.
+- [x] Work on portfolio site.
+- [x] Attend Statue project standup.
+- [x] Statue project work.
+- [x] Attend [HIRED Ask a Careers Coach webinar].
+- [x] Attend [Programmed in Pencil June meetup].
 
 ---
 
@@ -51,11 +57,11 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend standup.
-- [ ] Work on portfolio site.
-- [ ] Attend Statue project standup.
-- [ ] Statue project work.
-- [ ] Attend [HIRED Ask a Careers Coach webinar].
-- [ ] Attend [Programmed in Pencil June meetup].
+- [x] Work on portfolio site.
+- [x] Attend Statue project standup.
+- [x] Statue project work.
+- [x] Attend [HIRED Ask a Careers Coach webinar].
+- [x] Attend [Programmed in Pencil June meetup].
 
 ---
 
@@ -63,10 +69,13 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
-- [ ] Job gathering/Huntr clearout.
-- [ ] Attend 11am standup.
-- [ ] Attend Statue project standup.
-- [ ] Statue project work.
+- [x] Job gathering/Huntr clearout.
+- [x] Attend 11am standup.
+- [x] Apply to job (Hackney Council).
+- [x] Apply to job (Tempo).
+- [x] Attend Statue project standup.
+- [x] Work on portfolio site.
+- [x] Statue project work.
 - [ ] Attend [Make a splash with ML workshop].
 
 ---
@@ -191,3 +200,4 @@ Objective & Achievement Plan
 
 [HIRED Ask a Careers Coach webinar]: ../careers/hired_ask_a_careers_coach.md
 [Programmed in Pencil June meetup]: ../careers/programmed_in_pencil_june.md
+[Make a splash with ML workshop]: ../skills_workshops/make_a_splash_wth_ml.md

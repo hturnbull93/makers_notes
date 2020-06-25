@@ -67,4 +67,5 @@
 
 - [x] [Intro to Machine Learning](intro_machine_learning.md)
 - [x] [Practical Machine Learning Literacy](practical_machine_learning_literacy.md)
+- [x] [Make a splash with ML workshop](make_a_splash_wth_ml.md)
 - [x] [Stuff I'd Tell My Younger Self](stuff_id_tell_my_younger_self.md)
