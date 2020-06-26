@@ -1,4 +1,4 @@
-# Programmed in Pencil June Meet - Careers Workshop
+# Programmed in Pencil June Meet - Skills Workshop
 
 [All Workshops](README.md)
 

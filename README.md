@@ -4,7 +4,7 @@ A collection of notes, learning objectives, evidence, and reflections.
 
 Activity notes:
 
-[Week notes] | [Skills workshops] | [Process workshops] | [Careers workshops] | [Reviews] | [Medium Blog]
+[Week notes] | [Skills workshops] | [Process workshops] | [Careers workshops] |[ Meetups] | [Reviews] | [Medium Blog]
 
 Process notes:
 
@@ -35,12 +35,13 @@ Process notes:
 
 <!-- Links -->
 
-[Skills workshops]: skills_workshops/README.md
+[Skills workshops]: /skills_workshops/README.md
 [Careers workshops]: /careers/README.md
-[Week notes]: week_notes/README.md
-[Process workshops]: process_workshops.md
-[Achieving Goals]: achieving_goals.md
-[Retrospectives]: retro.md
-[Meditation]: meditation.md
-[Reviews]: reviews.md
+[Meetups]: /meetups/README.md
+[Week notes]: /week_notes/README.md
+[Process workshops]: /process_workshops.md
+[Achieving Goals]: /achieving_goals.md
+[Retrospectives]: /retro.md
+[Meditation]: /meditation.md
+[Reviews]: /reviews.md
 [Medium Blog]: https://medium.com/@hturnbull93
