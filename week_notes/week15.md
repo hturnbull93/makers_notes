@@ -4,8 +4,8 @@
 
 Week 14 Objectives
 
-- [x] Apply for 4 jobs this week.
-- [ ] Finish Portfolio site.
+- [x] Apply for 5 jobs this week.
+- [x] Rerelease Portfolio site.
 
 Achievement plans
 
@@ -33,6 +33,10 @@ Achievement plans
 - [x] Work on portfolio site.
 - [x] Statue project work.
 - [x] Attend [Make a splash with ML workshop].
+- [x] Job gathering.
+- [x] Apply to job (Pod Point).
+- [x] Work on portfolio site.
+- [x] Fix bank bug.
 
 ---
 
@@ -94,28 +98,25 @@ Objective & Achievement Plan
 
 - [x] Job gathering.
 - [x] Apply to job (Pod Point).
-- [ ] Work on portfolio site.
-  - [ ] Write projects copy.
-  - [ ] Prepare projects images.
+- [x] Work on portfolio site.
+- [x] Fix bank bug.
 
 ---
 
-<!--
 
 ## Retrospective
 
 ### Achievements this week
 
-- [x] Apply for at least one job
-- [x] Write cover letter template
-- [x] TDD portfolio site
+- [x] Apply for 5 jobs this week.
+- [x] Rerelease Portfolio site.
 
 ### Score: 8
 
 #### Reasons for Score
 
-- I am pleased with how I have applied for three jobs this week. I hope to hit a stride of five per week soon.
-- I am excited to get stuck in with the statue project.
+- I was initially aiming for 4 job applications, but I managed to do 5, and I think I am becoming swifter with them.
+- I am glad I have deployed the new version of the portfolio site, looks much better now.
 
 <!-- Links -->
 
