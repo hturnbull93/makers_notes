@@ -103,7 +103,6 @@ Objective & Achievement Plan
 
 ---
 
-
 ## Retrospective
 
 ### Achievements this week
