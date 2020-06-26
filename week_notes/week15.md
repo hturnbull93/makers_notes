@@ -4,7 +4,7 @@
 
 Week 14 Objectives
 
-- [ ] Apply for 4 jobs this week.
+- [x] Apply for 4 jobs this week.
 - [ ] Finish Portfolio site.
 
 Achievement plans
@@ -25,6 +25,14 @@ Achievement plans
 - [x] Statue project work.
 - [x] Attend [HIRED Ask a Careers Coach webinar].
 - [x] Attend [Programmed in Pencil June meetup].
+- [x] Job gathering/Huntr clearout.
+- [x] Attend 11am standup.
+- [x] Apply to job (Hackney Council).
+- [x] Apply to job (Tempo).
+- [x] Attend Statue project standup.
+- [x] Work on portfolio site.
+- [x] Statue project work.
+- [x] Attend [Make a splash with ML workshop].
 
 ---
 
@@ -69,16 +77,29 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
-- [x] Job gathering/Huntr clearout.
+- [x] Huntr clearout.
 - [x] Attend 11am standup.
 - [x] Apply to job (Hackney Council).
 - [x] Apply to job (Tempo).
 - [x] Attend Statue project standup.
 - [x] Work on portfolio site.
 - [x] Statue project work.
-- [ ] Attend [Make a splash with ML workshop].
+- [x] Attend [Make a splash with ML workshop].
 
 ---
+
+## Friday
+
+Objective & Achievement Plan
+
+- [x] Job gathering.
+- [x] Apply to job (Pod Point).
+- [ ] Work on portfolio site.
+  - [ ] Write projects copy.
+  - [ ] Prepare projects images.
+
+---
+
 <!--
 
 ## Retrospective
