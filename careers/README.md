@@ -23,3 +23,4 @@
 - [x] [Creative Job Hunting](creative_job_hunting.md)
 - [x] [Ben Sheridan - Watch Me Recruit](watch_me_recruit.md)
 - [x] [HIRED Ask a Careers Coach webinar](hired_ask_a_careers_coach.md)
+- [x] [Technical Interviews 101](technical_interviews_101.md)
