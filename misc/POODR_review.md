@@ -748,3 +748,96 @@ Martin Fowler in Refactoring: Improving the Design of Existing Code
 > force rewrites of the tests.
 
 ### Intentional Testing
+
+> If writing, maintaining,
+> and running tests consumes more time than would otherwise be needed to fix bugs,
+> write documentation, and design applications tests are clearly not worth writing and
+> no rational person would argue otherwise.
+
+So the solution is to know how to write good, valuable tests.
+
+Valuable tests help in the following ways:
+
+- Finding bugs: finding them early allows them to be fixed before they can become embedded.
+- Documentation: tests provide living documentation of the code.
+- Deferring design decisions: when tests depend on interface (public only) you can refactor the internal code and defer design decisions safely.
+- Supporting abstractions: Tests are a record of the interface of each abstraction, they can help yo uunderstand how to create new abstractions and how existing ones work.
+- Exposing design flaws: if testing drags too many objects into the mix, it is likely that there are too many dependencies/high coupling. Well designed tests for well designed code is the key.
+
+Knowing what to test is important also:
+
+- Test only the public interface, as:
+  > willful ignorance of the internals of every other object is at the core of design.
+- Public interfaces are the most stable, and least likely to change, and it tests behaviour rather than state.
+- Test only the objects own incoming public interface, even though it may send an outgoing message to some collaborator, a _query_, that should be stubbed, i.e. they are honoured correctly as part of the trust that the object has.
+- If the message to a collaborator instructs it to do something a _command_, but the return value isn't used by the object under test, then a spy for the mocked collaborator to receive the message should be put in place.
+
+When to test:
+
+- Always write tests first, whenever it makes sense to do so.
+- Tests are a reuse of code (using the code of the object under test), as as such the resultant code ought to be less coupled.
+- Writing tests after writing poor code just makes it harder.
+- Spiking code can be done to learn about certain solutions.
+
+TDD vs BDD:
+
+- TDD takes an inside out approach, where unit tests are used to build up units until they result in feature behaviour.
+- BDD takes an outside in approach, where feature tests are used to set the goal, and unit tests are used to build up to pass the feature test.
+- They are not exclusive to one another, and exist on a spectrum.
+
+## Testing Examples
+
+### Testing Incoming Messages
+
+- Incoming messages make up the public interface.
+
+#### Deleting Unused Interfaces
+
+- Incoming messages ought to have come from an object other the object that implemented it, that is to say something else.
+- If you find a message that is on the public interface but has no dependants that call it, it should not be public.
+- Delete it.
+
+#### Proving the Public Interface
+
+- Incoming messages are tested by making assertions about the return value.
+- Tests make sure it is correct in any possible situation.
+
+#### Isolate the Object Under Test
+
+- Make sure to isolate objects using dependency injection.
+- Dependency injection reduces costs of tests, in terms of time and LOC being run.
+- Dependency injection generalises the role of the object being injected, so it is clearer what can be used.
+  > The whole point of dependency injection is that it allows you to substitute different concrete classes without changing existing code.
+- Doubles can be injected to assume a role in a way that is the lowest cost possible, using stubbed methods that return "canned" answers.
+
+#### Testing Private Methods
+
+- Private methods should be internally invoked by public methods that already have tests.
+- If a failing test is caused by a buggy private method somewhere in the class, perhaps there is too much going on with the class:
+  > An object with many private methods exudes the design smell of having too many responsibilities.
+- You could extract private methods into a new object, which makes it testable, but it may suffer if the public interface is not stable (the reason it was private and not tested in the first place).
+
+### Testing Outgoing Messages
+
+These are either _queries_ (when they have no side effects, simply a returned value) or _commands_ (when they have an effect of an action taken by the commanded object).
+
+#### Ignore Query Messages
+
+- As there is no consequence of actually sending a query, you can likely just ignore it.
+
+#### Proving Command Messages
+
+- If the responsibility of the object is to invoke another object's public interface, that needs to be tested.
+- Mocks are tests of as opposed to tests of state, measuring that the message was sent.
+- Inject a mock as a dependency instead of the actual object. In the test asserts that the mock recieved the message you are testing for.
+
+### Testing Duck Types
+
+Duck types all have the same public interface.
+
+- Make a test module for the Duck Type that tests that it implements the interface expected of the type.
+- Include that module in the test suite of each object that is the Duck Type.
+- Allows you to reuse code in tests, If the interface of the Duck changes, just change the module and it reflects across all Ducks.
+- You can then use this test to test make sure doubles that need to implement the Duck Type actually do it correctly.
+
+
