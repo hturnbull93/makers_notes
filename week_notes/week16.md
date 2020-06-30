@@ -16,15 +16,26 @@ Objective & Achievement Plan
 
 - [x] Attend another [Review].
 - [x] Attend Statue project standup.
-- [x] Watch [JSConf Learning Functional Programming with JavaScript - Anjana Vakil]
-- [ ] Finish POODR.
+- [x] Watch [JSConf Learning Functional Programming with JavaScript - Anjana Vakil].
+- [x] Continue POODR.
+- [x] Attend [Technical Interviews 101 workshop].
+- [x] Statue project work.
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [x] Attend Standup.
+- [ ] Continue POODR.
+- [ ] Attend Statue project standup.
+- [ ] Statue project work.
 - [ ] Write copy for top 6 projects.
 - [ ] Prepare photos for top 6 projects.
-- [ ] Attend [Technical Interviews 101 workshop].
-- [ ] Statue project work.
 
-<!--
 ---
+<!--
 
 ## Retrospective
 
