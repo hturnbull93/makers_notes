@@ -29,10 +29,11 @@ Objective & Achievement Plan
 
 - [x] Attend Standup.
 - [x] Finish POODR review.
-- [ ] Attend Statue project standup.
+- [x] Attend Statue project standup.
 - [ ] Statue project work.
-- [ ] Write copy for top 6 projects.
-- [ ] Prepare photos for top 6 projects.
+- [ ] Apply for job (BBC).
+- [x] Write copy for top 6 projects.net
+- [x] Gather images for top 6 projects.
 
 ---
 <!--
