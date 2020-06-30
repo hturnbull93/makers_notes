@@ -840,4 +840,20 @@ Duck types all have the same public interface.
 - Allows you to reuse code in tests, If the interface of the Duck changes, just change the module and it reflects across all Ducks.
 - You can then use this test to test make sure doubles that need to implement the Duck Type actually do it correctly.
 
+### Testing Inherited Code
 
+#### Specifying the Inherited Interface
+
+- Prove all objects in the hierarchy honour the contract  of the Liskov Substitution Principle: all subtypes can be substituted for their supertypes.
+- Write a shared interface module test suite, similar for the Duck Type module.
+
+#### Specifying Subclass Responsibilities
+
+- Write tests for the subclass, for example that it responds to the post initializer if you are using that.
+- Write tests for the particular specialisations the subclasses bring.
+- Also check that it raises the `NotImplementerError` if you require the subclass to implement something that isn't included as standard.
+
+#### Testing Abstract Superclass Behavior
+
+- Use a stubbed class rather than an actual one to test the superclass. In case your actual class changes or is removed.
+- Include the subclass shared interface module in the stub to make sure it represents the actual class.
