@@ -28,7 +28,7 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend Standup.
-- [ ] Continue POODR.
+- [x] Finish POODR review.
 - [ ] Attend Statue project standup.
 - [ ] Statue project work.
 - [ ] Write copy for top 6 projects.
