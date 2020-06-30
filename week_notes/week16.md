@@ -8,6 +8,20 @@ Week 16 Objectives
 
 Achievement plans
 
+- [x] Attend another [Review].
+- [x] Attend Statue project standup.
+- [x] Watch [JSConf Learning Functional Programming with JavaScript - Anjana Vakil].
+- [x] Continue POODR.
+- [x] Attend [Technical Interviews 101 workshop].
+- [x] Statue project work.
+- [x] Attend Standup.
+- [x] Finish POODR review.
+- [x] Attend Statue project standup.
+- [x] Statue project work.
+- [x] Apply for job (BBC).
+- [x] Write copy for top 6 projects.
+- [x] Gather images for top 6 projects.
+
 ---
 
 ## Monday
@@ -30,9 +44,9 @@ Objective & Achievement Plan
 - [x] Attend Standup.
 - [x] Finish POODR review.
 - [x] Attend Statue project standup.
-- [ ] Statue project work.
-- [ ] Apply for job (BBC).
-- [x] Write copy for top 6 projects.net
+- [x] Statue project work.
+- [x] Apply for job (BBC).
+- [x] Write copy for top 6 projects.
 - [x] Gather images for top 6 projects.
 
 ---
