@@ -56,6 +56,7 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend [STAR format workshop].
+- [ ] Write more STAR format examples.
 - [ ] Finish work on project pages.
 - [ ] Statue project work.
 
