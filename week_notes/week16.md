@@ -50,6 +50,16 @@ Objective & Achievement Plan
 - [x] Gather images for top 6 projects.
 
 ---
+
+## Wednesday
+
+Objective & Achievement Plan
+
+- [x] Attend [STAR format workshop].
+- [ ] Finish work on project pages.
+- [ ] Statue project work.
+
+---
 <!--
 
 ## Retrospective
@@ -176,3 +186,4 @@ Objective & Achievement Plan
 
 [Technical Interviews 101 workshop]: ../careers/technical_interviews_101.md
 [JSConf Learning Functional Programming with JavaScript - Anjana Vakil]: https://www.youtube.com/watch?v=e-5obm1G_FY
+[STAR format workshop]: ../careers/STAR_format.md

@@ -12,6 +12,7 @@
 - [x] [Goal Setting](goal_setting.md)
 - [x] [Side Projects](side_projects.md)
 - [x] [Who's Who in Hiring](whos_who_in_hiring.md)
+- [x] [STAR Format](STAR_format.md)
 
 ## Dev Tea
 
