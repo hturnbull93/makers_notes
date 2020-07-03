@@ -13,8 +13,8 @@ Achievement plans
 - [x] Work on portfolio project section.
 - [x] Reconsider portfolio design.
 - [x] Attend standup.
-- [x] Apply to job (QuantSpark).
-- [x] Apply to job (OakNorth).
+- [x] Apply to job (Front-End UI Designer - QuantSpark).
+- [x] Apply to job (Frontend Engineer - OakNorth).
 - [x] Statue project work.
 - [x] Meet with Rainer (Alumni mentor).
 - [x] Continue work on portfolio design.
@@ -27,14 +27,14 @@ Achievement plans
 - [x] Attend [Programmed in Pencil June meetup].
 - [x] Job gathering/Huntr clearout.
 - [x] Attend 11am standup.
-- [x] Apply to job (Hackney Council).
-- [x] Apply to job (Tempo).
+- [x] Apply to job (Developer - Hackney Council).
+- [x] Apply to job (Full Stack Developer - Tempo).
 - [x] Attend Statue project standup.
 - [x] Work on portfolio site.
 - [x] Statue project work.
 - [x] Attend [Make a splash with ML workshop].
 - [x] Job gathering.
-- [x] Apply to job (Pod Point).
+- [x] Apply to job (Junior Full Stack Developer - Pod Point).
 - [x] Work on portfolio site.
 - [x] Fix bank bug.
 
@@ -55,8 +55,8 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend standup.
-- [x] Apply to job (QuantSpark).
-- [x] Apply to job (OakNorth).
+- [x] Apply to job (Front-End UI Designer - QuantSpark).
+- [x] Apply to job (Frontend Engineer - OakNorth).
 - [x] Statue project work.
 - [x] Meet with Rainer (Alumni mentor).
 - [x] Continue work on portfolio design.
@@ -83,8 +83,8 @@ Objective & Achievement Plan
 
 - [x] Huntr clearout.
 - [x] Attend 11am standup.
-- [x] Apply to job (Hackney Council).
-- [x] Apply to job (Tempo).
+- [x] Apply to job (Developer - Hackney Council).
+- [x] Apply to job (Full Stack Developer - Tempo).
 - [x] Attend Statue project standup.
 - [x] Work on portfolio site.
 - [x] Statue project work.
@@ -97,7 +97,7 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Job gathering.
-- [x] Apply to job (Pod Point).
+- [x] Apply to job (Junior Full Stack Developer - Pod Point).
 - [x] Work on portfolio site.
 - [x] Fix bank bug.
 

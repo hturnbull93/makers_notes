@@ -21,11 +21,11 @@ Achievement plans
 - [x] Attend [Who's Who in Hiring workshop]
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
-- [x] Apply for first job (Trint)
+- [x] Apply for first job (Junior Front-End Developer - Trint)
 - [x] Attend Standup
 - [x] Work on Statue Project
 - [x] Write slide deck for Documentation workshop
-- [x] Apply for another job (Nutmeg)
+- [x] Apply for another job (Front-End Engineer - Nutmeg)
 - [x] Work on Statue Project
 - [x] Deliver Documentation workshop
 - [x] Apply for another job (Stairway)
@@ -36,7 +36,7 @@ Achievement plans
 - [x] Attend [Dev Tea with Chris Ly]
 - [x] Add pics to News Summary
 - [x] Review CV with Jason
-- [x] Apply for job (Triptease)
+- [x] Apply for job (Junior/Mid Back-end Engineer - Triptease)
 
 ---
 
@@ -69,7 +69,7 @@ Objective & Achievement Plan
 - [x] Attend [Who's Who in Hiring workshop]
 - [x] Continue personal portfolio development
 - [x] Finish cover letter template
-- [x] Apply for first job (Trint)
+- [x] Apply for first job (Junior Front-End Developer - Trint)
 
 ---
 
@@ -80,7 +80,7 @@ Objective & Achievement Plan
 - [x] Attend Standup
 - [x] Work on Statue Project
 - [x] Write slide deck for Documentation workshop
-- [x] Apply for another job (Nutmeg)
+- [x] Apply for another job (Front-End Engineer - Nutmeg)
 
 ---
 
@@ -98,7 +98,7 @@ Objective & Achievement Plan
 - [x] Attend [Dev Tea with Chris Ly]
 - [x] Add pics to News Summary
 - [x] Review CV with Jason
-- [x] Apply for job (Triptease)
+- [x] Apply for job (Junior/Mid Back-end Engineer - Triptease)
 
 ---
 
