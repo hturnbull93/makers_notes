@@ -4,7 +4,7 @@
 
 Week 16 Objectives
 
-- [ ] Apply for 5 jobs this week.
+- [x] Apply for 5 jobs this week.
 
 Achievement plans
 
@@ -30,6 +30,10 @@ Achievement plans
 - [x] Attend Statue project standup.
 - [x] Continue work on individual project pages.
 - [x] Statue project work.
+- [x] Apply for job (Junior Full Stack Engineer - Stairway).
+- [x] Apply for job (Full Stack Engineer - Tails.com).
+- [x] Apply for job (Full Stack Engineer - Unmind).
+- [x] Make project page template for portfolio.
 
 ---
 
@@ -87,27 +91,26 @@ Objective & Achievement Plan
 
 Objective & Achievement Plan
 
-- [x] Apply for job ().
-- [x] Apply for job ().
-- [x] Apply for job ().
-- [x] Continue work on individual project pages.
+- [x] Apply for job (Junior Full Stack Engineer - Stairway).
+- [x] Apply for job (Full Stack Engineer - Tails.com).
+- [x] Apply for job (Full Stack Engineer - Unmind).
+- [x] Make project page template for portfolio.
 
 ---
-<!--
 
 ## Retrospective
 
 ### Achievements this week
 
 - [x] Apply for 5 jobs this week.
-- [x] Rerelease Portfolio site.
 
-### Score: 8
+### Score: 7
 
 #### Reasons for Score
 
-- I was initially aiming for 4 job applications, but I managed to do 5, and I think I am becoming swifter with them.
-- I am glad I have deployed the new version of the portfolio site, looks much better now.
+- I am glad I maintained 5 job applications this week. I also feel that the quality of my cover letters has improved, they have become more organic, less "sectiony", and I have used STAR format to address parts of the job app in them.
+- While I'm glad I did the job apps in that way, it's unclear if the improvement will pay off (fingers crossed). It took much longer to do.
+- There turns out to be more to the Statue Project data processing than I first thought, so even though I have made progress, I am not able to finish everything I set out to do for it this week.
 
 <!-- Links -->
 
