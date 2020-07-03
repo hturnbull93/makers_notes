@@ -18,9 +18,18 @@ Achievement plans
 - [x] Finish POODR review.
 - [x] Attend Statue project standup.
 - [x] Statue project work.
-- [x] Apply for job (BBC).
+- [x] Apply for job (Software Engineer - Corporate Digital & Applications - BBC).
 - [x] Write copy for top 6 projects.
 - [x] Gather images for top 6 projects.
+- [x] Attend [STAR format workshop].
+- [x] Finish work on projects page.
+- [x] Start work on individual project pages.
+- [x] Statue project work.
+- [x] Attend standup.
+- [x] Apply for job using STAR format in cover letter (Full-Stack Engineer (Ruby) - Quorso).
+- [x] Attend Statue project standup.
+- [x] Continue work on individual project pages.
+- [x] Statue project work.
 
 ---
 
@@ -45,7 +54,7 @@ Objective & Achievement Plan
 - [x] Finish POODR review.
 - [x] Attend Statue project standup.
 - [x] Statue project work.
-- [x] Apply for job (BBC).
+- [x] Apply for job (Software Engineer - Corporate Digital & Applications - BBC).
 - [x] Write copy for top 6 projects.
 - [x] Gather images for top 6 projects.
 
@@ -56,9 +65,32 @@ Objective & Achievement Plan
 Objective & Achievement Plan
 
 - [x] Attend [STAR format workshop].
-- [ ] Write more STAR format examples.
-- [ ] Finish work on project pages.
-- [ ] Statue project work.
+- [x] Finish work on projects page.
+- [x] Start work on individual project pages.
+- [x] Statue project work.
+
+---
+
+## Thursday
+
+Objective & Achievement Plan
+
+- [x] Attend standup.
+- [x] Apply for job using STAR format in cover letter (Full-Stack Engineer (Ruby) - Quorso).
+- [x] Attend Statue project standup.
+- [x] Continue work on individual project pages.
+- [x] Statue project work.
+
+---
+
+## Friday
+
+Objective & Achievement Plan
+
+- [x] Apply for job ().
+- [x] Apply for job ().
+- [x] Apply for job ().
+- [x] Continue work on individual project pages.
 
 ---
 <!--
