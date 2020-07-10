@@ -4,7 +4,7 @@
 
 Week 16 Objectives
 
-- [ ] Apply for 5 jobs this week.
+- [x] Apply for 5 jobs this week.
 
 Achievement plans
 
@@ -27,6 +27,9 @@ Achievement plans
 - [x] Attend Statue Project standup.
 - [x] Statue project work.
 - [x] Attend BBC Tech Meetup.
+- [x] Apply to job (Full Stack Developer - Nurole).
+- [x] Apply to job (Junior Web Developer - Aegis IT Ltd via Cortex Recruitment).
+- [x] Work on contact page of portfolio.
 
 ---
 
@@ -83,21 +86,23 @@ Objective & Achievement Plan
 
 - [x] Apply to job (Full Stack Developer - Nurole).
 - [x] Apply to job (Junior Web Developer - Aegis IT Ltd via Cortex Recruitment).
+- [x] Work on contact page of portfolio.
 
 ---
 
-<!--
+
 ## Retrospective
 
 ### Achievements this week
 
-- [ ] Apply for 5 jobs this week.
+- [x] Apply for 5 jobs this week.
 
 ### Score: 7
 
 #### Reasons for Score
 
-- 
+- I kept up the pace of 5 applications per week. I am getting better at STAR format for cover letters too.
+- Some more work is uncovered for the statue project, will we ever find those statues!
 
 <!-- Links -->
 
