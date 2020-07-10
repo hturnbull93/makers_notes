@@ -8,6 +8,25 @@ Week 16 Objectives
 
 Achievement plans
 
+- [x] Work on portfolio project page.
+- [x] Attend statue project standup.
+- [x] Statue project work.
+- [x] Work on portfolio blog page.
+- [x] Attend standup.
+- [x] Statue project work.
+- [x] Statue project retro.
+- [x] Work on portfolio blog page.
+- [x] Attend standup.
+- [x] Job gathering.
+- [x] Apply to job (Full-stack Software Engineer - Otta).
+- [x] Statue project work.
+- [x] Talent.io recruiter call.
+- [x] Attend job fair event.
+- [x] Apply to job (Front-End Developer - Hopin).
+- [x] Apply to job (Lead UI Developer - Riff).
+- [x] Attend Statue Project standup.
+- [x] Statue project work.
+- [x] Attend BBC Tech Meetup.
 
 ---
 
@@ -15,9 +34,55 @@ Achievement plans
 
 Objective & Achievement Plan
 
-- [ ] Work on portfolio blog page.
-- [ ] Attend statue project standup.
-- [ ] Statue project work.
+- [x] Work on portfolio project page.
+- [x] Attend statue project standup.
+- [x] Statue project work.
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [x] Work on portfolio blog page.
+- [x] Attend standup.
+- [x] Statue project work.
+- [x] Statue project retro.
+
+---
+
+## Wednesday
+
+Objective & Achievement Plan
+
+- [x] Work on portfolio blog page.
+- [x] Attend standup.
+- [x] Job gathering.
+- [x] Apply to job (Full-stack Software Engineer - Otta).
+- [x] Statue project work.
+
+---
+
+## Thursday
+
+Objective & Achievement Plan
+
+- [x] Talent.io recruiter call.
+- [x] Attend job fair event.
+- [x] Apply to job (Front-End Developer - Hopin).
+- [x] Apply to job (Lead UI Developer - Riff).
+- [x] Attend Statue Project standup.
+- [x] Statue project work.
+- [x] Attend BBC Tech Meetup.
+
+---
+
+## Friday
+
+Objective & Achievement Plan
+
+- [x] Apply to job (Full Stack Developer - Nurole).
+- [x] Apply to job (Junior Web Developer - Aegis IT Ltd via Cortex Recruitment).
 
 ---
 
