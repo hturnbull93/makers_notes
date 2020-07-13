@@ -9,6 +9,9 @@ Week 16 Objectives
 Achievement plans
 
 - [x] Apply to job (Junior Front-End Engineer - Stairway).
+- [x] Begin [Algorithmic Complexity Course]
+- [x] Statue project work.
+- [x] Attend LRUG Meetup.
 
 ---
 
@@ -17,8 +20,9 @@ Achievement plans
 Objective & Achievement Plan
 
 - [x] Apply to job (Junior Front-End Engineer - Stairway).
-- [ ] Begin [Algorithmic Complexity Course]
-- [ ] Statue project work.
+- [x] Begin [Algorithmic Complexity Course]
+- [x] Statue project work.
+- [x] Attend LRUG Meetup.
 
 ---
 
