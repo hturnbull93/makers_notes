@@ -23,6 +23,33 @@ Objective & Achievement Plan
 - [x] Begin [Algorithmic Complexity Course]
 - [x] Statue project work.
 - [x] Attend LRUG Meetup.
+- [x] Respond to interview request (Full Stack Developer - Appscore Technology).
+- [x] Prepare for interview (Full Stack Developer - Appscore Technology).
+- [x] Attend interview (Full Stack Developer - Appscore Technology).
+- [x] Attend Statue project standup.
+- [x] Statue project work.
+- [x] Attend Statue project retro.
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [x] Prepare for interview (Full Stack Developer - Appscore Technology).
+- [x] Attend interview (Full Stack Developer - Appscore Technology).
+- [x] Attend Statue project standup.
+- [x] Statue project work.
+- [x] Attend Statue project retro.
+
+---
+
+## Tuesday
+
+Objective & Achievement Plan
+
+- [x] Work on statue project writeup.
+- [x] Attend standup.
 
 ---
 
