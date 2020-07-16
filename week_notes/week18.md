@@ -29,6 +29,15 @@ Objective & Achievement Plan
 - [x] Attend Statue project standup.
 - [x] Statue project work.
 - [x] Attend Statue project retro.
+- [x] Attend standup.
+- [x] Work on Statue project writeup.
+- [x] Statue project frontend work.
+- [x] Interview prep.
+- [x] Attend standup.
+- [x] Work on statue project writeup.
+- [x] Statue project frontend code review.
+- [x] Interview prep.
+- [x] Mock interview with Alice.
 
 ---
 
@@ -44,12 +53,26 @@ Objective & Achievement Plan
 
 ---
 
-## Tuesday
+## Wednesday
 
 Objective & Achievement Plan
 
-- [x] Work on statue project writeup.
 - [x] Attend standup.
+- [x] Work on Statue project writeup.
+- [x] Statue project frontend work.
+- [x] Interview prep.
+
+---
+
+## Thursday
+
+Objective & Achievement Plan
+
+- [x] Attend standup.
+- [x] Work on statue project writeup.
+- [x] Statue project frontend code review.
+- [x] Interview prep.
+- [x] Mock interview with Alice.
 
 ---
 
