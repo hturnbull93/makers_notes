@@ -4,7 +4,7 @@
 
 Week 16 Objectives
 
-- [ ] Apply for 5 jobs this week.
+- [x] Apply for 5 jobs this week.
 
 Achievement plans
 
@@ -38,6 +38,11 @@ Objective & Achievement Plan
 - [x] Statue project frontend code review.
 - [x] Interview prep.
 - [x] Mock interview with Alice.
+- [x] Apply for job (Junior Front End Developer - via Understanding Recruitment).
+- [x] Apply for job (Junior JavaScript Engineer - via Understanding Recruitment).
+- [x] Apply for job (Fullstack Software Development Engineer (Ruby & React) - GoCardless).
+- [x] Apply for job (Software Engineer (Web, Full Stack) - Farewill).
+- [x] Interview prep.
 
 ---
 
@@ -76,19 +81,31 @@ Objective & Achievement Plan
 
 ---
 
-<!--
+## Friday
+
+Objective & Achievement Plan
+
+- [x] Apply for job (Junior Front End Developer - via Understanding Recruitment).
+- [x] Apply for job (Junior JavaScript Engineer - via Understanding Recruitment).
+- [x] Apply for job (Fullstack Software Development Engineer (Ruby & React) - GoCardless).
+- [x] Apply for job (Software Engineer (Web, Full Stack) - Farewill).
+- [x] Interview prep.
+
+---
+
 ## Retrospective
 
 ### Achievements this week
 
 - [x] Apply for 5 jobs this week.
 
-### Score: 7
+### Score: 8
 
 #### Reasons for Score
 
-- I kept up the pace of 5 applications per week. I am getting better at STAR format for cover letters too.
-- Some more work is uncovered for the statue project, will we ever find those statues!
+- It's been both exciting and scary to get an interview.
+- I only made small progress on the Algorithmic Complexity course due to interview prepping.
+- Statue project data processing is finally done.
 
 <!-- Links -->
 
