@@ -12,17 +12,6 @@ Achievement plans
 - [x] Begin [Algorithmic Complexity Course]
 - [x] Statue project work.
 - [x] Attend LRUG Meetup.
-
----
-
-## Monday
-
-Objective & Achievement Plan
-
-- [x] Apply to job (Junior Front-End Engineer - Stairway).
-- [x] Begin [Algorithmic Complexity Course]
-- [x] Statue project work.
-- [x] Attend LRUG Meetup.
 - [x] Respond to interview request (Full Stack Developer - Appscore Technology).
 - [x] Prepare for interview (Full Stack Developer - Appscore Technology).
 - [x] Attend interview (Full Stack Developer - Appscore Technology).
@@ -43,6 +32,18 @@ Objective & Achievement Plan
 - [x] Apply for job (Fullstack Software Development Engineer (Ruby & React) - GoCardless).
 - [x] Apply for job (Software Engineer (Web, Full Stack) - Farewill).
 - [x] Interview prep.
+
+---
+
+## Monday
+
+Objective & Achievement Plan
+
+- [x] Apply to job (Junior Front-End Engineer - Stairway).
+- [x] Begin [Algorithmic Complexity Course]
+- [x] Statue project work.
+- [x] Attend LRUG Meetup.
+- [x] Respond to interview request (Full Stack Developer - Appscore Technology).
 
 ---
 
