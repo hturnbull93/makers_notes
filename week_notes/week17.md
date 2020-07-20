@@ -2,7 +2,7 @@
 
 [Back](README.md)
 
-Week 16 Objectives
+Week 17 Objectives
 
 - [x] Apply for 5 jobs this week.
 
@@ -89,7 +89,6 @@ Objective & Achievement Plan
 - [x] Work on contact page of portfolio.
 
 ---
-
 
 ## Retrospective
 
